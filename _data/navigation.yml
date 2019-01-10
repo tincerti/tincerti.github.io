@@ -7,7 +7,7 @@ main:
     url: /working_papers/    
     
   - title: "CV"
-    url: /cv/
+    url: http://tincerti.github.io/files/CV.pdf
 
   - title: "Contact"
     url: /contact/
