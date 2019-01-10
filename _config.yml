@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Trevor Incerti"
-  avatar           : "/images/profile_ti"
+  avatar           : "images/profile_ti.png"
   bio              : "PhD Student in Political Science, Yale University"
   location         : "New Haven, CT"
   employer         :
