@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,6 +7,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
+A PDF version of my CV is available [here](http://tincerti.github.io/files/CV.pdf)
+
 
 ### Education
 * M.A. Political Science, Yale University, 2018
