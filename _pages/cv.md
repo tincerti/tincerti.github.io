@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-###### Education
+### Education
 * M.A. Political Science, Yale University, 2018
 * B.A. Political Economy, University of California Berkeley, 2012
 * B.A. Asian Studies (Japan), University of California Berkeley, 2012
