@@ -5,12 +5,8 @@ permalink: /working_papers/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Trevor Incerti, Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, and Jiahua Yue, ''Nationalism and Accountability: Support for Repression in China and Japan'' (*under review*)
 
-{% include base_path %}
+Incerti, Trevor, and Lipscy, Phillip, ''The Politics of Energy in Japan'' (*under review*)
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+Incerti, Devin, and Incerti, Trevor, ''[Are regime changes always bad economics? Evidence from daily financial data](http://devinincerti.com/papers/political-instability-finance.pdf)''
