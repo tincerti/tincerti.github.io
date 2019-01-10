@@ -9,11 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+###### Education
+* M.A. Political Science, Yale University, 2018
+* B.A. Political Economy, University of California Berkeley, 2012
+* B.A. Asian Studies (Japan), University of California Berkeley, 2012
 
 Work experience
 ======
