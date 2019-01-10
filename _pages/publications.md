@@ -13,4 +13,4 @@ Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disas
 
 ### Book Chapters
 
-Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''Were Japan?s Nuclear Plants Uniquely Vulnerable?'' in Edward Blandford and Scott D. Sagan eds., Learning from a Disaster: Improving Nuclear Safety and Security after Fukushima, Stanford University Press (2016).
+Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''Were Japan's Nuclear Plants Uniquely Vulnerable?'' in Edward Blandford and Scott D. Sagan eds., Learning from a Disaster: Improving Nuclear Safety and Security after Fukushima, Stanford University Press (2016).
