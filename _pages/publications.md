@@ -5,12 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+### Journal Articles
 
-{% include base_path %}
+Incerti, Trevor and Lipscy, Phillip. ?The politics of energy and climate change in Japan under Abe.? *Asian Survey*, 58.4 (2018).
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
+### Book Chapters
+
+
