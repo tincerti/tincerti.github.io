@@ -9,4 +9,4 @@ Trevor Incerti, Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, and Jiahua Y
 
 Incerti, Trevor, and Lipscy, Phillip, ''The Politics of Energy in Japan'' (*under review*)
 
-Incerti, Devin, and Incerti, Trevor, ''[Are regime changes always bad economics? Evidence from daily financial data](http://devinincerti.com/papers/political-instability-finance.pdf)''
+Incerti, Devin, and Incerti, Trevor, ''[Are regime changes always bad economics? Evidence from daily financial data](http://tincerti.github.io/files/regime_changes.pdf)''
