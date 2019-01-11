@@ -11,7 +11,7 @@ html {
   font-size: 14px;
 
   @include breakpoint($medium) {
-    font-size: 30px;
+    font-size: 14px;
   }
 
   -webkit-text-size-adjust: 100%;
@@ -88,7 +88,7 @@ a:active {
 sub,
 sup {
   position: relative;
-  font-size: 75%;
+  font-size: 100%;
   line-height: 0;
   vertical-align: baseline;
 }
