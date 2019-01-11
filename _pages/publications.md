@@ -7,7 +7,7 @@ author_profile: true
 
 ### Journal Articles
 
-Incerti, Trevor and Lipscy, Phillip. ''[The politics of energy and climate change in Japan under Abe](http://as.ucpress.edu/content/ucpas/58/4/607.full.pdf).'' *Asian Survey*, 58.4 (2018). 
+Incerti, Trevor and Lipscy, Phillip. ''[The politics of energy and climate change in Japan under Abe](http://tincerti.github.io/files/AS5804_01_Incerti_and_Lipscy.pdf).'' *Asian Survey*, 58.4 (2018). 
 
 Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective](https://pubs.acs.org/doi/pdfplus/10.1021/es4004813)'' *Environmental Science & Technology*, 47.12 (2013): 6082-6088.
 
