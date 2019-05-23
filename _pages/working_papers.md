@@ -11,4 +11,4 @@ Incerti, Trevor, and Lipscy, Phillip, ''The Politics of Energy in Japan'' (*unde
 
 Incerti, Devin, and Incerti, Trevor, ''[Are regime changes always bad economics? Evidence from daily financial data](http://tincerti.github.io/files/regime_changes.pdf)'' (*under review*)
 
-Incerti, Trevor, ''Corruption information and vote share: A meta-analysis and lessons for survey experiments''
+Incerti, Trevor, ''[Corruption information and vote share: A meta-analysis and lessons for survey experiments](http://tincerti.github.io/files/corruption_voting_meta.pdf)''
