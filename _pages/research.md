@@ -13,7 +13,7 @@ Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disas
 
 ### Book Chapters
 
-Incerti, Trevor and Lipscy, Phillip. ``The politics of energy in Japan''  Forthcoming in \emph{The Oxford Handbook of Energy Politics} (2019). (\textit{Peer reviewed})
+Incerti, Trevor and Lipscy, Phillip. ''The politics of energy in Japan.'' Forthcoming in *The Oxford Handbook of Energy Politics* (2019). (*Peer reviewed*)
 
 Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''Were Japan's Nuclear Plants Uniquely Vulnerable?'' in Edward Blandford and Scott D. Sagan eds., Learning from a Disaster: Improving Nuclear Safety and Security after Fukushima, Stanford University Press (2016).
 
@@ -27,7 +27,7 @@ Incerti, Trevor, ''[Corruption information and vote share: A meta-analysis and l
 
 ### Other writing
 
-Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti, \href{https://www.washingtonpost.com/opinions/protecting-nuclear-plants-from-natures-worst/2012/10/31/5af389ac-2374-11e2-8448-81b1ce7d6978_story.html?noredirect=on&utm_term=.fd1845f1ab1a}{``Protecting nuclear plants from nature's worst,''} \emph{The Washington Post} (2012) 
+Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti, ''[Protecting nuclear plants from nature's worst](https://www.washingtonpost.com/opinions/protecting-nuclear-plants-from-natures-worst/2012/10/31/5af389ac-2374-11e2-8448-81b1ce7d6978_story.html?noredirect=on&utm_term=.fd1845f1ab1a}) *The Washington Post* (2012) 
 
 
 
