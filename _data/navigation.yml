@@ -2,9 +2,6 @@
 main:
   - title: "Research"
     url: /research/
-
-  - title: "Working Papers"
-    url: /working_papers/    
     
   - title: "CV"
     url: http://tincerti.github.io/files/CV.pdf

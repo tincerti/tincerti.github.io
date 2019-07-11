@@ -27,7 +27,7 @@ Incerti, Trevor, ''[Corruption information and vote share: A meta-analysis and l
 
 ### Other writing
 
-Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti, ''[Protecting nuclear plants from nature's worst](https://www.washingtonpost.com/opinions/protecting-nuclear-plants-from-natures-worst/2012/10/31/5af389ac-2374-11e2-8448-81b1ce7d6978_story.html?noredirect=on&utm_term=.fd1845f1ab1a}) *The Washington Post* (2012) 
+Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti, ''[Protecting nuclear plants from nature's worst](https://www.washingtonpost.com/opinions/protecting-nuclear-plants-from-natures-worst/2012/10/31/5af389ac-2374-11e2-8448-81b1ce7d6978_story.html?noredirect=on&utm_term=.fd1845f1ab1a})'' *The Washington Post* (2012) 
 
 
 
