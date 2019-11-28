@@ -22,7 +22,7 @@ author_profile: true
 ### Working Papers
 
 
-- Trevor Incerti, Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, and Jiahua Yue, ''The Anti-Democratic Peace: How political parties shape nationalist conflicts.'' Revise and resubmit, *British Journal of Political Science*
+- Trevor Incerti, Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, and Jiahua Yue, ''Hawkish partisans: How political parties shape nationalist conflicts in China and Japan.'' Revise and resubmit, *British Journal of Political Science*
 
 - Incerti, Trevor, ''[Corruption information and vote share: A meta-analysis and lessons for experimental design](http://tincerti.github.io/files/corruption_voting_meta.pdf)'' Revise and resubmit, *American Political Science Review*
 
