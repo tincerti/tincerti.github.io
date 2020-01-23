@@ -21,7 +21,7 @@ author_profile: true
 
 ### Working Papers
 
-- Incerti, Trevor, ''[Corruption information and vote share: A meta-analysis and lessons for experimental design](http://tincerti.github.io/files/corruption_voting_meta.pdf)'' Revise and resubmit, *American Political Science Review*
+- Incerti, Trevor, ''[Corruption information and vote share: A meta-analysis and lessons for experimental design](http://tincerti.github.io/files/corruption_voting_meta.pdf)'' Conditionally accepted, *American Political Science Review*
 
 - Incerti, Devin, and Incerti, Trevor, ''[Are regime changes always bad economics? Evidence from daily financial data](http://tincerti.github.io/files/regime_changes.pdf)'' (*under review*)
 
