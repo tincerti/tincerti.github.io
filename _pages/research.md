@@ -7,7 +7,7 @@ author_profile: true
 
 ### Journal Articles
 
-- Trevor Incerti, Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, and Jiahua Yue, ''Hawkish partisans: How political parties shape nationalist conflicts in China and Japan.'' *British Journal of Political Science*, forthcoming. 
+- Trevor Incerti, Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, and Jiahua Yue, ''[Hawkish partisans: How political parties shape nationalist conflicts in China and Japan](https://static1.squarespace.com/static/51cdc7e5e4b0d7474642bcb0/t/5e24b95af068c869fe4a2600/1579465050913/Hawkish_Partisans_Final.pdf).'' *British Journal of Political Science*, forthcoming. 
 
 - Incerti, Trevor and Lipscy, Phillip. ''[The politics of energy and climate change in Japan under Abe](http://tincerti.github.io/files/AS5804_01_Incerti_and_Lipscy.pdf).'' *Asian Survey*, 58.4 (2018). 
 
