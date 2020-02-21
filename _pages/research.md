@@ -7,7 +7,7 @@ author_profile: true
 
 ### Journal Articles
 
-- Incerti, Trevor, ''[Corruption information and vote share: A meta-analysis and lessons for experimental design](http://tincerti.github.io/files/corruption_voting_meta.pdf)'' *American Political Science Review* , forthcoming. [Replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HD7UUU).
+- Incerti, Trevor, ''[Corruption information and vote share: A meta-analysis and lessons for experimental design](http://tincerti.github.io/files/corruption_voting_meta.pdf),'' *American Political Science Review*, forthcoming. [Replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HD7UUU).
 
 - Trevor Incerti, Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, and Jiahua Yue, ''[Hawkish partisans: How political parties shape nationalist conflicts in China and Japan](https://static1.squarespace.com/static/51cdc7e5e4b0d7474642bcb0/t/5e24b95af068c869fe4a2600/1579465050913/Hawkish_Partisans_Final.pdf).'' *British Journal of Political Science*, forthcoming. [Online Appendix](https://static1.squarespace.com/static/51cdc7e5e4b0d7474642bcb0/t/5e24b991f8b9515a76adb72c/1579465108985/Hawkish_Partisans_Online_Appendix.pdf).
 
