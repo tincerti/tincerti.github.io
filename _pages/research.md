@@ -17,7 +17,7 @@ author_profile: true
 
 ### Book Chapters
 
-- Incerti, Trevor and Phillip Lipscy. ''The politics of energy in Japan.'' Forthcoming in *The Oxford Handbook of Energy Politics* (2019). (*Peer reviewed*)
+- Incerti, Trevor and Phillip Lipscy. ''[The energy politics of Japan](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360-e-21).'' In [*The Oxford Handbook of Energy Politics*](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360) (2019). (*Peer reviewed*)
 
 - Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''Were Japan's Nuclear Plants Uniquely Vulnerable?'' in Edward Blandford and Scott D. Sagan eds., Learning from a Disaster: Improving Nuclear Safety and Security after Fukushima, Stanford University Press (2016).
 
