@@ -206,7 +206,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: splash
+      layout: single
       author_profile: true
       search: true
   # _teaching
