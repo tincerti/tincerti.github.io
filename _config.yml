@@ -315,3 +315,7 @@ gallery:
   - image_path: /images/solar_kamisu.jpg
   - image_path: /images/revolving_door.png
   - image_path: /images/chord.png
+
+header:
+  overlay_image: /images/solar_kamisu.jpg
+  overlay_filter: 0.5
