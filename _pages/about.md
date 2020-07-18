@@ -1,7 +1,7 @@
 ---
 layout: splash
 header:
-  overlay_image: https://www.trevorincerti.com/images/header.png
+  overlay_image: https://www.trevorincerti.com/images/fuji_solar.jpeg
   overlay_filter: 0.25
 search: true
 excerpt: "PhD Candidate, Political Science, Yale University"
