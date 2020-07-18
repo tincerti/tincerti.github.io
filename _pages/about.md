@@ -4,7 +4,11 @@ header:
   overlay_image: https://www.trevorincerti.com/images/skyline_header.jpeg
   overlay_filter: 0.25
 search: true
-excerpt: "PhD Candidate in Political Science | Yale University"
+excerpt: |
+  PhD Candidate in Political Science
+  <br>
+  Yale University
+  <br>
 permalink: /
 redirect_from: 
   - /about/
