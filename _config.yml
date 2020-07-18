@@ -48,7 +48,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
-search                   : true
+
 
 # SEO Related
 google_site_verification :
@@ -200,6 +200,7 @@ defaults:
       comments: true
       share: true
       related: true
+      search: true
   # _pages
   - scope:
       path: ""
@@ -207,6 +208,7 @@ defaults:
     values:
       layout: splash
       author_profile: false
+      search: true
   # _teaching
   - scope:
       path: ""
