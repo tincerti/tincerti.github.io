@@ -88,7 +88,7 @@ author:
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=TE5-tI0AAAAJ&hl=en&oi=ao"
   email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            :
+  orcid            : "https://orcid.org/0000-0003-3317-3533"
   pinterest        :
   soundcloud       :
   stackoverflow    :
