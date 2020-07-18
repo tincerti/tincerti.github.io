@@ -12,10 +12,15 @@ Welcome to my website! I am a PhD Candidate in Political Science at Yale Univers
 
 Prior to Yale, I worked as a Data Scientist for TrueCar, Inc., where I developed forecasting models to predict automotive residual values and sales volumes in the US and Canada. Before that, I analyzed regulatory matters that raised risks of antitrust violations as an economic consultant at Compass Lexecon. 
 
-{% include gallery %}
-
-<p align="middle">
-  <img src="https://www.trevorincerti.com/images/solar_kamisu.jpg" height="100" />
-  <img src="https://www.trevorincerti.com/images/revolving_door.png" height="100" /> 
-  <img src="https://www.trevorincerti.com/images/chord.png" height="100" />
-</p>
+<table>
+  <tr>
+    <td> </td>
+     <td> </td>
+     <td> </td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="https://www.trevorincerti.com/images/solar_kamisu.jpg"></td>
+    <td valign="top"><img src="https://www.trevorincerti.com/images/revolving_door.png"></td>
+    <td valign="top"><https://www.trevorincerti.com/images/chord.png"></td>
+  </tr>
+ </table>
