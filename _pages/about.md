@@ -14,6 +14,8 @@ Prior to Yale, I worked as a Data Scientist for TrueCar, Inc., where I developed
 
 &nbsp;
 
- <p align="center">
-  <img src="https://www.trevorincerti.com/images/fakeplot.jpg" width="95%" />
+ <p float="left">
+  <img src="https://www.trevorincerti.com/images/solar_kamisu.jpeg" width="32%" />
+  <img src="https://www.trevorincerti.com/images/plot.jpeg" width="32%" />
+  <img src="https://www.trevorincerti.com/images/meti.jpeg" width="32%" /> 
 </p>
