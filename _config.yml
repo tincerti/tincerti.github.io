@@ -308,3 +308,11 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
+gallery:
+  - url: /images/solar_kamisu.jpg
+    image_path: /images/solar_kamisu.jpg
+  - url: /images/revolving_door.png
+    image_path: /images/revolving_door.png
+  - url: /images/chord.png
+    image_path: /images/chord.png
