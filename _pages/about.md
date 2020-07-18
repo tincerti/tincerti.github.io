@@ -5,7 +5,6 @@ header:
   overlay_filter: 0.5
 search: true
 permalink: /
-excerpt: "About me"
 redirect_from: 
   - /about/
   - /about.html
