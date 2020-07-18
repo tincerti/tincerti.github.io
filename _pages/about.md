@@ -3,6 +3,10 @@ layout: splash
 header:
   overlay_image: https://www.trevorincerti.com/images/solar_header.jpeg
   overlay_filter: 0.25
+ gallery:
+  - image_path: https://www.trevorincerti.com/images/solar_kamisu.jpeg
+  - image_path: https://www.trevorincerti.com/images/plot.jpeg
+  - image_path: https://www.trevorincerti.com/images/meti.jpeg
 search: true
 excerpt: "PhD Candidate, Political Science, Yale University"
 permalink: /
