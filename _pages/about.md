@@ -2,7 +2,7 @@
 layout: splash
 header:
   overlay_image: https://www.trevorincerti.com/images/header.png
-  overlay_filter: 0.75
+  overlay_filter: 0.25
 search: true
 excerpt: "PhD Candidate, Political Science, Yale University"
 permalink: /
