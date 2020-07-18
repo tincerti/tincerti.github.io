@@ -1,5 +1,8 @@
 ---
 layout: splash
+header:
+  overlay_image: /images/solar_kamisu.jpeg
+  overlay_filter: 0.5
 search: true
 permalink: /
 excerpt: "About me"

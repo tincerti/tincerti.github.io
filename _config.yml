@@ -317,5 +317,5 @@ gallery:
   - image_path: /images/chord.png
 
 header:
-  overlay_image: /images/solar_kamisu.jpg
+  overlay_image: /images/solar_kamisu.jpeg
   overlay_filter: 0.5
