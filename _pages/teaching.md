@@ -13,7 +13,7 @@ You can find some example lessons on various topics at the following links: [lea
 
 In addition to statistical methods and research design, I also hope to teach courses in substantive areas of political economy such as political corruption and market regulation.  
 
-### Evaluations
+### Teaching Evaluations
 
 [Foundations of Statistical Inference](http://www.trevorincerti.com/files/evaluation_500.pdf)
 
