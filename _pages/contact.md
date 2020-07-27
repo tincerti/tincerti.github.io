@@ -13,7 +13,7 @@ New Haven, CT 06520-8301
 trevor.incerti@yale.edu
 
  <p float="left">
-  <img src="https://www.trevorincerti.com/images/solar_kamisu.jpeg" width="32%" />
+  <img class="roundrect" src="https://www.trevorincerti.com/images/solar_kamisu.jpeg" width="32%" />
   <img src="https://www.trevorincerti.com/images/plot.jpeg" width="32%" />
-  <img src="https://www.trevorincerti.com/images/meti.jpeg" width="32%" /> 
+  <img class="roundrect" src="https://www.trevorincerti.com/images/meti.jpeg" width="32%" /> 
 </p>
