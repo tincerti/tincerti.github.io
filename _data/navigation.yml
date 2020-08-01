@@ -6,6 +6,9 @@ main:
   - title: "CV"
     url: http://tincerti.github.io/files/CV.pdf
 
+  - title: "Teaching"
+    url: /teaching/
+
   - title: "Contact"
     url: /contact/
     
