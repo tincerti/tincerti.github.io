@@ -6,7 +6,8 @@ author_profile: false
 ---
 
 ### Teaching Experience
-<br>
+&nbsp;
+&nbsp;
 
 My teaching experience consists of two semesters of teaching assistance for graduate level courses in statistical methods and research design. These courses are: Foundations of Statistical Inference (taught by Professor [Peter Aronow](https://peteraronow.github.io)) and Design and Analysis of Randomized Field Experiments (taught by Professor [Alexander Coppock](https://alexandercoppock.com)). 
 
@@ -15,7 +16,8 @@ You can find examples of some of my lessons at the following links: [learning fr
 In addition to statistical methods and research design, I also hope to teach courses in substantive areas of political economy such as political corruption and market regulation.  
 
 ### Teaching Evaluations
-<br>
+&nbsp;
+&nbsp;
 
 [Foundations of Statistical Inference](http://www.trevorincerti.com/files/evaluation_500.pdf)
 
