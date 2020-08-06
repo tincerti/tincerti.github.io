@@ -5,9 +5,7 @@ header:
   overlay_filter: 0.25
 search: true
 excerpt: |
-  PhD Candidate 
-  <br>
-  Political Science
+  PhD Candidate in Political Science
   <br>
   Yale University
   <br>
