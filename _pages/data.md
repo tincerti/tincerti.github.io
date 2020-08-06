@@ -6,6 +6,7 @@ author_profile: false
 ---
 
 ### Data
+<br>
 
 I am currently involved in two ongoing data collection processes. Both data sets will be made publicly available upon completion and validation: 
 
