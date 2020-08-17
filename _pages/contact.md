@@ -15,7 +15,7 @@ trevor.incerti@yale.edu
 &nbsp;
 
  <p float="left">
-  <img src="https://www.trevorincerti.com/images/solar_kamisu.jpeg" width="33%" style="border-radius:8%" />
-  <img src="https://www.trevorincerti.com/images/chord.png" width="30%" />
-  <img src="https://www.trevorincerti.com/images/meti.jpeg" width="33%" style="border-radius:8%" /> 
+  <img src="https://www.trevorincerti.com/images/solar_kamisu.jpeg" width="34%" style="border-radius:8%" />
+  <img src="https://www.trevorincerti.com/images/chord.png" width="29%" />
+  <img src="https://www.trevorincerti.com/images/meti.jpeg" width="34%" style="border-radius:8%" /> 
 </p>
