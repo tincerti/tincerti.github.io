@@ -18,7 +18,7 @@ You can find examples of some of my lessons at the following links:
 
 In addition to statistical methods and research design, I also hope to teach courses in substantive areas of political economy such as political corruption and market regulation.  
 
-&nbsp;
+
 
 ### Teaching Evaluations
 
