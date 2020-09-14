@@ -14,6 +14,7 @@ I am currently involved in two ongoing data collection processes. Both data sets
 	- [Flows of bureaucrats from ministries to top public interest corporations](https://www.trevorincerti.com/files/public_interest_chord.jpeg).
 	- [Flows of bureaucrats from ministries to top private sector corporations](https://www.trevorincerti.com/files/private_chord.jpeg).  
 
+&nbsp;
 
 - *Procurement* (with Hikaru Yamagishi): A dataset of all products procured from the private sector by the Japanese government from 2003 - 2018, including the agency or ministry which made the purchase, the company the product was purchased from, and the value of the contract.
 
