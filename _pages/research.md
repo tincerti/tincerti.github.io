@@ -17,7 +17,7 @@ author_profile: false
     - Coverage: [*The New Yorker*](https://www.newyorker.com/news/evan-osnos/sandy-fukushima-and-the-nuclear-industry)
     
     
-1. Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective](https://pubs.acs.org/doi/pdfplus/10.1021/es4004813).'' *Environmental Science & Technology*, [47.12](http://tincerti.github.io/files/est_cover.jpg) (2013): 6082-6088.  
+- Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective](https://pubs.acs.org/doi/pdfplus/10.1021/es4004813).'' *Environmental Science & Technology*, [47.12](http://tincerti.github.io/files/est_cover.jpg) (2013): 6082-6088.  
     * Coverage: [*The New Yorker*](https://www.newyorker.com/news/evan-osnos/sandy-fukushima-and-the-nuclear-industry)
 
 ### Book Chapters
