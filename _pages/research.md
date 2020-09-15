@@ -12,12 +12,8 @@ author_profile: false
 - Incerti, Trevor, Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, and Jiahua Yue. ''[Hawkish partisans: How political parties shape nationalist conflicts in China and Japan](https://www.cambridge.org/core/journals/british-journal-of-political-science/article/hawkish-partisans-how-political-parties-shape-nationalist-conflicts-in-china-and-japan/D625B68B3659A3CAD1A1D56E12AB45C3).'' *British Journal of Political Science* (2020): 1-22. [Online Appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S0007123420000095/resource/name/S0007123420000095sup001.pdf). [Replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4YXQB).
 
 - Incerti, Trevor and Phillip Lipscy. ''[The politics of energy and climate change in Japan under Abe](http://tincerti.github.io/files/AS5804_01_Incerti_and_Lipscy.pdf).'' *Asian Survey*, 58.4 (2018). 
-
-1. Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective](https://pubs.acs.org/doi/pdfplus/10.1021/es4004813).'' *Environmental Science & Technology*, [47.12](http://tincerti.github.io/files/est_cover.jpg) (2013): 6082-6088.    
-     * Coverage: [*The New Yorker*](https://www.newyorker.com/news/evan-osnos/sandy-fukushima-and-the-nuclear-industry)
     
-- Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective](https://pubs.acs.org/doi/pdfplus/10.1021/es4004813).'' *Environmental Science & Technology*, [47.12](http://tincerti.github.io/files/est_cover.jpg) (2013): 6082-6088.  
-    * Coverage: [*The New Yorker*](https://www.newyorker.com/news/evan-osnos/sandy-fukushima-and-the-nuclear-industry)
+- Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective](https://pubs.acs.org/doi/pdfplus/10.1021/es4004813).'' *Environmental Science & Technology*, [47.12](http://tincerti.github.io/files/est_cover.jpg) (2013): 6082-6088.  Media coverage: [*The New Yorker*](https://www.newyorker.com/news/evan-osnos/sandy-fukushima-and-the-nuclear-industry)
 
 ### Book Chapters
 
