@@ -5,10 +5,11 @@ permalink: /contact/
 author_profile: true
 ---
 
-Department of Political Science \\
-Yale University \\
-115 Prospect St \\
-New Haven, CT 06520-8301
+Institute of Social Science \\
+University of Tokyo \\
+7-3-1 Hongo, Bunkyo-ku \\
+Tokyo 113-0033 \\
+Japan
 
 trevor.incerti@yale.edu
 
