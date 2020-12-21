@@ -8,7 +8,6 @@ author_profile: false
 ### Journal Articles
 
 - Incerti, Trevor. ''[Corruption information and vote share: A meta-analysis and lessons for experimental design](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB2ACE468B04EAB85CAF7379F9DF4817/S000305542000012Xa.pdf/corruption_information_and_vote_share_a_metaanalysis_and_lessons_for_experimental_design.pdf).'' *American Political Science Review*, 114.3 (2020): 761-774. [Online appendix](https://static.cambridge.org/content/id/urn:cambridge.org:id:article:S000305542000012X/resource/name/S000305542000012Xsupp001.pdf). [Replication data](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/HD7UUU).
-
 <details><summary>Abstract</summary>
 <p>
 
