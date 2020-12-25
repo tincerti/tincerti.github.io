@@ -11,8 +11,8 @@ I am currently involved in two ongoing data collection processes. Both data sets
 
 - *Amakudata* (with Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi): A dataset of all Japanese bureaucrats who have retired to positions in the private sector (i.e. revolving door or "amakudari" appointments) from 2009 - 2019. While the full dataset is forthcoming, some preliminary descriptive statistics and data visualizations are presented at the following links:  
 	- [Flows of bureaucrats from ministries to publicly traded companies by industry](https://www.trevorincerti.com/files/ministry_industry.html).
-	- [Flows of bureaucrats from ministries to top public interest corporations](https://www.trevorincerti.com/files/public_interest_chord.jpeg).
-	- [Flows of bureaucrats from ministries to top private sector corporations](https://www.trevorincerti.com/files/private_chord.jpeg).  
+	- [Flows of bureaucrats from ministries to top public interest corporations](https://www.trevorincerti.com/files/ministry_publicinterest.html).
+	- [Flows of bureaucrats from ministries to top private sector corporations](https://www.trevorincerti.com/files/ministry_private.html).  
 
 &nbsp;
 
