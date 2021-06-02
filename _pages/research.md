@@ -33,11 +33,11 @@ author_profile: false
   
  - Incerti, Trevor, Changwook Ju, Daniel Mattingly, Collin Moreshead, Frances Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. ''The logic of soft power competition: Evidence from East Asia.''
  
- ### Works in Progress
+### Works in Progress
  
- - Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
+- Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
  
- -  Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''Amakudata: A new dataset of revolving door hires.''
+- Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''Amakudata: A new dataset of revolving door hires.''
 
 ### Other Writing
 
