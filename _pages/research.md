@@ -35,9 +35,9 @@ author_profile: false
  
  ### Works in Progress
  
- Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
+ - Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
  
- Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''Amakudata: A new dataset of revolving door hires.''
+ -  Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''Amakudata: A new dataset of revolving door hires.''
 
 ### Other Writing
 
