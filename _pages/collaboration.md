@@ -27,4 +27,4 @@ I believe science is improved by collaboration with researchers with diverse bac
 - [Jiahua Yue](https://yjh1222.github.io/) (Yale University)  
 
 
-{% include coauthor_network.html %}
+{% include_cached coauthor_network.html %}
