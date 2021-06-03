@@ -11,7 +11,8 @@ University of Tokyo \\
 Tokyo 113-0033 \\
 Japan
 
-Email: trevor.incerti@yale.edu 
+Email: trevor.incerti@yale.edu  
+
 Click [here](https://calendly.com/trevor-incerti/) to set up a Calendly meeting. 
 
 &nbsp;
