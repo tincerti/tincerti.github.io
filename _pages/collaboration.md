@@ -18,7 +18,7 @@ I believe science is improved by collaboration with researchers with diverse bac
 - [Kenji Kushida](https://www.kenjikushida.org/) (Stanford University)  
 - [Phillip Lipscy](http://www.lipscy.org/) (University of Toronto)  
 - [Daniel Mattingly](http://daniel-mattingly.com/) (Yale University)  
-- [Collin Moreshead](https://politicalscience.yale.edu/people/colin-moreshead) (Yale University)  
+- [Colin Moreshead](https://politicalscience.yale.edu/people/colin-moreshead) (Yale University)  
 - [Sayumi Miyano](https://politics.princeton.edu/people/sayumi-miyano) (Princeton University)  
 - [Frances Rosenbluth](https://campuspress.yale.edu/francesrosenbluth/) (Yale University)  
 - [Diana Stanescu](https://scholar.princeton.edu/dmstanescu/home) (Princeton University)  
