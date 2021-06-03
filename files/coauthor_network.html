@@ -253,13 +253,13 @@
   function tryEval(code) {
     var result = null;
     try {
-      result = eval(code);
+      result = eval("(" + code + ")");
     } catch(error) {
       if (!error instanceof SyntaxError) {
         throw error;
       }
       try {
-        result = eval("(" + code + ")");
+        result = eval(code);
       } catch(e) {
         if (e instanceof SyntaxError) {
           throw error;
@@ -5188,11 +5188,11 @@ HTMLWidgets.widget({
 </head>
 <body style="background-color: white;">
 <div id="htmlwidget_container">
-<div id="htmlwidget-151b595454df6d830021" class="visNetwork html-widget" style="width:800px;height:800px;">
+<div id="htmlwidget-b513fff983cb5db81a67" class="visNetwork html-widget" style="width:800px;height:800px;">
 
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-151b595454df6d830021">{"x":{"nodes":{"id":[1,2,3,4,5,6,7,8],"label":["D Incerti","D Mattingly","F Rosenbluth","J Yue","KE Kushida","PY Lipscy","S Tanaka","T Incerti"],"title":["D Incerti","D Mattingly","F Rosenbluth","J Yue","KE Kushida","PY Lipscy","S Tanaka","T Incerti"],"size":[12.5,12.5,12.5,12.5,12.5,17.9930614433406,12.5,21.4587973461403],"x":[-0.939639040246558,-0.803754701644795,-0.146896428629048,-0.333156825567145,1,0.548492511981626,-1,-0.185660506845756],"y":[1,-0.997551258937016,-1,-0.572118028217703,0.462052664375865,0.958414250242093,-0.502939476907828,0.0553560138279794]},"edges":{"from":[1,2,2,2,2,3,3,3,4,4,5,5,6,7],"to":[8,3,4,7,8,4,7,8,7,8,6,8,8,8]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","physics":false,"color":{"hover":{"border":"blue"},"background":"white","highlight":"blue"}},"manipulation":{"enabled":false},"edges":{"smooth":false,"color":{"highlight":"lightblue"},"selectionWidth":5},"physics":{"stabilization":false}},"groups":null,"width":800,"height":800,"idselection":{"enabled":true,"style":"width: 150px; height: 26px","useLabels":true,"main":"Select by Author"},"byselection":{"enabled":false,"style":"width: 150px; height: 26px","multiple":false,"hideColor":"rgba(200,200,200,0.5)","highlight":false},"main":{"text":"Trevor Incerti's Co-Author Network","style":"font-family:Georgia, Times New Roman, Times, serif;font-weight:bold;font-size:20px;text-align:center;"},"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","igraphlayout":{"type":"full"},"highlight":{"enabled":false,"hoverNearest":false,"degree":1,"algorithm":"all","hideColor":"rgba(200,200,200,0.5)","labelOnly":true},"collapse":{"enabled":false,"fit":false,"resetHighlight":true,"clusterOptions":null,"keepCoord":true,"labelSuffix":"(cluster)"}},"evals":[],"jsHooks":[]}</script>
-<script type="application/htmlwidget-sizing" data-for="htmlwidget-151b595454df6d830021">{"viewer":{"width":800,"height":800,"padding":15,"fill":false},"browser":{"width":800,"height":800,"padding":40,"fill":false}}</script>
+<script type="application/json" data-for="htmlwidget-b513fff983cb5db81a67">{"x":{"nodes":{"id":[1,2,3,4,5,6,7,8],"label":["D Incerti","D Mattingly","F Rosenbluth","J Yue","KE Kushida","PY Lipscy","S Tanaka","T Incerti"],"title":["D Incerti","D Mattingly","F Rosenbluth","J Yue","KE Kushida","PY Lipscy","S Tanaka","T Incerti"],"size":[12.5,12.5,12.5,12.5,15.9657359027997,19.4314718055995,12.5,22.2295507452766],"x":[-0.176842341224402,-1,-0.461768861718596,-0.507773728636512,0.892776447256415,1,-0.915928823874904,-0.0587854762955525],"y":[1,-0.7334180649359,-0.56670191536401,-1,0.370782338475637,-0.219589771672591,-0.242750013072701,-0.0948233260927042]},"edges":{"from":[1,2,2,2,2,3,3,3,4,4,5,5,6,7],"to":[8,3,4,7,8,4,7,8,7,8,6,8,8,8]},"nodesToDataframe":true,"edgesToDataframe":true,"options":{"width":"100%","height":"100%","nodes":{"shape":"dot","physics":false,"color":{"background":"white","highlight":"blue","hover":{"border":"blue"}}},"manipulation":{"enabled":false},"edges":{"smooth":false,"selectionWidth":5,"color":{"highlight":"lightblue"}},"physics":{"stabilization":false}},"groups":null,"width":800,"height":800,"idselection":{"enabled":true,"style":"width: 150px; height: 26px","useLabels":true,"main":"Select by Author"},"byselection":{"enabled":false,"style":"width: 150px; height: 26px","multiple":false,"hideColor":"rgba(200,200,200,0.5)","highlight":false},"main":{"text":"Co-Author Network","style":"font-family:Georgia, Times New Roman, Times, serif;font-weight:bold;font-size:20px;text-align:center;"},"submain":null,"footer":null,"background":"rgba(0, 0, 0, 0)","igraphlayout":{"type":"full"},"highlight":{"enabled":false,"hoverNearest":false,"degree":1,"algorithm":"all","hideColor":"rgba(200,200,200,0.5)","labelOnly":true},"collapse":{"enabled":false,"fit":false,"resetHighlight":true,"clusterOptions":null,"keepCoord":true,"labelSuffix":"(cluster)"}},"evals":[],"jsHooks":[]}</script>
+<script type="application/htmlwidget-sizing" data-for="htmlwidget-b513fff983cb5db81a67">{"viewer":{"width":800,"height":800,"padding":15,"fill":false},"browser":{"width":800,"height":800,"padding":40,"fill":false}}</script>
 </body>
 </html>
