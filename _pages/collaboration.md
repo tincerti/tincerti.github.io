@@ -7,9 +7,7 @@ author_profile: false
 
 ### Collaboration
 
-I believe science is improved by collaboration with researchers with diverse backgrounds and expertise, and am fortunate to have had the opportunity to work with the following individuals. I encourage you to check out their websites and engage with each of their exciting research agendas. 
-
-I also always welcome new connections and opportunities for collaboration with researchers, NGOs, government, and the private sector, so please don’t hesitate to reach out. 
+I believe science is improved by collaboration with researchers with diverse backgrounds and expertise, and am fortunate to have had the opportunity to work with the following individuals. I encourage you to check out their websites and engage with each of their exciting research agendas. I also always welcome new connections and opportunities for collaboration with researchers, NGOs, government, and the private sector, so please don’t hesitate to reach out. 
 
 - [Peter Aronow](https://peteraronow.github.io) (Yale University) 
 - [Jacob Carlson](https://jscarlson.github.io/) (Harvard University)  
