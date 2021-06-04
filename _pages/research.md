@@ -21,6 +21,8 @@ author_profile: false
 
 ### Book Chapters
 
+- Incerti, Trevor and Phillip Lipscy. "[The Politics of Energy and Climate Change in Japan under the Abe Government](https://www.cambridge.org/core/books/political-economy-of-the-abe-government-and-abenomics-reforms/politics-of-energy-and-climate-change-in-japan-under-the-abe-government/7ADB1786A617CF587AF47AAD11687BB3)." In Hoshi, Takeo, and Lipscy, Phillip. [The Political Economy of the Abe Government and Abenomics Reforms](https://www.cambridge.org/core/books/political-economy-of-the-abe-government-and-abenomics-reforms/C94C12663E45418B2CEA79A09611A1F9). Cambridge University Press (2021).  
+
 - Incerti, Trevor and Phillip Lipscy. ''[The energy politics of Japan](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360-e-21).'' In [*The Oxford Handbook of Energy Politics*](https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360) (2020). (*Peer reviewed*). 
   <details><summary>Abstract</summary><p> Japanese energy policy has attracted renewed attention since the 2011 Fukushima nuclear disaster. However, Japan’s energy challenges are nothing new; as a country poor in natural resources, it has long struggled to meet its energy needs. This chapter provides an overview of Japanese energy politics, focusing on three broad topics: Japan’s modernization and energy security challenges, the politics of the utilities sector and nuclear energy, and the politics of energy conservation and climate change. In addition, the chapter discusses factors specific to Japan, such as state-business relations in the utilities sector and institutional changes since the 1990s. Japan offers both compelling puzzles—several transformative shifts in energy conservation policy, limited emphasis on renewables despite persistent energy security concerns, and reinvigoration of nuclear energy despite the Fukushima disaster—as well as important empirical opportunities for theory testing. The chapter concludes by calling for additional research that integrates insights from Japan into broader theoretical and cross-national scholarship, examines Japanese energy policy within an international context, and uses rigorous causal identification strategies to evaluate Japanese energy policy. Finally, it identifies the politics of decarbonization in Japan as a critical area for future research. </p></details>
 
@@ -37,7 +39,7 @@ author_profile: false
  
 - Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
  
-- Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''Amakudata: A new dataset of revolving door hires.''
+- Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''*Amakudata*: A new dataset of revolving door hires.''
 
 ### Other Writing
 
