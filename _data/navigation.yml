@@ -12,5 +12,8 @@ main:
   - title: "Data"
     url: /data/
 
+  - title: "Collaboration"
+    url: /collaboration/
+
   - title: "Contact"
     url: /contact/
