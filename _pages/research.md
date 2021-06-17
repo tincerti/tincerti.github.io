@@ -36,6 +36,8 @@ author_profile: false
  - Incerti, Trevor, Changwook Ju, Daniel Mattingly, Collin Moreshead, Frances Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. ''The logic of soft power competition: Evidence from East Asia.''
  
 ### Works in Progress
+
+- Carlson, Jacob, Trevor Incerti, and Peter Aronow. "Dyadic clustering in international relations."
  
 - Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
  
