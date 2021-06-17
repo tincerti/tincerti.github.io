@@ -254,13 +254,13 @@
   function tryEval(code) {
     var result = null;
     try {
-      result = eval(code);
+      result = eval("(" + code + ")");
     } catch(error) {
       if (!error instanceof SyntaxError) {
         throw error;
       }
       try {
-        result = eval("(" + code + ")");
+        result = eval(code);
       } catch(e) {
         if (e instanceof SyntaxError) {
           throw error;
@@ -1576,11 +1576,11 @@ return function(){for(var n=0,e=0;e<t;++e)n+=Math.random();return n}},um=functio
 </head>
 <body style="background-color: white;">
 <div id="htmlwidget_container">
-<div id="htmlwidget-03ad26f8471122da8257" class="sankeyNetwork html-widget" style="width:960px;height:500px;">
+<div id="htmlwidget-a92c3707b288539c0b53" class="sankeyNetwork html-widget" style="width:960px;height:500px;">
 
 </div>
 </div>
-<script type="application/json" data-for="htmlwidget-03ad26f8471122da8257">{"x":{"links":{"source":[0,1,2,3,4,5,6,7,1,0,6,2,5,8,3,4,9,5,7,1,0,6,8,2,3,0,2,1,5,7,4,3,6,0,3,2,5,1,8,6,4,0,5,1,6,7,8,2,4,3,3,0,5,1,2,1,0,3,6,1,5,0,2,6,3,4,9,7,1,5,0,2,8,4,6],"target":[10,10,10,10,10,10,10,11,11,11,11,11,11,11,11,11,11,12,12,12,12,12,12,12,12,13,13,13,13,13,13,13,13,14,14,14,14,14,14,14,14,15,15,15,15,15,15,15,15,15,16,16,16,16,16,17,17,17,17,18,18,18,18,18,18,18,18,19,19,19,19,19,19,19,19],"value":[74,56,7,5,2,1,1,19,16,7,7,5,3,2,1,1,1,26,25,17,15,8,3,3,2,41,16,15,11,11,5,4,3,22,21,13,12,5,2,2,1,41,16,14,12,9,2,2,2,1,8,8,7,3,1,55,24,1,1,36,12,8,4,4,3,1,1,18,8,7,5,2,1,1,1]},"nodes":{"name":["MLIT","MOF","MHLW","MAFF","MOE","METI","MOJ","MIAC","MEXT","MOFA","Transportation","Banks","Electric Appliances","Insurance","Construction","Services","Electric Power & Gas","Warehousing & Harbor Transportation Services","Wholesale Trade","Information & Communication"],"group":["MLIT","MOF","MHLW","MAFF","MOE","METI","MOJ","MIAC","MEXT","MOFA","Transportation","Banks","Electric Appliances","Insurance","Construction","Services","Electric Power & Gas","Warehousing & Harbor Transportation Services","Wholesale Trade","Information & Communication"]},"options":{"NodeID":"name","NodeGroup":"name","LinkGroup":null,"colourScale":"d3.scaleOrdinal()  \n    .range([\"steelblue\", \"gold\", \"steelblue\", \"forestgreen\", \"springgreen\", \n            \"mediumblue\", \"red\", \"skyblue\", \"orange\", \"blue\",\n            \"lightgrey\", \"lightgrey\", \"lightgrey\", \"lightgrey\", \n            \"lightgrey\", \"lightgrey\", \"lightgrey\", \n            \"lightgrey\", \"lightgrey\", \"lightgrey\"])","fontSize":14,"fontFamily":null,"nodeWidth":15,"nodePadding":10,"units":"","margin":{"top":null,"right":null,"bottom":null,"left":null},"iterations":32,"sinksRight":false}},"evals":[],"jsHooks":[]}</script>
-<script type="application/htmlwidget-sizing" data-for="htmlwidget-03ad26f8471122da8257">{"viewer":{"width":450,"height":350,"padding":10,"fill":true},"browser":{"width":960,"height":500,"padding":10,"fill":true}}</script>
+<script type="application/json" data-for="htmlwidget-a92c3707b288539c0b53">{"x":{"links":{"source":[0,1,2,3,4,5,6,7,8,0,1,2,6,7,3,5,4,9,1,4,0,3,5,6,2,7,8,9,0,2,6,5,1,7,8,3,4,0,6,1,5,4,3,2,7,8,4,5,0,1,3,6,8,2,10,1,5,2,0,6,3,8,9,7,0,5,2,1,6,7,1,0,5,3,2,6,4,1,0,5,6,7,3,8],"target":[11,11,11,11,11,11,11,11,11,12,12,12,12,12,12,12,12,12,13,13,13,13,13,13,13,13,13,13,14,14,14,14,14,14,14,14,14,15,15,15,15,15,15,15,15,15,16,16,16,16,16,16,16,16,16,17,17,17,17,17,17,17,17,17,18,18,18,18,18,18,19,19,19,19,19,19,20,20,20,20,20,20,20,20],"value":[144,53,29,20,15,14,10,9,4,123,80,8,6,5,2,1,1,1,33,17,16,8,5,5,4,3,2,2,84,33,14,9,6,4,2,2,1,48,23,23,13,12,7,5,4,2,30,24,24,22,7,4,3,2,1,50,20,16,16,7,5,2,2,1,71,11,8,4,2,2,82,20,3,2,1,1,28,10,8,6,3,2,2,1]},"nodes":{"name":["MLIT","MOF","MAFF","MOJ","MIAC","METI","MHLW","MOE","MEXT","MOFA","MOD","Services","Transportation","Banks","Construction","Insurance","Electric Appliances","Wholesale Trade","Electric Power & Gas","Warehousing and Harbor transportation","Information & Communication"],"group":["MLIT","MOF","MAFF","MOJ","MIAC","METI","MHLW","MOE","MEXT","MOFA","MOD","Services","Transportation","Banks","Construction","Insurance","Electric Appliances","Wholesale Trade","Electric Power & Gas","Warehousing and Harbor transportation","Information & Communication"]},"options":{"NodeID":"name","NodeGroup":"name","LinkGroup":null,"colourScale":"d3.scaleOrdinal()  \n    .range([\"steelblue\", \"goldenrod\", \"mediumblue\", \"forestgreen\", \"lawngreen\", \n            \"gray\", \"red\", \"cyan\", \"darkslategrey\", \"black\",\n            \"lightgrey\", \"lightgrey\", \"lightgrey\", \"lightgrey\", \n            \"lightgrey\", \"lightgrey\", \"lightgrey\", \n            \"lightgrey\", \"lightgrey\", \"lightgrey\"])","fontSize":14,"fontFamily":null,"nodeWidth":15,"nodePadding":10,"units":"","margin":{"top":null,"right":null,"bottom":null,"left":null},"iterations":32,"sinksRight":false}},"evals":[],"jsHooks":[]}</script>
+<script type="application/htmlwidget-sizing" data-for="htmlwidget-a92c3707b288539c0b53">{"viewer":{"width":450,"height":350,"padding":10,"fill":true},"browser":{"width":960,"height":500,"padding":10,"fill":true}}</script>
 </body>
 </html>
