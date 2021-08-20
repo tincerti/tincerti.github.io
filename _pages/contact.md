@@ -5,8 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-Department of Political Science \\
-Yale University \\
+Department of Political Science, Yale University \\
 Rosenkranz Hall \\
 115 Prospect St. \\
 New Haven, CT 06520 USA
