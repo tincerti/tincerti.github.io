@@ -5,11 +5,11 @@ permalink: /contact/
 author_profile: true
 ---
 
-Institute of Social Science \\
-University of Tokyo \\
-7-3-1 Hongo, Bunkyo-ku \\
-Tokyo 113-0033 \\
-Japan
+Department of Political Science \\
+Yale University \\
+Rosenkranz Hall \\
+115 Prospect St. \\
+New Haven, CT 06520 USA
 
 Email: trevor.incerti@yale.edu  
 

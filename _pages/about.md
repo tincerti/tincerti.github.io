@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 
-Welcome to my website! I am a PhD Candidate at Yale University studying comparative political economy. Currently, I am a Visiting Research Fellow at the University of Tokyo Institute of Social Science and a Research Associate at the Waseda University Institute of Political Economy. 
+Welcome to my website! I am a PhD Candidate at Yale University studying comparative political economy. 
 
 My research focuses on the ways individuals, businesses, and interest groups use politics for private gain. Examples include corruption and regulatory capture. I am also interested in the use of data science tools and methods of causal inference in political economy research. My research has been published in the *American Political Science Review* and *British Journal of Political Science*, among other outlets. 
 
