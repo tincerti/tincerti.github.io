@@ -33,15 +33,17 @@ author_profile: false
 - Incerti, Devin, and Trevor Incerti. ''[Are regime changes always bad economics? Evidence from daily financial data](http://tincerti.github.io/files/regime_changes.pdf)'' (*under review*). 
   <details><summary>Abstract</summary><p> Political instability is commonly thought to discourage investment and reduce economic growth. By contrast, we find that different types of “irregular” regime changes - coups, assassinations, or resignations - have disparate effects on stock returns. We examine daily returns of national stock indices in every country that experienced an irregular regime change subject to data availability. Using an event study approach, we show that abnormal returns following resignations are large and positive (4%), while those following assassinations are negative and smaller in magnitude (2%). The impact of coups tends to be negative (2%), but some events result in positive abnormal returns of 10% or more. Volatility increases during times of protest preceding resignations, but no clear directionality is present. We therefore find that the expected direction and magnitude of abnormal returns is dependent on the type of political event and its expected impact on economic policy. </p></details>
   
+ - Carlson, Jacob, Trevor Incerti, and Peter Aronow. "[Dyadic clustering in international relations](https://arxiv.org/abs/2109.03774)."
+  
  - Incerti, Trevor, Changwook Ju, Daniel Mattingly, Collin Moreshead, Frances Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. ''The logic of soft power competition: Evidence from East Asia.''
  
 ### Works in Progress
-
-- Carlson, Jacob, Trevor Incerti, and Peter Aronow. "Dyadic clustering in international relations."
  
 - Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
  
 - Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''*Amakudata*: A new dataset of revolving door hires.''
+
+- Incerti, Trevor. ''Combatting capture in local politics: A field experiment.''
 
 ### Other Writing
 
