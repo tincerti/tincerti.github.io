@@ -41,10 +41,13 @@ author_profile: false
 ### Works in Progress
  
 - Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
+   <details><summary>Description</summary><p> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections, despite well-documented bureaucratic revolving door hiring practices. Leveraging a 2009 law requiring Japanese bureaucratic agencies to report private sector hires of former civil servants, we construct a comprehensive dataset of all revolving door hires in Japan. Using this dataset and data on Japanese government contracts and loans, we test for systematic benefits that accrue to firms who hire former bureaucrats. </p></details>
  
-- Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''*Amakudata*: A new dataset of revolving door hires.''
-
 - Incerti, Trevor. ''Combatting capture in local politics: A field experiment.''
+   <details><summary>Description</summary><p> Individuals or groups with a direct monetary stake in a political decision are more likely to participate in politics. This phenomenon—the collective action problem—impacts decision making through lobbying of national legislatures to participation in local government. Recent research shows that homeowners are far more likely to participate in local government despite representing a minority of residents in US cities, often to oppose housing development and prop up housing prices. I conduct a field experiment to investigate whether direct outreach highlighting the monetary costs of non-participation in local government can encourage individuals to attend city council meetings. </p></details>
+   
+- Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''*Amakudata*: A new dataset of revolving door hires.''
+   <details><summary>Description</summary><p> Political economists have long speculated about the effects of connections between bureaucracies and the private sector. However, data tracing flows of civil servants from the bureaucracy to the private sector remains rare. This article presents a new dataset, Amakudata, which contains individual-level data of all Japanese bureaucrats retiring into positions outside of the bureaucracy from 2009 to 2019. </p></details>
 
 ### Other Writing
 
