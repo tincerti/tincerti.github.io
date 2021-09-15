@@ -23,7 +23,7 @@ I believe science is improved by collaboration with researchers with diverse bac
 - [Frances Rosenbluth](https://campuspress.yale.edu/francesrosenbluth/) (Yale University)  
 - [Diana Stanescu](https://scholar.princeton.edu/dmstanescu/home) (Princeton University)  
 - [Seiki Tanaka](https://www.seikitanaka.com/) (University of Groningen)  
-- [Hikaru Yamagishi](https://politicalscience.yale.edu/people/hikaru-yamagishi) (Yale University)  
+- [Hikaru Yamagishi](https://hikaruyamagishi.com) (Yale University)  
 - [Jiahua Yue](https://yjh1222.github.io/) (Yale University)  
 
 <iframe src="/files/coauthor_network.html" height="600px" width="100%" style="border:none;"></iframe>
