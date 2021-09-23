@@ -17,6 +17,7 @@ Click [here](https://calendly.com/trevor-incerti/) to set up a Calendly meeting.
 &nbsp;
 
  <p float="left">
-   <iframe width="48%" height="300px" scrolling="no" frameBorder="0" style="position:relative; top: 0px; left: 0px;" src="https://www.trevorincerti.com/files/cites_year.html"></iframe>
-  <img src="https://www.trevorincerti.com/images/meti.jpeg" width="48%" height="300px" style="border-radius:6%; position:relative; top: -140px; left: 0px;" /> 
+  <img src="https://www.trevorincerti.com/images/solar_kamisu.jpeg" width="32%" style="border-radius:6%" />
+  <img src="https://www.trevorincerti.com/images/plot.jpeg" width="32%" />
+  <img src="https://www.trevorincerti.com/images/meti.jpeg" width="32%" style="border-radius:6%" /> 
 </p>
