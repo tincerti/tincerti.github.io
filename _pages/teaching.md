@@ -22,7 +22,7 @@ My teaching experience consists of two semesters of teaching assistance for grad
   <details>
   <summary>Evaluations</summary>
   <ul>
-    <li><a href="http://www.trevorincerti.com/files/evaluation_500.pdf">Feedback</a>.</li>
+    <li><a href="http://www.trevorincerti.com/files/evaluation_500.pdf">Student feedback</a>.</li>
   </ul>
   </details>
 
@@ -37,7 +37,7 @@ My teaching experience consists of two semesters of teaching assistance for grad
   <details>
   <summary>Evaluations</summary>
   <ul>
-    <li><a href="http://www.trevorincerti.com/files/evaluation_512.pdf">Feedback</a>.</li>
+    <li><a href="http://www.trevorincerti.com/files/evaluation_512.pdf">Student feedback</a>.</li>
   </ul>
   </details>
   
