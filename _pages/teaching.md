@@ -9,7 +9,7 @@ author_profile: false
 
 My teaching experience consists of two semesters of teaching assistance for graduate level courses in statistical methods and research design. You can find examples of some of my lessons below:  
 
-- [*Foundations of Statistical Inference*](http://www.trevorincerti.com/files/PL500-syllabus-2019.pdf) (Professor [P.M. Aronow](https://peteraronow.github.io)):  
+- [*Foundations of Statistical Inference*](http://www.trevorincerti.com/files/PL500-syllabus-2019.pdf) (Professor [P.M. Aronow](https://pmaronow.github.io)):  
   <details>
   <summary>Lessons</summary>
   <ul>
