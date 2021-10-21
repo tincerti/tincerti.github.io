@@ -18,7 +18,7 @@ My teaching experience consists of two semesters of teaching assistance for grad
     <li><a href="https://www.trevorincerti.com/teaching/regression.html">The bootstrap, clustering, and introduction to regression</a>.</li>
     <li><a href="https://www.trevorincerti.com/teaching/regression2.html">Additional regression topics</a>.</li>
   </ul>
-</details>
+  </details>
 
 - *Design and Analysis of Randomized Field Experiments*:  
   <details>
@@ -27,7 +27,7 @@ My teaching experience consists of two semesters of teaching assistance for grad
     <li><a href="https://www.trevorincerti.com/teaching/intro.html">Introduction to dplyr, potential outcomes, and random assignment</a>.</li>
     <li><a href="https://www.trevorincerti.com/teaching/meta-analysis.html">Research synthesis and meta-analysis</a>.</li>
   </ul>
-</details>
+  </details>
 
 In addition to statistical methods and research design, I also hope to teach courses in substantive areas of political economy such as political corruption and market regulation.  
 
