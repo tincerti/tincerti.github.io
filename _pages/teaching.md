@@ -23,6 +23,9 @@ My teaching experience consists of two semesters of teaching assistance for grad
   <summary>Evaluations</summary>
   <ul>
     <li><a href="http://www.trevorincerti.com/files/evaluation_500.pdf">Student feedback</a>.</li>
+    <p float="left">
+    <li><iframe width="48%" height="300px" scrolling="no" frameBorder="0" style="position:relative; top: 0px; left: 0px;" src="https://www.trevorincerti.com/files/evals_500.html"></iframe></li>
+    </p>
   </ul>
   </details>
 
