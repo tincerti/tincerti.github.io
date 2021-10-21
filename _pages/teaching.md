@@ -7,7 +7,7 @@ author_profile: false
 
 ### Teaching Experience
 
-My teaching experience consists of two semesters of teaching assistance for graduate level courses in statistical methods and research design. You can find examples of some of my lessons below:  
+My teaching experience consists of two semesters of teaching assistance for graduate level courses in statistical methods and research design. You can find syllabi, student evaluations, and examples of some of my lessons below:  
 
 - [*Foundations of Statistical Inference*](http://www.trevorincerti.com/files/PL500-syllabus-2019.pdf) (Professor [P.M. Aronow](https://pmaronow.github.io)):  
   <details>
@@ -24,7 +24,7 @@ My teaching experience consists of two semesters of teaching assistance for grad
   <ul>
     <li><a href="http://www.trevorincerti.com/files/evaluation_500.pdf">Student feedback</a>.</li>
     <p float="left">
-    <li><iframe width="75%" height="300px" scrolling="no" frameBorder="0" style="position:relative; top: 0px; left: 0px;" src="https://www.trevorincerti.com/files/evals_500.html"></iframe></li>
+    <li><iframe width="70%" height="300px" scrolling="no" frameBorder="0" style="position:relative; top: 0px; left: 0px;" src="https://www.trevorincerti.com/files/evals_500.html"></iframe></li>
     </p>
   </ul>
   </details>
