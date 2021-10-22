@@ -26,7 +26,9 @@ I believe science is improved by collaboration with researchers with diverse bac
 - [Hikaru Yamagishi](https://hikaruyamagishi.com) (Yale University)  
 - [Jiahua Yue](https://yjh1222.github.io/) (Yale University)  
 
-<p align="center"><iframe src="/files/coauthor_network.html" height="600px" width="100%" style="border:none;"></iframe></p>
+<div style="text-align:center">
+    <iframe src="/files/coauthor_network.html" height="600px" width="100%" style="border:none;"></iframe>
+</div>
 
 Thank you to Charles Crabtree for the inspiration for this page!
 
