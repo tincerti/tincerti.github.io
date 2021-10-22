@@ -11,9 +11,7 @@ I believe science is improved by collaboration with researchers with diverse bac
 
 | Coauthors      |  Collaborations |
 | ----------- | ----------- |
-| - [Devin Incerti](https://devinincerti.com/) (Genentech Inc.)     | [Devin Incerti](https://devinincerti.com/) (Genentech Inc.)  
-       |
-| Paragraph   | Text        |
+| [Devin Incerti](https://devinincerti.com/) (Genentech Inc.)     | [Devin Incerti](https://devinincerti.com/) (Genentech Inc.)  |
 
 - [P.M. Aronow](https://pmaronow.github.io) (Yale University) 
 - [Jacob Carlson](https://jscarlson.github.io/) (Harvard University)  
