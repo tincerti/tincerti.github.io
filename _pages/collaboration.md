@@ -21,23 +21,6 @@ I believe science is improved by collaboration with researchers with diverse bac
     </ul>
 </div>
 
-- [P.M. Aronow](https://pmaronow.github.io) (Yale University) 
-- [Jacob Carlson](https://jscarlson.github.io/) (Harvard University)  
-- [Charles Crabtree](http://charlescrabtree.com/) (Dartmouth College)  
-- [Devin Incerti](https://devinincerti.com/) (Genentech Inc.)  
-- [Changwook Ju](https://politicalscience.yale.edu/people/changwook-ju) (Yale University)  
-- [Rieko Kage](https://www.u-tokyo.ac.jp/focus/en/people/people003656.html) (University of Tokyo)  
-- [Kenji Kushida](https://www.kenjikushida.org/) (Stanford University)  
-- [Phillip Lipscy](http://www.lipscy.org/) (University of Toronto)  
-- [Daniel Mattingly](http://daniel-mattingly.com/) (Yale University)  
-- [Colin Moreshead](https://politicalscience.yale.edu/people/colin-moreshead) (Yale University)  
-- [Sayumi Miyano](https://politics.princeton.edu/people/sayumi-miyano) (Princeton University)  
-- [Frances Rosenbluth](https://campuspress.yale.edu/francesrosenbluth/) (Yale University)  
-- [Diana Stanescu](https://scholar.princeton.edu/dmstanescu/home) (Princeton University)  
-- [Seiki Tanaka](https://www.seikitanaka.com/) (University of Groningen)  
-- [Hikaru Yamagishi](https://hikaruyamagishi.com) (Yale University)  
-- [Jiahua Yue](https://yjh1222.github.io/) (Yale University)  
-
 <iframe src="/files/coauthor_network.html" height="600px" width="100%" style="border:none;"></iframe>
 
 Thank you to Charles Crabtree for the inspiration for this page!
