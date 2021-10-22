@@ -10,7 +10,6 @@ Rosenkranz Hall \\
 115 Prospect St. \\
 New Haven, CT 06520 USA
 
-Email: trevor.incerti@yale.edu  
 
 Click [here](https://calendly.com/trevor-incerti/) to set up a Calendly meeting. 
 
