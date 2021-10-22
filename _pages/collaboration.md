@@ -9,9 +9,16 @@ author_profile: false
 
 I believe science is improved by collaboration with researchers with diverse backgrounds and expertise, and am fortunate to have had the opportunity to work with the following individuals. I encourage you to visit their websites and engage with each of their exciting research agendas. I also always welcome new connections and opportunities for collaboration with researchers, NGOs, government, and the private sector, so please don’t hesitate to reach out. 
 
-<div class="row">
-  <div class="column"></div>
-  <div class="column"></div>
+<div>
+    <ul class="columns" data-columns="2">
+        <li>A</li>
+        <li>B</li>
+        <li>C</li>
+        <li>D</li>
+        <li>E</li>
+        <li>F</li>
+        <li>G</li>
+    </ul>
 </div>
 
 - [P.M. Aronow](https://pmaronow.github.io) (Yale University) 
