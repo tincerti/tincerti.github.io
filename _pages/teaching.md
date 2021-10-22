@@ -15,7 +15,7 @@ My teaching experience consists of two semesters of teaching assistance for grad
   <ul>
     <li><a href="https://www.trevorincerti.com/teaching/random_samples.html">Learning from random samples</a>.</li>
     <li><a href="https://www.trevorincerti.com/teaching/random_variables.html">Summarizing random variables</a>.</li>
-    <li><a href="https://www.trevorincerti.com/teaching/regression.html">The bootstrap, clustering, and introduction to regression</a>.</li>
+    <li><a href="https://www.trevorincerti.com/teaching/regression.html">The bootstrap and introduction to regression</a>.</li>
     <li><a href="https://www.trevorincerti.com/teaching/regression2.html">Additional regression topics</a>.</li>
   </ul>
   </details>
