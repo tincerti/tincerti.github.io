@@ -25,7 +25,7 @@ I am currently involved in two ongoing data collection processes. Both data sets
   </ul>
   </details>
 
-
+<br>
 
 - *Procurement* (with Hikaru Yamagishi): A dataset of all products procured from the private sector by the Japanese government from 2003 - 2018, including the agency or ministry which made the purchase, the company the product was purchased from, and the value of the contract.
 
