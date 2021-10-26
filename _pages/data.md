@@ -15,7 +15,7 @@ I am currently involved in two ongoing data collection processes. Both data sets
   <ul>
     <li><a href="https://www.trevorincerti.com/files/ministry_publicinterest.html">Flows of bureaucrats from ministries to top public corporations</a>.</li>
     <li><a href="https://www.trevorincerti.com/files/ministry_private.html">Flows of bureaucrats from ministries to top private sector corporations</a>.</li>
-    <li><a href="https://www.trevorincerti.com/files/ministry_industry.html)">Flows of bureaucrats from ministries to publicly traded companies by industry</a>.</li>
+    <li><a href="https://www.trevorincerti.com/files/ministry_industry.html">Flows of bureaucrats from ministries to publicly traded companies by industry</a>.</li>
   </ul>
   </details>
   <details>
