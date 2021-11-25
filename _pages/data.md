@@ -31,7 +31,7 @@ I am currently involved in two ongoing data collection processes. Both data sets
 
 
  <p float="left">
-   <iframe width="95%" height="500px" scrolling="no" frameBorder="0" style="position:relative; top: 0px; left: 0px;" src="https://www.trevorincerti.com/files/abstract_wordcloud.html"></iframe>
+   <iframe width="95%" height="300px" scrolling="no" frameBorder="0" style="position:relative; top: 0px; left: 0px;" src="https://www.trevorincerti.com/files/abstract_wordcloud.html"></iframe>
 </p>
 
 
