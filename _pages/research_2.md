@@ -5,7 +5,9 @@ permalink: /research_2/
 author_profile: false
 ---
 
-I have three interrelated streams of research: (1) the use of politics for private gain, (2) Japanese political economy, and (3) applied quantitative research methods. Examples of publications and working papers in each of those domains can be found below. 
+## Research overview
+
+I have three interrelated streams of research: (1) business influence in politics and the use of politics for private gain, (2) Japanese political economy, and (3) applied quantitative research methods. Examples of publications and working papers in each of those domains can be found below. 
 
 ### The use of politics for private gain
 
