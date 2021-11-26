@@ -9,7 +9,7 @@ author_profile: false
 
 I have three streams of research: (1) the use of politics for private gain, (2) Japanese political economy, and (3) applied quantitative research methods. My primary substantive area of focus is how businesses, individuals, or interest groups influence politics or abuse power for personal gain. I also examine strategies to reduce these practices and their impact on democracy and the public good. 
 
-I examine these questions across countries wherever they are particularly salient.  However, these research areas often overlap. For example, much of my work on business influence in politics examines the case of Japan, and I have researched accountability mechanisms for illicit behavior by politicians across countries as well as for individuals within the workplace in Japan. 
+These research areas often overlap, and I examine these questions across countries wherever they are particularly salient. For example, much of my work on business influence in politics examines the case of Japan, and I have researched accountability mechanisms for illicit behavior by politicians across countries as well as for individuals within the workplace in Japan. 
 
 Examples of publications and working papers in each of those domains can be found below. 
 
@@ -64,5 +64,12 @@ Example publications and working papers:
   
 - Carlson, Jacob, Trevor Incerti, and Peter Aronow. "[Dyadic clustering in international relations](https://arxiv.org/abs/2109.03774)." (*under review*)
    <details><summary>Abstract</summary><p>  Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research. </p></details>
+
+<br>
+
+ <p float="left">
+   <iframe width="95%" height="300px" scrolling="no" frameBorder="0" style="position:relative; top: 0px; left: 0px;" src="https://www.trevorincerti.com/files/abstract_wordcloud.html"></iframe>
+</p>
+
 
 
