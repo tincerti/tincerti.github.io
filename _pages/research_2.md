@@ -15,7 +15,7 @@ Examples of publications and working papers in each of those domains can be foun
 
 ### The use of politics for private gain
 
-My primary research focus is business or individual use of political institutions for private gain. This includes work on explicit corruption, the revolving door, and regulatory capture.
+My primary research focus is business or individual use of political institutions for private gain. This includes work on, e.g., corruption, the revolving door, and regulatory capture.
 
 Example publications and working papers:
 
