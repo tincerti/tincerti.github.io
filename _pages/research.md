@@ -1,9 +1,11 @@
 ---
 layout: splash
-title: "Research"
-permalink: /research/
+title: "Publications & working papers"
+permalink: /publications/
 author_profile: false
 ---
+
+## Publications and working papers
 
 ### Journal Articles
 
