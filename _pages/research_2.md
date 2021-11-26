@@ -7,13 +7,13 @@ author_profile: false
 
 ## Research overview
 
-I have three streams of research: (1) the use of politics for private gain, (2) Japanese political economy, and (3) applied quantitative research methods. My primary substantive area of focus is how businesses, individuals, or interest groups influence politics or abuse power for personal gain. I also examine strategies to reduce these practices and their impact on democracy and the public good. 
+I have three streams of research: (1) the use of politics for private gain, (2) the political economy of Japan, and (3) applied quantitative research methods. My primary substantive area of focus is how businesses, individuals, or interest groups influence politics or abuse power for personal gain. I also examine strategies to reduce these practices and their impact on democracy and the public good. 
 
 These research areas often overlap, and I examine these questions across countries wherever they are particularly salient. For example, much of my work on business influence in politics examines the case of Japan, and I have researched accountability mechanisms for illicit behavior by politicians across countries as well as for individuals within the workplace in Japan. 
 
 Examples of publications and working papers in each of those domains can be found below. 
 
-### The use of politics for private gain
+### Use of politics for private gain
 
 My primary research focus is business or individual use of political institutions for private gain. This includes work on, e.g., corruption, the revolving door, and regulatory capture.
 
@@ -35,7 +35,7 @@ Example publications and working papers:
    <details><summary>Description</summary><p> Political economists have long speculated about the effects of connections between bureaucracies and the private sector. However, data tracing flows of civil servants from the bureaucracy to the private sector remains rare. This article presents a new dataset, Amakudata, which contains individual-level data of all Japanese bureaucrats retiring into positions outside of the bureaucracy from 2009 to 2019. </p></details>
   
 
-### Japanese political economy
+### Political economy of Japan
 
 I also have written extensively on other topics in Japanese political economy. This includes work on energy policy and regulation, bureaucracy, and political behavior. 
 
