@@ -3,6 +3,7 @@ layout: single
 title: "Contact"
 permalink: /contact/
 author_profile: true
+classes: wide
 ---
 
 Department of Political Science, Yale University \\
