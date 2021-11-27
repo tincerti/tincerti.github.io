@@ -5,7 +5,7 @@ permalink: /data/
 author_profile: false
 ---
 
-### Data
+## Data
 
 I am currently involved in two ongoing data collection processes. Both data sets will be made publicly available upon completion and validation: 
 
