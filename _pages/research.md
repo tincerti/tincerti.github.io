@@ -9,7 +9,7 @@ author_profile: false
 
 I have three streams of research: (1) the use of politics for private gain, (2) the political economy of Japan, and (3) applied quantitative research methods. My primary substantive area of focus is how businesses, individuals, or interest groups influence politics for personal gain. I also examine the impact of these practices on democracy and the public good. 
 
-These research areas often overlap, and I examine them across countries wherever they are particularly salient. For example, much of my work on business influence in politics examines the case of Japan, and I have researched accountability mechanisms for illicit behavior by politicians across countries as well as for individuals within the workplace in Japan. 
+These research areas often overlap, and I examine them across countries wherever they are salient. For example, much of my work on business influence in politics examines the case of Japan, and I have researched accountability mechanisms for illicit behavior by politicians across countries as well as for individuals within the workplace in Japan. 
 
 Examples of publications and working papers in each of those domains can be found below. 
 
