@@ -45,7 +45,7 @@ My teaching experience consists of two semesters of teaching assistance for grad
   </details>
   
 
-In addition to statistical methods and research design, I also hope to teach courses in substantive areas of political economy such as political corruption and market regulation.  
+In addition to statistical methods and research design, I also hope to teach courses in substantive areas of political economy such as [corruption](http://www.trevorincerti.com/files/corruption_syllabus_example.pdf) and market regulation.  
 
 
 
