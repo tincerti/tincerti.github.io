@@ -9,7 +9,7 @@ author_profile: false
 
 My research follows two related streams in political economy. The main stream of my research is extraction of private gain from politics and public office, such as electoral punishment of corruption, regulatory capture by firms and interest groups, and award of contracts to firms with political connections. A second stream looks at the economic drivers of political behavior. Among other things, this line of research has examined how to encourage collective action to overcome regulatory capture.
 
-I typically use field experiments or original data collection and observational econometrics. I have also conducted research in quantitative research methods, where I am particularly interested in the reliability and validity of measurement strategies, as well as improving accessibility to applied researchers and practitioners. I have a regional specialization in Japan and East Asia, but examine these research areas across countries wherever they are salient.
+I typically use field experiments or original data collection and observational econometrics in my research. I have also conducted research in quantitative research methods, where I am particularly interested in the reliability and validity of measurement strategies, as well as improving accessibility to applied researchers and practitioners. I have a regional specialization in Japan and East Asia, but examine these research areas across countries wherever they are salient.
 
 Examples of publications and working papers in each of those domains can be found below. 
 
