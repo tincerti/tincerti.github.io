@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 
-Welcome to my website! I am a PhD Candidate at Yale University in political economy. 
+Welcome to my website! I am a PhD Candidate at Yale University conducting research in political economy. 
 
 My research focuses on business influence in politics and the use politics for private gain. I am also interested in the use of data science tools and methods of causal inference in political economy research. My research has been published in the *American Political Science Review* and *British Journal of Political Science*, among other outlets. 
 
