@@ -41,6 +41,9 @@ author_profile: false
 - Incerti, Trevor. ''[Combatting capture in local politics: Evidence from eight field experiments](https://www.trevorincerti.com/files/capture_in_local_politics.pdf).'' [Pre-analysis plan](http://tincerti.github.io/files/cc_preanalysis.pdf). (*under review*)    
   <details><summary>Abstract</summary><p> Understanding how to motivate individuals with long-term collective interest to engage in costly political behavior is an enduring question in political economy. While renters have an economic incentive to participate in local politics and encourage housing growth, their participation lags that of homeowners who yield immediate financial returns from participation. I conducted 8 field experiments in 8 cities to investigate how to motivate renters to comment at city council meetings. Outreach highlighting the costs of abstention caused public comments to increase by 1.4 percentage points amongst those who opened the emails, with those already engaged in local politics particularly responsive to treatment. Treatment-induced comments represented 8% of total comments and 46% of pro-housing comments across all treated meetings. Overall, the results suggest that increasing the perception that abstention is costly is an effective motivator of real-world political participation, and that outreach can change the representativeness of civic bodies where increases in accessibility alone do not. </p></details>
   
+Amano, Kenya, Charles Crabtree, Melanie Sayuri Dominguez, Timothy Fraser, Etienne Gagnon, Trevor Incerti, Jinhyuk Jang, Charles T. McClean, Austin M. Mitchell, Sayumi Miyano, Colin Moreshead, Harunobu Saijo, Diana Stanescu, Ayumi Teraoka, Hikaru Yamagishi, Charmaine N. Willis, and Yujin Woo.“ Field Research When There’s Limited Access to the Field: Lessons From Japan.” (*under review*)  
+  <details><summary>Abstract</summary><p> How can scholars conduct field research when there is limited access to the field? The paper first identifies how limited and uncertain field access can affect field research and then provides recommendations to address these challenges. We focus on doing field research in Japan both because of our substantive expertise, but we think that problems and solutions we outline should be applicable to a broad range of countries. Our hope is that this paper contributes to the developing literature on conducting research during times of emergency and the larger literature on best practices for field research. </p></details>
+  
 - Incerti, Trevor, Changwook Ju, Daniel Mattingly, Collin Moreshead, Frances Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. ''The logic of soft power competition: Evidence from East Asia.'' (Contact for draft)
  
 ### Works in Progress
@@ -48,9 +51,10 @@ author_profile: false
 - Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
    <details><summary>Description</summary><p> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections, despite well-documented bureaucratic revolving door hiring practices. Leveraging a 2009 law requiring Japanese bureaucratic agencies to report private sector hires of former civil servants, we construct a comprehensive dataset of all revolving door hires in Japan. Using this dataset and data on Japanese government contracts and loans, we test for systematic benefits that accrue to firms who hire former bureaucrats. </p></details>
 
-   
 - Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''*Amakudata*: A new dataset of revolving door hires.''
    <details><summary>Description</summary><p> Political economists have long speculated about the effects of connections between bureaucracies and the private sector. However, data tracing flows of civil servants from the bureaucracy to the private sector remains rare. This article presents a new dataset, Amakudata, which contains individual-level data of all Japanese bureaucrats retiring into positions outside of the bureaucracy from 2009 to 2019. </p></details>
+   
+- “Sexual Harassment in Japan: Willingness to Pay for Best Practices,” with Charles Crabtree, Trevor Incerti, Rieko Kage, Frances McCall Rosenbluth, and Seiki Tanaka.
 
 ### Other Writing
 
