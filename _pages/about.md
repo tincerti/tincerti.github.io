@@ -16,7 +16,7 @@ redirect_from:
 ---
 
 
-Welcome to my website! I am a PhD Candidate at Yale University conducting research in political economy. 
+Welcome to my website! I am a PhD Candidate at Yale University. 
 
 My research follows two related streams in political economy. The main stream is extraction of private gain from politics and public office, such as electoral punishment of corruption, regulatory capture by firms and interest groups, and award of contracts to firms with political connections. A second stream looks at the economic drivers of political behavior. Among other things, this line of research has examined how to encourage collective action to overcome regulatory capture. I have a regional specialization in Japan and East Asia, but examine these research areas across countries wherever they are salient. 
 
