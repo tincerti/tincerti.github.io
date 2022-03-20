@@ -60,6 +60,6 @@ author_profile: false
  <p float="left">
    <iframe width="95%" height="300px" scrolling="no" frameBorder="0" style="position:relative; top: 0px; left: 0px;" src="https://www.trevorincerti.com/files/abstract_wordcloud.html"></iframe>
 </p>
-* This word cloud of text appearing in my abstracts is just for fun! I am aware that word clouds are a (poor visualization tool)[https://www.data-to-viz.com/graph/wordcloud.html] in terms of accurately portraying frequencies.
+This word cloud of text appearing in my abstracts is just for fun! I am aware that word clouds are a [poor visualization tool](https://www.data-to-viz.com/graph/wordcloud.html) in terms of accurately portraying frequencies.
 
 
