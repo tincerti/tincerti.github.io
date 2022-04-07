@@ -52,8 +52,8 @@ I am currently involved in two ongoing data collection processes. Both data sets
 # REQUIRED LIBRARIES AND HELPER FUNCTIONS ----
 # ______________________________________________________________________________
 
-#### Required libraries ####
-library(tidyverse)
+#### Import/define pipe operator from magrittr ####
+`%>%` <- magrittr::`%>%`
 
 #### Helper functions #### 
 read_flnm <- function(flnm, delim = NULL, skip = NULL) {
@@ -91,27 +91,27 @@ read_dir = function(path, extension, delim, filename, sheet = NULL, skip = 0) {
     list.files(path = path,
                pattern = paste0("*.", extension),
                full.names = T) %>%
-      map_df(~read_delim(., delim = delim, skip = skip, 
+      purrr::map_df(~read_delim(., delim = delim, skip = skip, 
                          col_types = cols(.default = "c")))
     
   } else if (filename == TRUE & extension != "xlsx") {
     list.files(path = path,
                pattern = paste0("*.", extension),
                full.names = T) %>%
-      map_df(~read_flnm(., delim = delim, skip = skip))
+      purrr::map_df(~read_flnm(., delim = delim, skip = skip))
     
   # Read in Excel data files  
    } else if (extension == "xlsx" & filename == F) {
     list.files(path = path,
                pattern = paste0("*.", extension),
                full.names = T) %>%
-      map_df(~readxl::read_excel(., sheet = sheet, skip = skip))
+       purrr::map_df(~readxl::read_excel(., sheet = sheet, skip = skip))
     
   } else if (extension == "xlsx" & filename == T) {
     list.files(path = path,
                pattern = paste0("*.", extension),
                full.names = T) %>%
-      map_df(~read_flnm_xl(., sheet = sheet, skip = skip))
+      purrr::map_df(~read_flnm_xl(., sheet = sheet, skip = skip))
   }
 }
 ```
