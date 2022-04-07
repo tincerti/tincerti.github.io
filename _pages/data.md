@@ -35,7 +35,7 @@ I am currently involved in two ongoing data collection processes. Both data sets
 ```R
 # ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 # DESCRIPTION ----
-# ______________________________________________________________________________
+# _______________________________________________
 
 # Last updated 7 April, 2022 by Trevor Incerti
 
@@ -50,7 +50,7 @@ I am currently involved in two ongoing data collection processes. Both data sets
 
 # ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 # REQUIRED LIBRARIES AND HELPER FUNCTIONS ----
-# ______________________________________________________________________________
+# _______________________________________________
 
 #### Import/define pipe operator from magrittr ####
 `%>%` <- magrittr::`%>%`
@@ -69,13 +69,15 @@ read_flnm_xl <- function(flnm, sheet = NULL, skip = NULL) {
 
 # ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 # DEFINE MAIN FUNCTION ----
-# ______________________________________________________________________________
+# _______________________________________________
 
 # Function arguments:
-# Path = filepath of directory where data files are located.
-# Extension = data files extension. Currently accepts:
-# all extensions compatible with readr::read_delim and "xlsx" for Excel.
-# delim = Single character used to separate fields within a record, e.g. ",".
+# path = filepath of directory where data files are located.
+# extension = extension of data files. Currently accepts all extensions
+#   compatible with readr::read_delim and "xlsx" for Excel.
+# filename: Optional argument that will create a "filename" column with the 
+#   name of the imported file (minus extension) when set to TRUE. 
+# delim = Single character used to separate fields within a record. E.g. ",".
 # sheet = Sheet to import if importing from Excel. 
 # skip = Number of rows to skip when importing each file.
 
