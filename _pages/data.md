@@ -35,7 +35,7 @@ I am currently involved in two ongoing data collection processes. Both data sets
 ```R
 # ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 # DESCRIPTION ----
-# _______________________________________________
+# ______________________________________________________________________________
 
 # Last updated 7 April, 2022 by Trevor Incerti
 
@@ -50,7 +50,7 @@ I am currently involved in two ongoing data collection processes. Both data sets
 
 # ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 # REQUIRED LIBRARIES AND HELPER FUNCTIONS ----
-# _______________________________________________
+# ______________________________________________________________________________
 
 #### Import/define pipe operator from magrittr ####
 `%>%` <- magrittr::`%>%`
@@ -69,7 +69,7 @@ read_flnm_xl <- function(flnm, sheet = NULL, skip = NULL) {
 
 # ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 # DEFINE MAIN FUNCTION ----
-# _______________________________________________
+# ______________________________________________________________________________
 
 # Function arguments:
 # path = filepath of directory where data files are located.
@@ -116,6 +116,7 @@ read_dir = function(path, extension, delim, filename, sheet = NULL, skip = 0) {
       purrr::map_df(~read_flnm_xl(., sheet = sheet, skip = skip))
   }
 }
+
 ```
 
 </details>
