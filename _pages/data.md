@@ -54,7 +54,6 @@ I am currently involved in two ongoing data collection processes. Both data sets
 
 #### Required libraries ####
 library(tidyverse)
-library(readxl)
 
 #### Helper functions #### 
 read_flnm <- function(flnm, delim = NULL, skip = NULL) {
