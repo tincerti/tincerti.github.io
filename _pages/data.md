@@ -25,14 +25,12 @@ I am currently involved in two ongoing data collection processes. Both data sets
   </ul>
   </details>
 
-<br>
-
 - *Procurement* (with Hikaru Yamagishi): A dataset of all products procured from the private sector by the Japanese government from 2003 - 2018, including the agency or ministry which made the purchase, the company the product was purchased from, and the value of the contract.
 
 
 ## Software 
 
-read_dir: R function that can be used to concatenate all data files with common columns from a directory into a single data set, and creates an optional column identifying the name of the file for each row. 
+**read_dir**: R function that can be used to concatenate all data files with common columns from a directory into a single data set, and creates an optional column identifying the name of the file for each row. 
 <details markdown=1><summary markdown="span">Code</summary>
 ```R
 # ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
