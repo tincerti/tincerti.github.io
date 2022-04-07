@@ -34,6 +34,8 @@ I am currently involved in two ongoing data collection processes. Both data sets
 
 - read_dir: R function that can be used to concatenate all data files with common columns from a directory into a single data set, and creates an optional column identifying the name of the file for each row. 
 
+<details markdown=1><summary markdown="span">Code</summary>
+
 ```R
 # ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
 # DESCRIPTION ----
@@ -118,6 +120,10 @@ read_dir = function(path, extension, delim, filename, sheet = NULL, skip = 0) {
   }
 }
 ```
+
+</details>
+
+
 
 
 
