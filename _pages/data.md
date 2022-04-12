@@ -9,7 +9,7 @@ author_profile: false
 
 I am currently involved in two ongoing data collection processes. Both data sets will be made publicly available upon completion and validation: 
 
-- *Amakudata* (with Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi): A dataset of all Japanese bureaucrats who have retired to positions in the private sector (i.e. revolving door or "amakudari" appointments) from 2009 - 2019. While the full dataset is forthcoming, an R Shiny dashboard---[*Amakudashboard*](https://trevorincerti.shinyapps.io/amakudashboard/)--- that allows users to explore the dataset is currently live.
+- **Amakudata** (with Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi): A dataset of all Japanese bureaucrats who have retired to positions in the private sector (i.e. revolving door or "amakudari" appointments) from 2009 - 2019. While the full dataset is forthcoming, an R Shiny dashboard---[*Amakudashboard*](https://trevorincerti.shinyapps.io/amakudashboard/)--- that allows users to explore the dataset is currently live.
   <details>
   <summary>Data visualizations</summary>
   <ul>
@@ -24,8 +24,10 @@ I am currently involved in two ongoing data collection processes. Both data sets
     <li> Coming soon </li>
   </ul>
   </details>
+  
+- **J_NPO**: A dataset of all subsidies and contracts from the Japanese government to nonprofit organizations (NPOs) from 2011 - 2021, including the agency or ministry which provided the subsidy or made the purchase, the NPO that received the subsidy or contract, and the value of the subsidy or contract.  
 
-- *Procurement* (with Hikaru Yamagishi): A dataset of all products procured from the private sector by the Japanese government from 2003 - 2018, including the agency or ministry which made the purchase, the company the product was purchased from, and the value of the contract.
+- **J_Procurement** (with Hikaru Yamagishi): A dataset of all products procured from the private sector by the Japanese government from 2003 - 2018, including the agency or ministry which made the purchase, the company the product was purchased from, and the value of the contract.  
 
 
 ## Software 
@@ -52,49 +54,44 @@ I am currently involved in two ongoing data collection processes. Both data sets
 # REQUIRED LIBRARIES AND HELPER FUNCTIONS ----
 # ______________________________________________________________________________
 
-#### Import/define pipe operator from magrittr ####
+# Import/define pipe operator from magrittr ------------------------------------
 `%>%` <- magrittr::`%>%`
 
-#### Helper functions #### 
+# Helper functions -------------------------------------------------------------
 read_flnm <- function(flnm, delim = NULL, skip = NULL) {
-    read_delim(flnm, delim = delim, skip = skip, 
-               col_types = cols(.default = "c")) %>% 
-      mutate(filename = tools::file_path_sans_ext(fs::path_file(flnm)))
+  read_delim(flnm, delim = delim, skip = skip, 
+             col_types = cols(.default = "c")) %>% 
+    mutate(filename = tools::file_path_sans_ext(fs::path_file(flnm)))
 }
 
-read_flnm_xl <- function(flnm, sheet = NULL, skip = NULL) {
-    readxl::read_excel(flnm, sheet = sheet, skip = skip) %>% 
-      mutate(filename = tools::file_path_sans_ext(fs::path_file(flnm)))
+read_flnm_xl <- function(flnm, sheet = NULL, skip = NULL, col_types = NULL) {
+  readxl::read_excel(flnm, sheet = sheet, skip = skip, col_types = col_types) %>% 
+    mutate(filename = tools::file_path_sans_ext(fs::path_file(flnm)))
 }
 
-# ¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯¯
-# DEFINE MAIN FUNCTION ----
-# ______________________________________________________________________________
-
+# Main function: read in and append all files in a directory ------------------ 
 # Function arguments:
-# path = filepath of directory where data files are located.
-# extension = extension of data files. Currently accepts all extensions
-#   compatible with readr::read_delim and "xlsx" for Excel.
-# filename: Optional argument that will create a "filename" column with the 
-#   name of the imported file (minus extension) when set to TRUE. 
-# delim = Single character used to separate fields within a record. E.g. ",".
+# Path = filepath of directory where data files are located.
+# Extension = data files extension. Currently accepts:
+# all extensions compatible with readr::read_delim and "xlsx" for Excel.
+# delim = Single character used to separate fields within a record, e.g. ",".
 # sheet = Sheet to import if importing from Excel. 
 # skip = Number of rows to skip when importing each file.
 
-####  Main function: read in and append all files in a directory #### 
-read_dir = function(path, extension, delim, filename, sheet = NULL, skip = 0) {
+read_dir = function(path, extension, delim, filename, sheet = NULL, skip = 0,
+                    col_types = NULL) {
   
   # Stop and display errors if conflicting arguments are entered
   if (!missing(sheet) & extension != "xlsx") {
     stop("Error: Argument 'sheet' only applies to Excel files")
     
-  # Read in delimited text data files
+    # Read in delimited text data files
   } else if (filename == FALSE & extension != "xlsx") {
     list.files(path = path,
                pattern = paste0("*.", extension),
                full.names = T) %>%
       purrr::map_df(~read_delim(., delim = delim, skip = skip, 
-                         col_types = cols(.default = "c")))
+                                col_types = cols(.default = "c")))
     
   } else if (filename == TRUE & extension != "xlsx") {
     list.files(path = path,
@@ -102,21 +99,22 @@ read_dir = function(path, extension, delim, filename, sheet = NULL, skip = 0) {
                full.names = T) %>%
       purrr::map_df(~read_flnm(., delim = delim, skip = skip))
     
-  # Read in Excel data files  
-   } else if (extension == "xlsx" & filename == F) {
+    # Read in Excel data files  
+  } else if (extension == "xlsx" & filename == F) {
     list.files(path = path,
                pattern = paste0("*.", extension),
                full.names = T) %>%
-       purrr::map_df(~readxl::read_excel(., sheet = sheet, skip = skip))
+      purrr::map_df(~readxl::read_excel(., sheet = sheet, skip = skip,
+                                        col_types = col_types))
     
   } else if (extension == "xlsx" & filename == T) {
     list.files(path = path,
                pattern = paste0("*.", extension),
                full.names = T) %>%
-      purrr::map_df(~read_flnm_xl(., sheet = sheet, skip = skip))
+      purrr::map_df(~read_flnm_xl(., sheet = sheet, skip = skip,
+                                  col_types = col_types))
   }
 }
-
 ```
 
 </details>
