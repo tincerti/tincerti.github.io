@@ -27,9 +27,9 @@ author_profile: false
 - Incerti, Trevor. ''[Combatting capture in local politics: Evidence from eight field experiments](https://www.trevorincerti.com/files/capture_in_local_politics.pdf).'' [Pre-analysis plan](http://tincerti.github.io/files/cc_preanalysis.pdf). (*under review*).  
   <details><summary>Abstract</summary><p> Understanding how to motivate individuals with long-term collective interest to engage in costly political behavior is an enduring question in political economy. While renters have an economic incentive to participate in local politics and encourage housing growth, their participation lags that of homeowners who yield immediate financial returns from participation. I conducted 8 field experiments in 8 cities to investigate how to motivate renters to comment at city council meetings. Outreach highlighting the costs of abstention caused public comments to increase by 1.4 percentage points amongst those who opened the emails, with those already engaged in local politics particularly responsive to treatment. Treatment-induced comments represented 8% of total comments and 46% of pro-housing comments across all treated meetings. Overall, the results suggest that increasing the perception that abstention is costly is an effective motivator of real-world political participation, and that outreach can change the representativeness of civic bodies where increases in accessibility alone do not. </p></details>
   
-- “Sexual Harassment in Japan: Willingness to Pay for Best Practices,” with Charles Crabtree, Rieko Kage, Frances McCall Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi.
+- Crabtree, Charles, Rieko Kage, Trevor Incerti, Frances McCall Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. “Sexual Harassment in Japan: Willingness to Pay for Best Practices.”
 
-- “Democratic and Autocratic Soft Power: Global Perceptions of American and Chinese Political Appeals,” with Changwook Ju, Daniel Mattingly, Colin Moreshead, Seiki Tanaka, and Hikaru Yamagishi.
+- Incerti, Trevor, Changwook Ju, Daniel Mattingly, Colin Moreshead, Seiki Tanaka, and Hikaru Yamagishi. “Democratic and Autocratic Soft Power: Global Perceptions of American and Chinese Political Appeals.”
 
 ### Quantitative research methods
   
