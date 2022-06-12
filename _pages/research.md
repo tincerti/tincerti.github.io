@@ -29,7 +29,7 @@ author_profile: false
   
 - Crabtree, Charles, Rieko Kage, Trevor Incerti, Frances McCall Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. “Sexual Harassment in Japan: Willingness to Pay for Best Practices.”
 
-- Mattingly, Daniel, Trevor Incerti Changwook Ju, Colin Moreshead, Seiki Tanaka, and Hikaru Yamagishi. “Making the World Safe For Autocracy or Democracy? Evidence on Sino-American Competition From a 6 Continent Experiment.” [Pre-analysis plan](https://mfr.osf.io/render?url=https://osf.io/sdp9u/?direct%26mode=render%26action=download%26mode=render)
+- Mattingly, Daniel, Trevor Incerti, Changwook Ju, Colin Moreshead, Seiki Tanaka, and Hikaru Yamagishi. “Making the World Safe For Autocracy or Democracy? Evidence on Sino-American Competition From a 6 Continent Experiment.” [Pre-analysis plan](https://mfr.osf.io/render?url=https://osf.io/sdp9u/?direct%26mode=render%26action=download%26mode=render)
 
 ### Quantitative research methods
   
