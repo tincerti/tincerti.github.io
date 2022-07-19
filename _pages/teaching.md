@@ -13,6 +13,7 @@ My teaching experience consists of two semesters of teaching assistance for grad
   <details>
   <summary>Lessons</summary>
   <ul>
+    <li><a href="https://www.trevorincerti.com/teaching/r_short_course.pdf">Introduction to R short course</a>.</li>
     <li><a href="https://www.trevorincerti.com/teaching/random_samples.html">Learning from random samples</a>.</li>
     <li><a href="https://www.trevorincerti.com/teaching/random_variables.html">Summarizing random variables</a>.</li>
     <li><a href="https://www.trevorincerti.com/teaching/regression.html">The bootstrap and introduction to regression</a>.</li>
