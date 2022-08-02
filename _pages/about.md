@@ -5,9 +5,9 @@ header:
   overlay_filter: 0.25
 search: true
 excerpt: |
-  Doctoral Researcher
+  Postdoctoral Research Fellow
   <br>
-  Yale University
+  Harvard University
   <br>
 permalink: /
 redirect_from: 
@@ -15,7 +15,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Doctoral Researcher at Yale University. From 2022-2023 I will be a Postdoctoral Research Fellow at Harvard University. 
+Welcome to my website! I am a Postdoctoral Research Fellow at the Harvard University Weatherhead Center for International Affairs. 
 
 My research focuses on extraction of private gain from politics and public office, such as electoral punishment of corruption, regulatory capture by firms and interest groups, and award of contracts to firms with political connections. A second area of research looks at the economic drivers of political behavior more generally.
 
