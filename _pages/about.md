@@ -9,6 +9,8 @@ excerpt: |
   <br>
   Harvard University
   <br>
+  Weatherhead Center for International Affairs
+  <br>
 permalink: /
 redirect_from: 
   - /about/
@@ -21,4 +23,4 @@ My research focuses on extraction of private gain from politics and public offic
 
 I typically use field experiments or original data collection and observational econometrics in my research. I have also conducted research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research has been published in the *American Political Science Review* and *British Journal of Political Science*, among other outlets. 
 
-I received my Ph.D. from Yale University (2022) and my B.A. from UC Berkeley (2012), and previously worked as a Data Scientist at TrueCar and as an economic consultant at Compass Lexecon.
+I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012), and previously worked as a Data Scientist at TrueCar and as an economic consultant at Compass Lexecon.
