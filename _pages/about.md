@@ -9,8 +9,6 @@ excerpt: |
   <br>
   Harvard University
   <br>
-  Weatherhead Center for International Affairs
-  <br>
 permalink: /
 redirect_from: 
   - /about/
