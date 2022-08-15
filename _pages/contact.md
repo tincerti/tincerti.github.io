@@ -5,10 +5,10 @@ permalink: /contact/
 author_profile: true
 ---
 
-Department of Political Science, Yale University \\
-Rosenkranz Hall \\
-115 Prospect St. \\
-New Haven, CT 06520 USA
+Harvard University \\
+Weatherhead Center for International Affairs \\ 
+61 Kirkland St. \\
+Cambridge, MA 02138 USA
 
 
 Click [here](https://calendly.com/trevor-incerti/) to set up a Calendly meeting. 
