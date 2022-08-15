@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 Harvard University \\
-Weatherhead Center for International Affairs \\ 
+Weatherhead Center for International Affairs \\
 61 Kirkland St. \\
 Cambridge, MA 02138 USA
 
