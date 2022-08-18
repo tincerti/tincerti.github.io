@@ -15,7 +15,7 @@ author_profile: false
 - Incerti, Devin, and Trevor Incerti. ''[Are regime changes always bad economics? Evidence from daily financial data](http://tincerti.github.io/files/regime_changes.pdf).'' (*under review*)
   <details><summary>Abstract</summary><p> Political instability is commonly thought to discourage investment and reduce economic growth. By contrast, we find that different types of “irregular” regime changes - coups, assassinations, or resignations - have disparate effects on stock returns. We examine daily returns of national stock indices in every country that experienced an irregular regime change subject to data availability. Using an event study approach, we show that abnormal returns following resignations are large and positive (4%), while those following assassinations are negative and smaller in magnitude (2%). The impact of coups tends to be negative (2%), but some events result in positive abnormal returns of 10% or more. Volatility increases during times of protest preceding resignations, but no clear directionality is present. We therefore find that the expected direction and magnitude of abnormal returns is dependent on the type of political event and its expected impact on economic policy. </p></details>
    
-- Incerti, Trevor, and Hikaru Yamagishi. ''Do firms benefit from the revolving door? Evidence from Japan.''
+- Incerti, Trevor, ''Who benefits from the revolving door? Evidence from Japan.'' (contact for draft)
    <details><summary>Description</summary><p> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections, despite well-documented bureaucratic revolving door hiring practices. Leveraging a 2009 law requiring Japanese bureaucratic agencies to report private sector hires of former civil servants, we construct a comprehensive dataset of all revolving door hires in Japan. Using this dataset and data on Japanese government contracts and loans, we test for systematic benefits that accrue to firms who hire former bureaucrats. </p></details>
  
 - Incerti, Trevor, Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi. ''*Amakudata*: A new dataset of revolving door hires.''
@@ -30,9 +30,10 @@ author_profile: false
 - Mattingly, Daniel, Trevor Incerti, Changwook Ju, Colin Moreshead, Seiki Tanaka, and Hikaru Yamagishi. “Chinese Propaganda Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment.” [Pre-analysis plan](https://mfr.osf.io/render?url=https://osf.io/sdp9u/?direct%26mode=render%26action=download%26mode=render)
   <details><summary>Abstract</summary><p> Does propaganda from authoritarian regimes build global support for authoritarianism? Many are skeptical of the appeal of authoritarian political systems. By contrast, we argue that a global audience is receptive to messages that autocratic regimes such as China perform better than democracies on key governance outcomes, and are willing to embrace non-democratic political systems. We report on the results of an experiment in which we exposed audiences in 19 countries across 6 continents to actual messages from the American and Chinese governments promoting their respective political and economic systems. We find that real Chinese propaganda videos strongly increase support for China’s political economic model. We argue that Chinese propaganda is effective because it persuades audiences that the CCP provides growth, stability, and competent leadership. U.S. propaganda selling American democracy is less convincing. A global audience is primed to find the “China Model” attractive because of propaganda selling China’s effective government performance. </p></details>
   
+- Incerti, Trevor, Changwook Ju, Daniel Mattingly, Collin Moreshead, Frances Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. ''The logic of soft power competition: Evidence from East Asia.'' (Contact for draft)
 
-  
 - Crabtree, Charles, Rieko Kage, Trevor Incerti, Frances McCall Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. “Sexual Harassment in Japan: Willingness to Pay for Best Practices.”  
+
 
 ### Quantitative research methods
   
@@ -55,9 +56,7 @@ author_profile: false
 
 - Lipscy, Phillip Y., Kenji E. Kushida, and Trevor Incerti. ''[The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective](https://pubs.acs.org/doi/pdfplus/10.1021/es4004813).'' *Environmental Science & Technology*, [47.12](http://tincerti.github.io/files/est_cover.jpg) (2013): 6082-6088.  \[Media coverage: [*The New Yorker*](https://www.newyorker.com/news/evan-osnos/sandy-fukushima-and-the-nuclear-industry)\]. 
   <details><summary>Abstract</summary><p> We consider the vulnerability of nuclear power plants to a disaster like the one that occurred at Fukushima Daiichi. Examination of Japanese nuclear plants affected by the earthquake and tsunami on March 11, 2011 shows that three variables were crucial at the early stages of the crisis: plant elevation, sea wall elevation, and location and status of backup generators. Higher elevations for these variables, or waterproof protection of backup generators, could have mitigated or prevented the disaster. We collected information on these variables, along with historical data on run-up heights, for 89 coastal nuclear power plants in the world. The data shows that 1. Japanese plants were relatively unprotected against potential inundation in international comparison, but there was considerable variation for power plants within and outside of Japan; 2. Older power plants and plants owned by the largest utility companies appear to have been particularly unprotected. </p></details>
-    
-- Incerti, Trevor, Changwook Ju, Daniel Mattingly, Collin Moreshead, Frances Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. ''The logic of soft power competition: Evidence from East Asia.'' (Contact for draft)
-  
+      
 <br>
 
  <p float="left">
