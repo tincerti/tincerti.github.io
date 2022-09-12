@@ -15,7 +15,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to my website! I am a Postdoctoral Research Fellow at the Harvard University Weatherhead Center for International Affairs.
+Welcome to my website! I am a Postdoctoral Research Fellow at the Harvard University Weatherhead Center for International Affairs, where I am an affiliate of the [Program on U.S.-Japan Relations](https://programs.wcfia.harvard.edu/us-japan) and the [Research Cluster on Business & Government](https://projects.iq.harvard.edu/wrc22-business-and-government). 
 
 My research focuses on extraction of private gain from politics and public office, such as electoral punishment of corruption, regulatory capture by firms and interest groups, and award of contracts to firms with political connections. A second area of research looks at the economic drivers of political behavior more generally.
 
@@ -24,5 +24,4 @@ I typically use field experiments or original data collection and observational 
 I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012), and previously worked as a Data Scientist at TrueCar and as an economic consultant at Compass Lexecon.
 
 {% comment %}
-and an affiliate of the [Program on U.S.-Japan Relations](https://programs.wcfia.harvard.edu/us-japan) and the [Research Cluster on Business & Government](https://projects.iq.harvard.edu/wrc22-business-and-government). 
 {% endcomment %}
