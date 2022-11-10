@@ -33,7 +33,7 @@ author_profile: false
 - ''How Domestic Politics Shapes International Soft Power Promotion: Evidence From East Asia'' (with Changwook Ju, Daniel Mattingly, Collin Moreshead, Seiki Tanaka, and Hikaru Yamagishi). (Contact for draft)
   <details><summary>Abstract</summary><p> In recent years, established democracies and ascendant autocracies have competed for the hearts and minds of citizens across the globe. In this article, we develop a novel theory of soft power effectiveness centered on the relations between soft power senders and receivers. We argue that when relations with soft power senders remain depoliticized in receivers’ domestic politics, soft power promotion fares well. When the relations are politicized, however, it risks backfiring. To test our theory, we conduct a multi-country experiment in East Asia that examines the effect of real-world Chinese and Japanese soft power promotion efforts. The experimental results lend credence to our theory. Where relations are depoliticized, soft power promotion efforts strengthen support for bilateral cooperation, and where relations are politicized, the same soft power treatments cause backlash. Our findings highlight that autocracies can effectively project soft power insofar as they retain good ties with their soft power recipients. </p></details>
 
-- “Sexual Harassment in Japan: Willingness to Pay for Best Practices.” (with Charles Crabtree, Rieko Kage, Frances McCall Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi. )
+- “Sexual Harassment in Japan: Willingness to Pay for Best Practices.” (with Charles Crabtree, Rieko Kage, Frances McCall Rosenbluth, Seiki Tanaka, and Hikaru Yamagishi.)
 
 ### Research methods
 
