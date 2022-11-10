@@ -4,6 +4,11 @@ header:
   overlay_image: https://www.trevorincerti.com/images/skyline_header_tokyo.jpg
   overlay_filter: 0.25
 search: true
+excerpt: |
+  Postdoctoral Fellow
+  <br>
+  Harvard University
+  <br>
 permalink: /
 redirect_from: 
   - /about/
@@ -18,11 +23,7 @@ I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012)
 
 
 {% comment %}
-excerpt: |
-  Postdoctoral Fellow
-  <br>
-  Harvard University
-  <br>
+
   
  Welcome to my website! I am a Postdoctoral Fellow at the Harvard University Weatherhead Center for International Affairs, where I am an affiliate of the [Program on U.S.-Japan Relations](https://programs.wcfia.harvard.edu/us-japan) and the [Research Cluster on Business & Government](https://projects.iq.harvard.edu/wrc22-business-and-government).
 
