@@ -10,6 +10,8 @@ Weatherhead Center for International Affairs \\
 61 Kirkland St. \\
 Cambridge, MA 02138 USA
 
+<iframe src="https://calendly.com/trevor-incerti" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
+
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/trevor-incerti/30-minute-meetings" style="min-width:320px;height:630px;"></div>
 <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
