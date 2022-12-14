@@ -5,9 +5,9 @@ header:
   overlay_filter: 0.25
 search: true
 excerpt: |
-  Postdoctoral Fellow
   <br>
-  Harvard University
+  <br>
+  <br>
   <br>
 permalink: /
 redirect_from: 
