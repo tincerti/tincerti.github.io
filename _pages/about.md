@@ -17,7 +17,7 @@ redirect_from:
 
 Welcome to my website!
 
-My research examines economic drivers of political behavior, with a focus on extraction of private gain from politics and public office (e.g., corruption, regulatory capture, and award of contracts to firms with political connections).  I also conduct research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research has been published in the *American Political Science Review* and *British Journal of Political Science*, among other outlets. 
+My research examines economic drivers of political behavior, with a focus on extraction of private gain from politics and public office.  I also conduct research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research has been published in the *American Political Science Review* and *British Journal of Political Science*, among other outlets. 
 
 I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012), and previously worked as a Data Scientist at TrueCar, Inc. and as an economic consultant at Compass Lexecon.
 
