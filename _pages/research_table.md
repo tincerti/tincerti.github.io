@@ -58,7 +58,7 @@ author_profile: false
 </td>
 <td markdown="span">*Oxford Handbook of Energy Politics*</td>
 <td markdown="span"> 2020 </td>
-<td markdown="span"> Japan; Political Economy</td>
+<td markdown="span"> Political Economy; Japan; Energy</td>
 </tr>
 <tr>
 <td>
@@ -67,7 +67,7 @@ author_profile: false
 </td>
 <td markdown="span">*Asian Survey*</td>
 <td markdown="span"> 2018 </td>
-<td markdown="span"> Japan; Political Economy </td>
+<td markdown="span"> Political Economy; Japan; Energy </td>
 </tr>
 <tr>
 <td>
@@ -76,7 +76,7 @@ author_profile: false
 </td>
 <td markdown="span">*Environmental Science & Technology*</td>
 <td markdown="span"> 2013 </td>
-<td markdown="span"> Japan; Political Economy </td>
+<td markdown="span"> Political Economy; Japan; Energy </td>
 </tr>
 <tr>
 <td>
@@ -113,6 +113,15 @@ Who benefits from the revolving door? Evidence from Japan (contact for draft)
 <td markdown="span">Working paper </td>
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan</td>
+</tr>
+<tr>
+<td>
+How Domestic Politics Shapes International Soft Power Promotion: Evidence From East Asia (contact for draft)
+  <details><summary>Abstract</summary> In recent years, established democracies and ascendant autocracies have competed for the hearts and minds of citizens across the globe. In this article, we develop a novel theory of soft power effectiveness centered on the relations between soft power senders and receivers. We argue that when relations with soft power senders remain depoliticized in receivers’ domestic politics, soft power promotion fares well. When the relations are politicized, however, it risks backfiring. To test our theory, we conduct a multi-country experiment in East Asia that examines the effect of real-world Chinese and Japanese soft power promotion efforts. The experimental results lend credence to our theory. Where relations are depoliticized, soft power promotion efforts strengthen support for bilateral cooperation, and where relations are politicized, the same soft power treatments cause backlash. Our findings highlight that autocracies can effectively project soft power insofar as they retain good ties with their soft power recipients.</details>  
+</td>
+<td markdown="span">Working paper </td>
+<td markdown="span">  </td>
+<td markdown="span"> Political Economy; Japan</td>
 </tr>
 </tbody>
 </table>
