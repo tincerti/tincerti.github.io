@@ -76,7 +76,7 @@ author_profile: false
 </td>
 <td markdown="span">*Environmental Science & Technology*</td>
 <td markdown="span"> 2013 </td>
-<td markdown="span"> Political Economy; Japan; Energy </td>
+<td markdown="span"> Political Economy; Business & Politics; Japan; Energy </td>
 </tr>
 <tr>
 <td>
