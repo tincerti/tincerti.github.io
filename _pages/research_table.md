@@ -53,12 +53,31 @@ author_profile: false
 </tr>
 <tr>
 <td>
-<a href="https://arxiv.org/abs/2109.03774">Dyadic clustering in international relations</a>  
+<a href="https://arxiv.org/abs/2109.03774">The energy politics of Japan</a>  
   <details><summary>Abstract</summary> Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research.</details>  
 </td>
-<td markdown="span">Revise and Resubmit, *Political Analysis*</td>
-<td markdown="span">  </td>
-<td markdown="span"> Research Methods</td>
+<td markdown="span">*Oxford Handbook of Energy Politics*</td>
+<td markdown="span"> 2020 </td>
+<td markdown="span"> Japan</td>
+</tr>
+</tr>
+<tr>
+<td>
+<a href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360-e-21">The energy politics of Japan</a>  
+  <details><summary>Abstract</summary> Japanese energy policy has attracted renewed attention since the 2011 Fukushima nuclear disaster. However, Japan’s energy challenges are nothing new; as a country poor in natural resources, it has long struggled to meet its energy needs. This chapter provides an overview of Japanese energy politics, focusing on three broad topics: Japan’s modernization and energy security challenges, the politics of the utilities sector and nuclear energy, and the politics of energy conservation and climate change. In addition, the chapter discusses factors specific to Japan, such as state-business relations in the utilities sector and institutional changes since the 1990s. Japan offers both compelling puzzles—several transformative shifts in energy conservation policy, limited emphasis on renewables despite persistent energy security concerns, and reinvigoration of nuclear energy despite the Fukushima disaster—as well as important empirical opportunities for theory testing. The chapter concludes by calling for additional research that integrates insights from Japan into broader theoretical and cross-national scholarship, examines Japanese energy policy within an international context, and uses rigorous causal identification strategies to evaluate Japanese energy policy. Finally, it identifies the politics of decarbonization in Japan as a critical area for future research.</details>  
+</td>
+<td markdown="span">*Oxford Handbook of Energy Politics*</td>
+<td markdown="span"> 2020 </td>
+<td markdown="span"> Japan</td>
+</tr>
+<tr>
+<td>
+<a href="http://tincerti.github.io/files/AS5804_01_Incerti_and_Lipscy.pdf">The politics of energy and climate change in Japan under Abe</a>  
+  <details><summary>Abstract</summary> Under what we call Abenergynomics, Japanese Prime Minister Abe Shinzo has used energy policy to support the growth objectives of Abenomics, even when the associated policies are publicly unpopular, opposed by utility companies, or harmful to the environment. We show how Abenergynomics has shaped Japanese policy on nuclear power, electricity deregulation, renewable energy, and climate change. </details>  
+</td>
+<td markdown="span">*Asian Survey*</td>
+<td markdown="span"> 2018 </td>
+<td markdown="span"> Japan </td>
 </tr>
 <tr>
 <td>
