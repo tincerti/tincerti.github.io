@@ -5,9 +5,7 @@ permalink: /research_table/
 author_profile: false
 ---
 
-You can find my published research and working papers listed below.
-
-<br>
+## Publications and working papers
 
 <table>
 <colgroup>
