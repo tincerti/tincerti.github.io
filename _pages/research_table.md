@@ -10,9 +10,9 @@ You can find my published research and working papers listed below.
 <table>
 <colgroup>
 <col width="55%" />
-<col width="25%" />
+<col width="22%" />
 <col width="5%" />
-<col width="15%" />
+<col width="18%" />
 </colgroup>
 <thead>
 <tr class="header">
