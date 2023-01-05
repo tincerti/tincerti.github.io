@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Research"
-permalink: /research_table/
+permalink: /research/
 author_profile: false
 ---
 
@@ -84,7 +84,7 @@ author_profile: false
 </td>
 <td markdown="span">R&R, *Political Analysis*</td>
 <td markdown="span">  </td>
-<td markdown="span"> Research methods </td>
+<td markdown="span"> Research Methods </td>
 </tr>
 <tr>
 <td>
