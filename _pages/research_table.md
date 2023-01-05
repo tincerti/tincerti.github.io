@@ -56,7 +56,7 @@ author_profile: false
 <a href="https://arxiv.org/abs/2109.03774">Dyadic clustering in international relations</a>  
   <details><summary>Abstract</summary> Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research.</details>  
 </td>
-<td markdown="span">Revise and Resubmit (*Political Analysis*)</td>
+<td markdown="span">Revise and Resubmit, *Political Analysis*</td>
 <td markdown="span">  </td>
 <td markdown="span"> Research Methods</td>
 </tr>
