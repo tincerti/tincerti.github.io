@@ -5,9 +5,6 @@ permalink: /research_table/
 author_profile: false
 ---
 
-*Testing: update in progress*
-
-
 <table>
 <colgroup>
 <col width="60%" />
