@@ -58,7 +58,7 @@ author_profile: false
 </td>
 <td markdown="span">*Oxford Handbook of Energy Politics*</td>
 <td markdown="span"> 2020 </td>
-<td markdown="span"> Japan</td>
+<td markdown="span"> Japan; Political Economy</td>
 </tr>
 <tr>
 <td>
@@ -67,7 +67,7 @@ author_profile: false
 </td>
 <td markdown="span">*Asian Survey*</td>
 <td markdown="span"> 2018 </td>
-<td markdown="span"> Japan </td>
+<td markdown="span"> Japan; Political Economy </td>
 </tr>
 <tr>
 <td>
