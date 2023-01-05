@@ -71,6 +71,15 @@ author_profile: false
 </tr>
 <tr>
 <td>
+<a href="https://pubs.acs.org/doi/pdfplus/10.1021/es4004813">The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective</a>  
+  <details><summary>Abstract</summary> We consider the vulnerability of nuclear power plants to a disaster like the one that occurred at Fukushima Daiichi. Examination of Japanese nuclear plants affected by the earthquake and tsunami on March 11, 2011 shows that three variables were crucial at the early stages of the crisis: plant elevation, sea wall elevation, and location and status of backup generators. Higher elevations for these variables, or waterproof protection of backup generators, could have mitigated or prevented the disaster. We collected information on these variables, along with historical data on run-up heights, for 89 coastal nuclear power plants in the world. The data shows that 1. Japanese plants were relatively unprotected against potential inundation in international comparison, but there was considerable variation for power plants within and outside of Japan; 2. Older power plants and plants owned by the largest utility companies appear to have been particularly unprotected. </details>  
+</td>
+<td markdown="span">*Environmental Science & Technology*</td>
+<td markdown="span"> 2013 </td>
+<td markdown="span"> Japan; Political Economy </td>
+</tr>
+<tr>
+<td>
 <a href="https://arxiv.org/abs/2109.03774">Dyadic clustering in international relations</a>  
   <details><summary>Abstract</summary> Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research.</details>  
 </td>
