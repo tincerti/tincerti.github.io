@@ -26,6 +26,15 @@ author_profile: false
 <tbody>
 <tr>
 <td>
+<a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/hawkish-partisans-how-political-parties-shape-nationalist-conflicts-in-china-and-japan/D625B68B3659A3CAD1A1D56E12AB45C3">Hawkish partisans: How political parties shape nationalist conflicts in China and Japan</a>  
+  <details><summary>Abstract</summary> It is well known that regime types affect international conflicts. This article explores political parties as a mechanism through which they do so. Political parties operate in fundamentally different ways in democracies vs. non-democracies, which has consequences for foreign policy. Core supporters of a party in a democracy, if they are hawkish, may be more successful at demanding hawkish behavior from their party representatives than would be their counterparts in an autocracy. The study draws on evidence from paired experiments in democratic Japan and non-democratic China to show that supporters of the ruling party in Japan punish their leaders for discouraging nationalist protests, while ruling party insiders in China are less likely to do so. Under some circumstances, then, non-democratic regimes may be better able to rein in peace-threatening displays of nationalism.</details>  
+</td>
+<td markdown="span">*British Journal of Political Science*</td>
+<td markdown="span">2021</td>
+<td markdown="span">Experiments; Japan</td>
+</tr>
+<tr>
+<td>
 <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB2ACE468B04EAB85CAF7379F9DF4817/S000305542000012Xa.pdf/corruption_information_and_vote_share_a_metaanalysis_and_lessons_for_experimental_design.pdf">Corruption information and vote share: A meta-analysis and lessons for experimental design</a>  
   <details><summary>Abstract</summary> Debate persists on whether voters hold politicians accountable for corruption. Numerous experiments have examined whether informing voters about corrupt acts of politicians decreases their vote share. Meta-analysis demonstrates that corrupt candidates are punished by zero percentage points across field experiments, but approximately 32 points in survey experiments. I argue this discrepancy arises due to methodological differences. Small effects in field experiments may stem partially from weak treatments and noncompliance, and large effects in survey experiments are likely from social desirability bias and the lower and hypothetical nature of costs. Conjoint experiments introduce hypothetical costly trade-offs, but it may be best to interpret results in terms of realistic sets of characteristics rather than marginal effects of particular characteristics. These results suggest that survey experiments may provide point estimates that are not representative of real-world voting behavior. However, field experimental estimates may also not recover the “true” effects due to design decisions and limitations.</details>  
 </td>
@@ -38,7 +47,7 @@ author_profile: false
 <a href="https://www.trevorincerti.com/files/capture_in_local_politics.pdf">Countering capture in local politics: Evidence from eight field experiments</a>  
   <details><summary>Abstract</summary> In the first field experiments to encourage participation in local civic bodies, I examine if outreach can reduce inequalities in who participates in city council meetings. Renter participation in local politics lags that of homeowners, who often participate to oppose housing growth. 19,951 renter households received randomly assigned emails encouraging them to comment at their city council meetings and support housing growth. Opening a message highlighting potential costs of abstention from local politics increased public comments by 1.4 percentage points versus placebo. These effects are substantively large: treatment-induced comments represented 8% of total comments and 46% of pro-housing comments across all targeted meetings. The results suggest that even low-cost outreach strategies can meaningfully increase participation in lesser-known settings like city councils and make these bodies more reflective of the general public. Further, increasing the perception that abstention is costly appears to be an effective motivator of collective action.</details>  
 </td>
-<td markdown="span">Working paper</td>
+<td markdown="span">Working paper (*under review*)</td>
 <td markdown="span">  </td>
 <td markdown="span"> Experiments; Political Economy</td>
 </tr>
