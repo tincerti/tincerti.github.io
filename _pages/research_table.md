@@ -7,6 +7,8 @@ author_profile: false
 
 You can find my published research and working papers listed below.
 
+<br>
+
 <table>
 <colgroup>
 <col width="55%" />
