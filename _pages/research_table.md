@@ -51,7 +51,6 @@ author_profile: false
 <td markdown="span">2020</td>
 <td markdown="span">Corruption; Experiments; Research Methods</td>
 </tr>
-</tr>
 <tr>
 <td>
 <a href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360-e-21">The energy politics of Japan</a>  
