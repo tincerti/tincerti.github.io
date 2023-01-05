@@ -32,10 +32,9 @@ author_profile: false
 </tr>
 <tr>
 <td markdown="span">Second row **fields**</td>
-<td markdown="span">Some more descriptive text.
+<td markdown="span">Some more descriptive text.</td>
 <td markdown="span">Test.</td>
 <td markdown="span">Test.</td>
-</td>
 </tr>
 </tbody>
 </table>
