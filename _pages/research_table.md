@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "Research"
-permalink: /research/
+permalink: /research_table/
 author_profile: false
 ---
 
