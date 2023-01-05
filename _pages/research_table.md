@@ -105,6 +105,15 @@ author_profile: false
 <td markdown="span">  </td>
 <td markdown="span"> Experiments; Political Economy</td>
 </tr>
+<tr>
+<td>
+Who benefits from the revolving door? Evidence from Japan (contact for draft)
+  <details><summary>Abstract</summary> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections and to organizations beyond for-profit firms. Using new data recording the first non-bureaucracy position occupied by all former civil servants in Japan, as well as data on all government loans to for-profit firms and all government contracts with non-profit organizations, I test for systematic benefits that accrue to organizations that hire bureaucrats using differences-in-differences approaches. I show that for-profit firms receive larger government loans following bureaucratic hires and stock price boosts following the announcement of high-ranking bureaucratic hires. I also show that non-profit organizations receive higher value contracts in periods when former officials are in director positions at the organization. The practice of hiring former bureaucrats may therefore represent a form of unofficial government assistance to politically-connected organizations.</details>  
+</td>
+<td markdown="span">Working paper </td>
+<td markdown="span">  </td>
+<td markdown="span"> Political Economy; Business & Politics; Japan</td>
+</tr>
 </tbody>
 </table>
       
