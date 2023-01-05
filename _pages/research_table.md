@@ -96,7 +96,6 @@ author_profile: false
 <td markdown="span">  </td>
 <td markdown="span"> Experiments; Political Economy</td>
 </tr>
-</tr>
 <tr>
 <td>
 <a href="https://osf.io/5cafd/">Chinese Propaganda Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  
