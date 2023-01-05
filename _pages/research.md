@@ -10,23 +10,31 @@ author_profile: false
 
 <table>
 <colgroup>
-<col width="30%" />
-<col width="70%" />
+<col width="50%" />
+<col width="20%" />
+<col width="15%" />
+<col width="15%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th>Field</th>
-<th>Description</th>
+<th>Title and abstract</th>
+<th>Journal</th>
+<th>Year</th>
+<th>Topics</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td markdown="span">First column **fields**</td>
+<td markdown="span">First row **fields**</td>
 <td markdown="span">Some descriptive text. This is a markdown link to [Google](http://google.com). Or see [some link][mydoc_tags].</td>
+<td markdown="span">Test.</td>
+<td markdown="span">Test.</td>
 </tr>
 <tr>
-<td markdown="span">Second column **fields**</td>
+<td markdown="span">Second row **fields**</td>
 <td markdown="span">Some more descriptive text.
+<td markdown="span">Test.</td>
+<td markdown="span">Test.</td>
 </td>
 </tr>
 </tbody>
