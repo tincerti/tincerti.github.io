@@ -9,7 +9,37 @@ author_profile: false
 
 <br>
 
-% HTML Table
+<script>
+    function myFunction() {
+    var input, filter, table, tr, td, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    table = document.getElementById("myTable");
+    tr = table.getElementsByTagName("tr");
+    for (i = 0; i < tr.length; i++) {
+        // td = tr[i].getElementsByTagName("td")[0];
+        alltags = tr[i].getElementsByTagName("td");
+        isFound = false;
+        for(j=0; j< alltags.length; j++) {
+          td = alltags[j];
+          if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                  tr[i].style.display = "";
+                  j = alltags.length;
+                  isFound = true;
+              }
+            }       
+          }
+          if(!isFound && tr[i].className !== "header") {
+            tr[i].style.display = "none";
+          }
+        }
+    }
+</script>
+
+
+
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search...">
 
 <table id="myTable">
@@ -148,7 +178,9 @@ Amakudata: A new dataset of revolving door hires
 </tbody>
 </table>
 
-% CSS
+
+
+
 #myInput {
   background-image: url('/css/searchicon.png'); /* Add a search icon to input */
   background-position: 10px 12px; /* Position the search icon */
@@ -181,36 +213,6 @@ Amakudata: A new dataset of revolving door hires
   /* Add a grey background color to the table header and on hover */
   background-color: #f1f1f1;
 }
-
-% JavaScript
-<script>
-    function myFunction() {
-    var input, filter, table, tr, td, i, txtValue;
-    input = document.getElementById("myInput");
-    filter = input.value.toUpperCase();
-    table = document.getElementById("myTable");
-    tr = table.getElementsByTagName("tr");
-    for (i = 0; i < tr.length; i++) {
-        // td = tr[i].getElementsByTagName("td")[0];
-        alltags = tr[i].getElementsByTagName("td");
-        isFound = false;
-        for(j=0; j< alltags.length; j++) {
-          td = alltags[j];
-          if (td) {
-              txtValue = td.textContent || td.innerText;
-              if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                  tr[i].style.display = "";
-                  j = alltags.length;
-                  isFound = true;
-              }
-            }       
-          }
-          if(!isFound && tr[i].className !== "header") {
-            tr[i].style.display = "none";
-          }
-        }
-    }
-</script>
       
 <br>
 
