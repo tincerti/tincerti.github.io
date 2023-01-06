@@ -180,7 +180,7 @@ Amakudata: A new dataset of revolving door hires
 
 
 
-
+<style type="text/css">
 #myInput {
   background-image: url('/css/searchicon.png'); /* Add a search icon to input */
   background-position: 10px 12px; /* Position the search icon */
@@ -213,6 +213,7 @@ Amakudata: A new dataset of revolving door hires
   /* Add a grey background color to the table header and on hover */
   background-color: #f1f1f1;
 }
+</style>
       
 <br>
 
