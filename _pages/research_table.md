@@ -9,7 +9,7 @@ author_profile: false
 
 <br>
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search...">
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search topics...">
 
 <table id="myTable">
 <colgroup>
