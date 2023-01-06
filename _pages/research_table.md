@@ -7,6 +7,8 @@ author_profile: false
 
 ## Publications and working papers
 
+<br>
+
 <table>
 <colgroup>
 <col width="55%" />
