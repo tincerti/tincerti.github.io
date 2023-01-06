@@ -7,6 +7,8 @@ author_profile: false
 
 ## Publications and working papers
 
+My published research and current working papers are listed below. You can click the "abstract" button to view the abstract of each paper. For full citation information, please view my <a href="https://www.trevorincerti.com/files/incerti_cv.pdf">CV</a>. 
+
 <br>
 
 <style type="text/css">
