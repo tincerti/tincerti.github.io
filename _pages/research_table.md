@@ -17,8 +17,8 @@ author_profile: false
     table = document.getElementById("myTable");
     tr = table.getElementsByTagName("tr");
     for (i = 0; i < tr.length; i++) {
-        // td = tr[i].getElementsByTagName("td")[0];
-        alltags = tr[i].getElementsByTagName("td");
+        td = tr[i].getElementsByTagName("td")[3];
+       // alltags = tr[i].getElementsByTagName("td");
         isFound = false;
         for(j=0; j< alltags.length; j++) {
           td = alltags[j];
