@@ -165,7 +165,7 @@ Amakudata: A new dataset of revolving door hires
   border-collapse: collapse; /* Collapse borders */
   width: 100%; /* Full-width */
   border: 1px solid #ddd; /* Add a grey border */
-  font-size: 12px; /* Increase font-size */
+  font-size: 14px; /* Increase font-size */
 }
 
 #myTable th, #myTable td {
