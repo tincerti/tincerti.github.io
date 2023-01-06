@@ -35,8 +35,6 @@ author_profile: false
 </style>
 
 
-<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search topics...">
-
 <table id="myTable">
 <colgroup>
 <col width="55%" />
