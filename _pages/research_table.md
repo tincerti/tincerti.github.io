@@ -44,7 +44,7 @@ author_profile: false
 }
 </style>
 
-<script type="text/JavaScript"/>
+<script type="text/JavaScript">
     function myFunction() {
   // Declare variables 
   var input, filter, table, tr, td, i, txtValue;
@@ -66,8 +66,6 @@ author_profile: false
     } 
   }
 }
-
-
 </script>
 
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search topics...">
