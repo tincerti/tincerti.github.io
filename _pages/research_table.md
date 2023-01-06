@@ -184,7 +184,7 @@ Amakudata: A new dataset of revolving door hires
 </table>
 
 
-<script type="text/JavaScript">
+<script>
     function myFunction() {
   // Declare variables 
   var input, filter, table, tr, td, i, txtValue;
