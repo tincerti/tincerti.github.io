@@ -9,7 +9,9 @@ author_profile: false
 
 <br>
 
-<table>
+<input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search...">
+
+<table id="myTable">
 <colgroup>
 <col width="55%" />
 <col width="22%" />
