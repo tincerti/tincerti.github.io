@@ -9,6 +9,7 @@ author_profile: false
 
 <br>
 
+% HTML Table
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search...">
 
 <table id="myTable">
@@ -147,6 +148,7 @@ Amakudata: A new dataset of revolving door hires
 </tbody>
 </table>
 
+% CSS
 #myInput {
   background-image: url('/css/searchicon.png'); /* Add a search icon to input */
   background-position: 10px 12px; /* Position the search icon */
@@ -180,6 +182,7 @@ Amakudata: A new dataset of revolving door hires
   background-color: #f1f1f1;
 }
 
+% JavaScript
 <script>
     function myFunction() {
     var input, filter, table, tr, td, i, txtValue;
