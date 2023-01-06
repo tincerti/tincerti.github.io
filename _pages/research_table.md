@@ -9,37 +9,6 @@ author_profile: false
 
 <br>
 
-<script>
-    function myFunction() {
-    var input, filter, table, tr, td, i, txtValue;
-    input = document.getElementById("myInput");
-    filter = input.value.toUpperCase();
-    table = document.getElementById("myTable");
-    tr = table.getElementsByTagName("tr");
-    for (i = 0; i < tr.length; i++) {
-        td = tr[i].getElementsByTagName("td")[3];
-       // alltags = tr[i].getElementsByTagName("td");
-        isFound = false;
-        for(j=0; j< alltags.length; j++) {
-          td = alltags[j];
-          if (td) {
-              txtValue = td.textContent || td.innerText;
-              if (txtValue.toUpperCase().indexOf(filter) > -1) {
-                  tr[i].style.display = "";
-                  j = alltags.length;
-                  isFound = true;
-              }
-            }       
-          }
-          if(!isFound && tr[i].className !== "header") {
-            tr[i].style.display = "none";
-          }
-        }
-    }
-</script>
-
-
-
 <input type="text" id="myInput" onkeyup="myFunction()" placeholder="Search...">
 
 <table id="myTable">
@@ -214,6 +183,35 @@ Amakudata: A new dataset of revolving door hires
   background-color: #f1f1f1;
 }
 </style>
+
+<script>
+    function myFunction() {
+    var input, filter, table, tr, td, i, txtValue;
+    input = document.getElementById("myInput");
+    filter = input.value.toUpperCase();
+    table = document.getElementById("myTable");
+    tr = table.getElementsByTagName("tr");
+    for (i = 0; i < tr.length; i++) {
+        td = tr[i].getElementsByTagName("td")[3];
+       // alltags = tr[i].getElementsByTagName("td");
+        isFound = false;
+        for(j=0; j< alltags.length; j++) {
+          td = alltags[j];
+          if (td) {
+              txtValue = td.textContent || td.innerText;
+              if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                  tr[i].style.display = "";
+                  j = alltags.length;
+                  isFound = true;
+              }
+            }       
+          }
+          if(!isFound && tr[i].className !== "header") {
+            tr[i].style.display = "none";
+          }
+        }
+    }
+</script>
       
 <br>
 
