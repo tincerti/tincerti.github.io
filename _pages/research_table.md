@@ -69,7 +69,7 @@ My published research and current working papers are listed below. You can click
 </td>
 <td markdown="span">*British Journal of Political Science*</td>
 <td markdown="span">2021</td>
-<td markdown="span">Experiments; Japan</td>
+<td markdown="span">Experiments; China; Japan</td>
 </tr>
 <tr>
 <td>
@@ -123,7 +123,7 @@ My published research and current working papers are listed below. You can click
 </td>
 <td markdown="span">Working paper (*under review*)</td>
 <td markdown="span">  </td>
-<td markdown="span"> Experiments; Political Economy</td>
+<td markdown="span"> Experiments; Political Economy; United States</td>
 </tr>
 <tr>
 <td>
@@ -141,7 +141,7 @@ My published research and current working papers are listed below. You can click
 </td>
 <td markdown="span">Working paper </td>
 <td markdown="span">  </td>
-<td markdown="span"> Experiments; Political Economy</td>
+<td markdown="span"> Experiments; Political Economy; China; United States</td>
 </tr>
 <tr>
 <td>
@@ -159,7 +159,7 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 </td>
 <td markdown="span">Working paper </td>
 <td markdown="span">  </td>
-<td markdown="span"> Political Economy; Japan</td>
+<td markdown="span"> Political Economy; China; Japan</td>
 </tr>
 <tr>
 <td>
