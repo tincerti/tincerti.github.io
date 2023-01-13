@@ -19,7 +19,7 @@ I believe science is improved by collaboration with researchers with diverse bac
 | [Melanie Sayuri Dominguez](https://polisci.unm.edu/people/graduate-students/profile/melanie-sonntag.html) (University of New Mexico) | [Sayumi Miyano](https://politics.princeton.edu/people/sayumi-miyano) (Princeton University) |
 | [Timothy Fraser](https://timothyfraser.com) (Northeastern University) | [Frances Rosenbluth](https://campuspress.yale.edu/francesrosenbluth/) (Yale University) |
 [Etienne Gagnon](https://scholar.google.com/citations?user=zWsu138AAAAJ&hl=en) (University of Tokyo) | [Harunobu Saijo](https://harunobusaijo.neocities.org) (Duke University) |
-| [Devin Incerti](https://devinincerti.com/) (Genentech Inc.)                                                  | [Diana Stanescu](https://scholar.princeton.edu/dmstanescu/home) (Princeton University)  |
+| [Devin Incerti](https://devinincerti.com/) (EntityRisk, Inc.)                                                  | [Diana Stanescu](https://scholar.princeton.edu/dmstanescu/home) (Princeton University)  |
 | [Jinhyuk Jang](https://jinhyukjang.com) (Kochi University of Technology) | [Seiki Tanaka](https://www.seikitanaka.com/) (University of Groningen) |
 | [Changwook Ju](https://politicalscience.yale.edu/people/changwook-ju) (Yale University)                  | [Ayumi Teraoka](http://www.ayumi-teraoka.com) (UT Austin)  |
 | [Rieko Kage](https://www.u-tokyo.ac.jp/focus/en/people/people003656.html) (University of Tokyo)   | [Charmaine N. Willis](https://cnwillis.com) (University at Albany) |
