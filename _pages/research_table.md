@@ -118,7 +118,7 @@ My published research and current working papers are listed below. You can click
 </tr>
 <tr>
 <td>
-<a href="https://www.trevorincerti.com/files/capture_in_local_politics.pdf">Countering capture in local politics: Evidence from eight field experiments</a>  (<a href="https://github.com/tincerti/council_experiment">Replication data</a>)
+<a href="https://www.trevorincerti.com/files/capture_in_local_politics.pdf">Countering capture in local politics: Evidence from eight field experiments</a>  (<a href="https://github.com/tincerti/council_experiment">Replication data</a>, <a href="https://osf.io/c84j7">Pre-analysis plan</a>)
   <details><summary>Abstract</summary> In the first field experiments to encourage participation in local civic bodies, I examine if outreach can reduce inequalities in who participates in city council meetings. Renter participation in local politics lags that of homeowners, who often participate to oppose housing growth. 19,951 renter households received randomly assigned emails encouraging them to comment at their city council meetings and support housing growth. Opening a message highlighting potential costs of abstention from local politics increased public comments by 1.4 percentage points versus placebo. These effects are substantively large: treatment-induced comments represented 8% of total comments and 46% of pro-housing comments across all targeted meetings. The results suggest that even low-cost outreach strategies can meaningfully increase participation in lesser-known settings like city councils and make these bodies more reflective of the general public. Further, increasing the perception that abstention is costly appears to be an effective motivator of collective action.</details>  
 </td>
 <td markdown="span">Working paper (*under review*)</td>
@@ -136,7 +136,7 @@ My published research and current working papers are listed below. You can click
 </tr>
 <tr>
 <td>
-<a href="https://osf.io/5cafd/">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  
+<a href="https://osf.io/5cafd/">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75"><Pre-analysis plan</a>)
   <details><summary>Abstract</summary> Many are skeptical of the appeal of authoritarian political systems. By contrast, we argue that a global audience will embrace authoritarian models when they believe that autocracies can meet governance challenges better than democracies. We conduct a randomized experiment in 19 countries across 6 continents exposing a global audience to real messages from the Chinese and American governments’ external media arms. We also collect comprehensive data on the Chinese and American government’s external propaganda. Our experiment shows that exposure to a representative set of Chinese messages strengthens perceptions that the CCP delivers growth, stability, and competent leadership. It also triples the proportion of respondents who think the Chinese system is superior to the American system, from 16 to 54 percent. In head-to-head match-ups, messages from the U.S. government are less persuasive. Our findings show how autocracies build global support by selling growth and competence, with important implications for democratic resilience.</details>  
 </td>
 <td markdown="span">Working paper (*under review*) </td>
