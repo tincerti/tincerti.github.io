@@ -53,6 +53,7 @@ My published research and current working papers are listed below. You can click
 </tr>
 </thead>
 <tbody>
+
 <tr>
 <td>
 <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFFB58E13F44B31F63C58A452F57C697/S1049096522000932a.pdf/field-research-when-there-is-limited-access-to-the-field-lessons-from-japan.pdf">Field Research When There’s Limited Access to the Field: Lessons From Japan</a>  
@@ -62,6 +63,7 @@ My published research and current working papers are listed below. You can click
 <td markdown="span">2022</td>
 <td markdown="span">Research Methods; Japan</td>
 </tr>
+
 <tr>
 <td>
 <a href="https://www.cambridge.org/core/journals/british-journal-of-political-science/article/hawkish-partisans-how-political-parties-shape-nationalist-conflicts-in-china-and-japan/D625B68B3659A3CAD1A1D56E12AB45C3">Hawkish partisans: How political parties shape nationalist conflicts in China and Japan</a>  (<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/S4YXQB">Replication data</a>)
@@ -71,6 +73,7 @@ My published research and current working papers are listed below. You can click
 <td markdown="span">2021</td>
 <td markdown="span">Experiments; China; Japan</td>
 </tr>
+
 <tr>
 <td>
 <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AB2ACE468B04EAB85CAF7379F9DF4817/S000305542000012Xa.pdf/corruption_information_and_vote_share_a_metaanalysis_and_lessons_for_experimental_design.pdf">Corruption information and vote share: A meta-analysis and lessons for experimental design</a> (<a href="https://github.com/tincerti/corruption_meta">Replication data</a>)
@@ -80,6 +83,7 @@ My published research and current working papers are listed below. You can click
 <td markdown="span">2020</td>
 <td markdown="span">Corruption; Experiments; Research Methods</td>
 </tr>
+
 <tr>
 <td>
 <a href="https://www.oxfordhandbooks.com/view/10.1093/oxfordhb/9780190861360.001.0001/oxfordhb-9780190861360-e-21">The energy politics of Japan</a>  
@@ -89,6 +93,7 @@ My published research and current working papers are listed below. You can click
 <td markdown="span"> 2020 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy</td>
 </tr>
+
 <tr>
 <td>
 <a href="http://tincerti.github.io/files/AS5804_01_Incerti_and_Lipscy.pdf">The politics of energy and climate change in Japan under Abe</a>  
@@ -98,6 +103,7 @@ My published research and current working papers are listed below. You can click
 <td markdown="span"> 2018 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy </td>
 </tr>
+
 <tr>
 <td>
 <a href="https://pubs.acs.org/doi/pdfplus/10.1021/es4004813">The Fukushima disaster and Japan's nuclear plant vulnerability in comparative perspective</a>  
@@ -107,6 +113,7 @@ My published research and current working papers are listed below. You can click
 <td markdown="span"> 2013 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy </td>
 </tr>
+
 <tr>
 <td>
 <a href="https://arxiv.org/abs/2109.03774">Dyadic clustering in international relations</a>  
@@ -116,6 +123,7 @@ My published research and current working papers are listed below. You can click
 <td markdown="span">  </td>
 <td markdown="span"> Research Methods </td>
 </tr>
+
 <tr>
 <td>
 <a href="https://www.trevorincerti.com/files/capture_in_local_politics.pdf">Countering capture in local politics: Evidence from eight field experiments</a>  (<a href="https://github.com/tincerti/council_experiment">Replication data</a>, <a href="https://osf.io/78dcn">Pre-analysis plan</a>)
@@ -125,6 +133,7 @@ My published research and current working papers are listed below. You can click
 <td markdown="span">  </td>
 <td markdown="span"> Experiments; Political Economy; United States</td>
 </tr>
+
 <tr>
 <td>
 <a href="http://tincerti.github.io/files/regime_changes.pdf">Are regime changes always bad economics? Evidence from daily financial data</a> (<a href="https://github.com/dincerti/political-instability">Replication data</a>) 
@@ -134,6 +143,7 @@ My published research and current working papers are listed below. You can click
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Business & Politics</td>
 </tr>
+
 <tr>
 <td>
 <a href="https://osf.io/5cafd/">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>)
@@ -143,6 +153,17 @@ My published research and current working papers are listed below. You can click
 <td markdown="span">  </td>
 <td markdown="span"> Experiments; Political Economy; China; United States</td>
 </tr>
+
+<tr>
+<td>
+How Domestic Politics Shapes International Soft Power Promotion: Evidence From East Asia (contact for draft)
+  <details><summary>Abstract</summary> In recent years, established democracies and ascendant autocracies have competed for the hearts and minds of citizens across the globe. In this article, we develop a novel theory of soft power effectiveness centered on the relations between soft power senders and receivers. We argue that when relations with soft power senders remain depoliticized in receivers’ domestic politics, soft power promotion fares well. When the relations are politicized, however, it risks backfiring. To test our theory, we conduct a multi-country experiment in East Asia that examines the effect of real-world Chinese and Japanese soft power promotion efforts. The experimental results lend credence to our theory. Where relations are depoliticized, soft power promotion efforts strengthen support for bilateral cooperation, and where relations are politicized, the same soft power treatments cause backlash. Our findings highlight that autocracies can effectively project soft power insofar as they retain good ties with their soft power recipients.</details>  
+</td>
+<td markdown="span">Working paper (*under review*) </td>
+<td markdown="span">  </td>
+<td markdown="span"> Political Economy; China; Japan</td>
+</tr>
+
 <tr>
 <td>
 Who benefits from the revolving door? Evidence from Japan (contact for draft)
@@ -152,15 +173,7 @@ Who benefits from the revolving door? Evidence from Japan (contact for draft)
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan</td>
 </tr>
-<tr>
-<td>
-How Domestic Politics Shapes International Soft Power Promotion: Evidence From East Asia (contact for draft)
-  <details><summary>Abstract</summary> In recent years, established democracies and ascendant autocracies have competed for the hearts and minds of citizens across the globe. In this article, we develop a novel theory of soft power effectiveness centered on the relations between soft power senders and receivers. We argue that when relations with soft power senders remain depoliticized in receivers’ domestic politics, soft power promotion fares well. When the relations are politicized, however, it risks backfiring. To test our theory, we conduct a multi-country experiment in East Asia that examines the effect of real-world Chinese and Japanese soft power promotion efforts. The experimental results lend credence to our theory. Where relations are depoliticized, soft power promotion efforts strengthen support for bilateral cooperation, and where relations are politicized, the same soft power treatments cause backlash. Our findings highlight that autocracies can effectively project soft power insofar as they retain good ties with their soft power recipients.</details>  
-</td>
-<td markdown="span">Working paper </td>
-<td markdown="span">  </td>
-<td markdown="span"> Political Economy; China; Japan</td>
-</tr>
+
 <tr>
 <td>
 Amakudata: A new dataset of revolving door hires
