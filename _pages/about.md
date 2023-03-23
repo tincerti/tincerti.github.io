@@ -26,7 +26,10 @@ I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012)
 
 I am an Assistant Professor in the Department of Political Science at the University of Amsterdam. 
 
-It has received coverage by media such as *The Economist*, *The New Yorker*, and *The Washington Post*.
+I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012), and was previously a Postdoctoral Fellow at the Weatherhead Center for International Affairs at Harvard University. 
+
+
+
 
 I typically use field experiments or original data collection and observational econometrics in my research.
 
