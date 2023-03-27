@@ -6,10 +6,11 @@ header:
 search: true
 excerpt: |
   <br>
-  Assistant Professor of Political Science
+  Assistant Professor
+  <br>
+  Department of Political Science
   <br>
   University of Amsterdam
-  <br>
   <br>
 permalink: /
 redirect_from: 
