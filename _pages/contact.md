@@ -5,10 +5,10 @@ permalink: /contact/
 author_profile: true
 ---
 
-Harvard University \\
-Weatherhead Center for International Affairs \\
-61 Kirkland St. \\
-Cambridge, MA 02138 USA
+University of Amsterdam \\
+Department of Political Science \\
+Nieuwe Achtergracht 166 \\
+1018 WV, Amsterdam, The Netherlands 
 
 <iframe src="https://calendly.com/trevor-incerti" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
 

@@ -6,7 +6,9 @@ header:
 search: true
 excerpt: |
   <br>
+  Assistant Professor of Political Science
   <br>
+  University of Amsterdam
   <br>
   <br>
 permalink: /
@@ -15,18 +17,16 @@ redirect_from:
   - /about.html
 ---
 
-Welcome!
+Welcome! I am an Assistant Professor in the Department of Political Science at the University of Amsterdam. 
 
 My research examines economic drivers of political behavior, with a focus on extraction of private gain from politics and public office by businesses, individuals, and interest groups. Much of my work focuses on Northeast Asia, particularly Japan. I also conduct research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research has been published in the *American Political Science Review* and *British Journal of Political Science*, among other outlets. It has received coverage by media such as *The Economist*, *The New Yorker*, and *The Washington Post*.
 
-I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012). Before graduate school, I worked as a Data Scientist at TrueCar and as an economic consultant at Compass Lexecon.
+I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012), and was previously a Postdoctoral Fellow at the Weatherhead Center for International Affairs at Harvard University. Before graduate school, I worked as a Data Scientist at TrueCar and as an economic consultant at Compass Lexecon.
 
 
 {% comment %}
 
-I am an Assistant Professor in the Department of Political Science at the University of Amsterdam. 
 
-I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012), and was previously a Postdoctoral Fellow at the Weatherhead Center for International Affairs at Harvard University. 
 
 
 
