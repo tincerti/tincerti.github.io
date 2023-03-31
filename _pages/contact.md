@@ -8,7 +8,7 @@ author_profile: true
 University of Amsterdam \\
 Department of Political Science \\
 Nieuwe Achtergracht 166 \\
-1018 WV, Amsterdam \\ 
+1018 WV, Amsterdam \\
 The Netherlands 
 
 <iframe src="https://calendly.com/trevor-incerti" width="100%" height="950" scrolling="no" frameborder="0"></iframe>
