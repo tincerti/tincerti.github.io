@@ -190,7 +190,6 @@ Amakudata: A new dataset of revolving door hires
 </tr>
 </tbody>
 </table>
-</table>
 
 <script>
 function filterTable(columnIndex) {
