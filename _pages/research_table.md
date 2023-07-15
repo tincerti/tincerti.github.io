@@ -7,7 +7,7 @@ author_profile: false
 
 ## Publications and working papers
 
-My published research and current working papers are listed below. You can click the "abstract" button to view the abstract of each paper, and "replication data" to view the data and scripts associated with each paper. For full citation information, please view my <a href="https://www.trevorincerti.com/files/incerti_cv.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=TE5-tI0AAAAJ&hl=en&oi=ao">Google Scholar</a> page. Revert. 
+My published research and current working papers are listed below. You can click the "abstract" button to view the abstract of each paper, and "replication data" to view the data and scripts associated with each paper. For full citation information, please view my <a href="https://www.trevorincerti.com/files/incerti_cv.pdf">CV</a> or <a href="https://scholar.google.com/citations?user=TE5-tI0AAAAJ&hl=en&oi=ao">Google Scholar</a> page. 
 
 <br>
 
