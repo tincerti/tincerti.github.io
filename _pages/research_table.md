@@ -36,6 +36,11 @@ My published research and current working papers are listed below. You can click
 }
 </style>
 
+<!-- Add input element for filtering by year -->
+<input type="text" id="yearInput" onkeyup="filterTable(2)" placeholder="Search for Year..">
+
+<!-- Add input element for filtering by topics -->
+<input type="text" id="topicsInput" onkeyup="filterTable(3)" placeholder="Search for Topics..">
 
 <table id="myTable">
 <colgroup>
@@ -185,11 +190,11 @@ Amakudata: A new dataset of revolving door hires
 </tr>
 </tbody>
 </table>
-
+</table>
 
 <script>
-    function myFunction() {
-  // Declare variables 
+function filterTable(columnIndex) {
+  // Declare variables
   var input, filter, table, tr, td, i, txtValue;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();
@@ -198,7 +203,7 @@ Amakudata: A new dataset of revolving door hires
 
   // Loop through all table rows, and hide those who don't match the search query
   for (i = 0; i < tr.length; i++) {
-    td = tr[i].getElementsByTagName("td")[2];
+    td = tr[i].getElementsByTagName("td")[columnIndex];
     if (td) {
       txtValue = td.textContent || td.innerText;
       if (txtValue.toUpperCase().indexOf(filter) > -1) {
@@ -206,10 +211,11 @@ Amakudata: A new dataset of revolving door hires
       } else {
         tr[i].style.display = "none";
       }
-    } 
+    }
   }
 }
 </script>
+
 
       
 <br>
