@@ -56,6 +56,16 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
+<a href="https://arxiv.org/abs/2109.03774">Dyadic clustering in international relations</a>  
+  <details><summary>Abstract</summary> Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research.</details>  
+</td>
+<td markdown="span">*Political Analysis*</td>
+<td markdown="span">Forthcoming</td>
+<td markdown="span">Research Methods</td>
+</tr>
+
+<tr>
+<td>
 <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/AFFB58E13F44B31F63C58A452F57C697/S1049096522000932a.pdf/field-research-when-there-is-limited-access-to-the-field-lessons-from-japan.pdf">Field Research When There’s Limited Access to the Field: Lessons From Japan</a>  
   <details><summary>Abstract</summary> How can scholars conduct field research when there is limited access to the field? The paper first identifies how limited and uncertain field access can affect field research and then provides recommendations to address these challenges. We focus on doing field research in Japan both because of our substantive expertise, but we think that problems and solutions we outline should be applicable to a broad range of countries. Our hope is that this paper contributes to the developing literature on conducting research during times of emergency and the larger literature on best practices for field research. </details>  
 </td>
@@ -112,16 +122,6 @@ My published research and current working papers are listed below. You can click
 <td markdown="span">*Environmental Science & Technology*</td>
 <td markdown="span"> 2013 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy </td>
-</tr>
-
-<tr>
-<td>
-<a href="https://arxiv.org/abs/2109.03774">Dyadic clustering in international relations</a>  
-  <details><summary>Abstract</summary> Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research.</details>  
-</td>
-<td markdown="span">Conditionally Accepted, *Political Analysis*</td>
-<td markdown="span">  </td>
-<td markdown="span"> Research Methods </td>
 </tr>
 
 <tr>
