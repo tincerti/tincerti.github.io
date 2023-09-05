@@ -9,6 +9,10 @@ author_profile: false
 
 I teach courses in statistical methods, statistical programming, and quantitative research design, as well as substantive areas of political economy and comparative politics. You can find some syllabi, student evaluations, and examples of lessons below:  
 
+- *Introduction to Political Economy*
+
+- [*Democracy in the Digital Age*](https://coursecatalogue.uva.nl/xmlpages/page/2022-2023-en/search-course/course/103690)
+
 - [*Foundations of Statistical Inference*](http://www.trevorincerti.com/files/PL500-syllabus-2019.pdf) (Professor [P.M. Aronow](https://pmaronow.github.io)):  
   <details>
   <summary>Lessons</summary>
