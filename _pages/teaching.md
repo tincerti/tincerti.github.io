@@ -13,7 +13,7 @@ I teach courses in statistical methods, statistical programming, and quantitativ
 
 - [*Democracy in the Digital Age*](https://coursecatalogue.uva.nl/xmlpages/page/2022-2023-en/search-course/course/103690)
 
-- [*Foundations of Statistical Inference*](http://www.trevorincerti.com/files/PL500-syllabus-2019.pdf) (Professor [P.M. Aronow](https://pmaronow.github.io)):  
+- [*Foundations of Statistical Inference*](http://www.trevorincerti.com/files/PL500-syllabus-2019.pdf) (TA for Professor [P.M. Aronow](https://pmaronow.github.io)):  
   <details>
   <summary>Lessons</summary>
   <ul>
@@ -34,7 +34,7 @@ I teach courses in statistical methods, statistical programming, and quantitativ
   </ul>
   </details>
 
-- [*Design and Analysis of Randomized Field Experiments*](http://www.trevorincerti.com/files/PLSC_512_2020.pdf) (Professor [Alexander Coppock](https://alexandercoppock.com)):  
+- [*Design and Analysis of Randomized Field Experiments*](http://www.trevorincerti.com/files/PLSC_512_2020.pdf) (TA for Professor [Alexander Coppock](https://alexandercoppock.com)):  
   <details>
   <summary>Lessons</summary>
   <ul>
