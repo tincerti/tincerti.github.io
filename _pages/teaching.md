@@ -7,7 +7,7 @@ author_profile: false
 
 ## Teaching Experience
 
-I teach courses in statistical methods, statistical programming, and quantitative research design, as well as substantive areas of political economy. You can find syllabi, student evaluations, and examples of some of my lessons below:  
+I teach courses in statistical methods, statistical programming, and quantitative research design, as well as substantive areas of political economy and comparative politics. You can find some syllabi, student evaluations, and examples of lessons below:  
 
 - [*Foundations of Statistical Inference*](http://www.trevorincerti.com/files/PL500-syllabus-2019.pdf) (Professor [P.M. Aronow](https://pmaronow.github.io)):  
   <details>
