@@ -136,6 +136,17 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
+<a href="https://osf.io/5cafd/">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>)
+  <details><summary>Abstract</summary> Many are skeptical of the appeal of authoritarian political systems. By contrast, we argue that a global audience will embrace authoritarian models when they believe that autocracies can meet governance challenges better than democracies. We conduct a randomized experiment in 19 countries across 6 continents exposing a global audience to real messages from the Chinese and American governments’ external media arms. We also collect comprehensive data on the Chinese and American government’s external propaganda. Our experiment shows that exposure to a representative set of Chinese messages strengthens perceptions that the CCP delivers growth, stability, and competent leadership. It also triples the proportion of respondents who think the Chinese system is superior to the American system, from 16 to 54 percent. In head-to-head match-ups, messages from the U.S. government are less persuasive. Our findings show how autocracies build global support by selling growth and competence, with important implications for democratic resilience.</details>  
+</td>
+<td markdown="span">Conditionally accepted, *American Journal of Political Science*</td>
+<td markdown="span">  </td>
+<td markdown="span"> Experiments; Political Economy; China; United States</td>
+</tr>
+
+
+<tr>
+<td>
 <a href="http://tincerti.github.io/files/regime_changes.pdf">Are regime changes always bad economics? Evidence from daily financial data</a> (<a href="https://github.com/dincerti/political-instability">Replication data</a>) 
   <details><summary>Abstract</summary> Political instability is commonly thought to discourage investment and reduce economic growth. By contrast, we find that different types of “irregular” regime changes - coups, assassinations, or resignations - have disparate effects on stock returns. We examine daily returns of national stock indices in every country that experienced an irregular regime change subject to data availability. Using an event study approach, we show that abnormal returns following resignations are large and positive (4%), while those following assassinations are negative and smaller in magnitude (2%). The impact of coups tends to be negative (2%), but some events result in positive abnormal returns of 10% or more. Volatility increases during times of protest preceding resignations, but no clear directionality is present. We therefore find that the expected direction and magnitude of abnormal returns is dependent on the type of political event and its expected impact on economic policy.</details>  
 </td>
@@ -144,15 +155,6 @@ My published research and current working papers are listed below. You can click
 <td markdown="span"> Political Economy; Business & Politics</td>
 </tr>
 
-<tr>
-<td>
-<a href="https://osf.io/5cafd/">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>)
-  <details><summary>Abstract</summary> Many are skeptical of the appeal of authoritarian political systems. By contrast, we argue that a global audience will embrace authoritarian models when they believe that autocracies can meet governance challenges better than democracies. We conduct a randomized experiment in 19 countries across 6 continents exposing a global audience to real messages from the Chinese and American governments’ external media arms. We also collect comprehensive data on the Chinese and American government’s external propaganda. Our experiment shows that exposure to a representative set of Chinese messages strengthens perceptions that the CCP delivers growth, stability, and competent leadership. It also triples the proportion of respondents who think the Chinese system is superior to the American system, from 16 to 54 percent. In head-to-head match-ups, messages from the U.S. government are less persuasive. Our findings show how autocracies build global support by selling growth and competence, with important implications for democratic resilience.</details>  
-</td>
-<td markdown="span">R&R, *American Journal of Political Science*</td>
-<td markdown="span">  </td>
-<td markdown="span"> Experiments; Political Economy; China; United States</td>
-</tr>
 
 <tr>
 <td>
