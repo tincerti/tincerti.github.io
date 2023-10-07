@@ -60,7 +60,7 @@ My published research and current working papers are listed below. You can click
   <details><summary>Abstract</summary> Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research.</details>  
 </td>
 <td markdown="span">*Political Analysis*</td>
-<td markdown="span">Forthcoming</td>
+<td markdown="span">2023</td>
 <td markdown="span">Research Methods</td>
 </tr>
 
@@ -70,7 +70,7 @@ My published research and current working papers are listed below. You can click
   <details><summary>Abstract</summary> How can scholars conduct field research when there is limited access to the field? The paper first identifies how limited and uncertain field access can affect field research and then provides recommendations to address these challenges. We focus on doing field research in Japan both because of our substantive expertise, but we think that problems and solutions we outline should be applicable to a broad range of countries. Our hope is that this paper contributes to the developing literature on conducting research during times of emergency and the larger literature on best practices for field research. </details>  
 </td>
 <td markdown="span">*PS: Political Science and Politics*</td>
-<td markdown="span">2022</td>
+<td markdown="span">2023</td>
 <td markdown="span">Research Methods; Japan</td>
 </tr>
 
