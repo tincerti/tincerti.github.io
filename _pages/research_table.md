@@ -138,11 +138,6 @@ My published research and current working papers are listed below. You can click
 <td>
 <a href="https://osf.io/5cafd/">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>)
   <details><summary>Abstract</summary> Many are skeptical of the appeal of authoritarian political systems. By contrast, we argue that a global audience will embrace authoritarian models when they believe that autocracies can meet governance challenges better than democracies. We conduct a randomized experiment in 19 countries across 6 continents exposing a global audience to real messages from the Chinese and American governments’ external media arms. We also collect comprehensive data on the Chinese and American government’s external propaganda. Our experiment shows that exposure to a representative set of Chinese messages strengthens perceptions that the CCP delivers growth, stability, and competent leadership. It also triples the proportion of respondents who think the Chinese system is superior to the American system, from 16 to 54 percent. In head-to-head match-ups, messages from the U.S. government are less persuasive. Our findings show how autocracies build global support by selling growth and competence, with important implications for democratic resilience.</details>  
-  <details>
-  <summary>Coverage</summary>
-  <ul>
-    <li><a href="https://www.trevorincerti.com/teaching/intro.html">The Economist</a>.</li>
-  </ul>
 </td>
 <td markdown="span">Conditionally accepted, *American Journal of Political Science*</td>
 <td markdown="span">  </td>
