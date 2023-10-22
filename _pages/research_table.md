@@ -128,6 +128,10 @@ My published research and current working papers are listed below. You can click
 <td>
 <a href="https://www.trevorincerti.com/files/capture_in_local_politics.pdf">Countering capture in local politics: Evidence from eight field experiments</a>  (<a href="https://github.com/tincerti/council_experiment">Replication data</a>, <a href="https://osf.io/78dcn">Pre-analysis plan</a>)
   <details><summary>Abstract</summary> In the first field experiments to encourage participation in local civic bodies, I examine if outreach can reduce inequalities in who participates in city council meetings. Renter participation in local politics lags that of homeowners, who often participate to oppose housing growth. 19,951 renter households received randomly assigned emails encouraging them to comment at their city council meetings and support housing growth. Opening a message highlighting potential costs of abstention from local politics increased public comments by 1.4 percentage points versus placebo. These effects are substantively large: treatment-induced comments represented 8% of total comments and 46% of pro-housing comments across all targeted meetings. The results suggest that even low-cost outreach strategies can meaningfully increase participation in lesser-known settings like city councils and make these bodies more reflective of the general public. Further, increasing the perception that abstention is costly appears to be an effective motivator of collective action.</details>  
+  <details><summary>Coverage</summary> 
+  <a href="https://www.newyorker.com/news/evan-osnos/sandy-fukushima-and-the-nuclear-industry"><em>The New Yorker</em></a>
+  , 
+  <a href="https://www.washingtonpost.com/opinions/protecting-nuclear-plants-from-natures-worst/2012/10/31/5af389ac-2374-11e2-8448-81b1ce7d6978_story.html">The Washington Post</a></details> 
 </td>
 <td markdown="span">Conditionally accepted, *Journal of Politics*</td>
 <td markdown="span">  </td>
