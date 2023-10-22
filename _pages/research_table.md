@@ -120,8 +120,7 @@ My published research and current working papers are listed below. You can click
   <details><summary>Abstract</summary> We consider the vulnerability of nuclear power plants to a disaster like the one that occurred at Fukushima Daiichi. Examination of Japanese nuclear plants affected by the earthquake and tsunami on March 11, 2011 shows that three variables were crucial at the early stages of the crisis: plant elevation, sea wall elevation, and location and status of backup generators. Higher elevations for these variables, or waterproof protection of backup generators, could have mitigated or prevented the disaster. We collected information on these variables, along with historical data on run-up heights, for 89 coastal nuclear power plants in the world. The data shows that 1. Japanese plants were relatively unprotected against potential inundation in international comparison, but there was considerable variation for power plants within and outside of Japan; 2. Older power plants and plants owned by the largest utility companies appear to have been particularly unprotected. </details>  
     <details><summary>Coverage</summary> 
   <a href="https://www.newyorker.com/news/evan-osnos/sandy-fukushima-and-the-nuclear-industry"><em>The New Yorker</em></a>
-  , 
-  <a href="https://www.washingtonpost.com/opinions/protecting-nuclear-plants-from-natures-worst/2012/10/31/5af389ac-2374-11e2-8448-81b1ce7d6978_story.html">The Washington Post</a></details> 
+  </details> 
 </td>
 <td markdown="span">*Environmental Science & Technology*</td>
 <td markdown="span"> 2013 </td>
