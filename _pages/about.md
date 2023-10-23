@@ -6,7 +6,7 @@ header:
 search: true
 excerpt: |
   <br>
-  Assistant Professor
+  Assistant Professor of Political Economy
   <br>
   Department of Political Science
   <br>
@@ -18,7 +18,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Professor in the Department of Political Science at the University of Amsterdam. 
+Welcome! I am an Assistant Professor of Political Economy at the University of Amsterdam. 
 
 My main area of research is in comparative political economy, and broadly examines economic drivers of political behavior. This includes topics such as money in politics, business-government relations, corruption, interest group influence, and collective action. Much of my work focuses on East Asia, particularly Japan, and I am a current co-organizer of the [Asian Politics Online Seminar Series](https://aposs.cc). I also conduct research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research is published or forthcoming in the *American Political Science Review*, *British Journal of Political Science*, and *Political Analysis*, among other outlets. It has received coverage by media such as *The Economist*, *The New Yorker*, and *The Washington Post*.
 
