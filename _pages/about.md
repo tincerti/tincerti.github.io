@@ -6,7 +6,7 @@ header:
 search: true
 excerpt: |
   <br>
-  Assistant Professor of Political Economy
+  Assistant Professor
   <br>
   Department of Political Science
   <br>
