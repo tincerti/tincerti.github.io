@@ -9,6 +9,8 @@ author_profile: false
 
 I teach courses in statistical methods, statistical programming, and quantitative research design, as well as substantive areas of political economy and comparative politics. You can find some syllabi, student evaluations, and examples of lessons below:  
 
+- [*Political Economy of East Asia*](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/111012) (MA seminar)
+
 - *Introduction to Political Economy* (BA lecture)
 
 - [*Democracy in the Digital Age*](https://coursecatalogue.uva.nl/xmlpages/page/2022-2023-en/search-course/course/103690) (BA seminar, BA lecture)
