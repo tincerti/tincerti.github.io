@@ -56,6 +56,30 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
+<a href="https://www.trevorincerti.com/files/capture_in_local_politics.pdf">Countering capture in local politics: Evidence from eight field experiments</a>  (<a href="https://github.com/tincerti/council_experiment">Replication data</a>, <a href="https://osf.io/78dcn">Pre-analysis plan</a>)
+  <details><summary>Abstract</summary> In the first field experiments to encourage participation in local civic bodies, I examine if outreach can reduce inequalities in who participates in city council meetings. Renter participation in local politics lags that of homeowners, who often participate to oppose housing growth. 19,951 renter households received randomly assigned emails encouraging them to comment at their city council meetings and support housing growth. Opening a message highlighting potential costs of abstention from local politics increased public comments by 1.4 percentage points versus placebo. These effects are substantively large: treatment-induced comments represented 8% of total comments and 46% of pro-housing comments across all targeted meetings. The results suggest that even low-cost outreach strategies can meaningfully increase participation in lesser-known settings like city councils and make these bodies more reflective of the general public. Further, increasing the perception that abstention is costly appears to be an effective motivator of collective action.</details>  
+</td>
+<td markdown="span">Conditionally accepted, *Journal of Politics*</td>
+<td markdown="span">  </td>
+<td markdown="span"> Experiments; Political Economy; United States</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://osf.io/5cafd/">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>)
+  <details><summary>Abstract</summary> Many are skeptical of the appeal of authoritarian political systems. We argue that global audiences will embrace authoritarian models when they believe that autocracies can meet governance challenges better than democracies. We collect comprehensive data on the external messaging of the Chinese and American governments. We then conduct a randomized experiment in 19 countries across 6 continents exposing global citizens to real messages from the Chinese and American governments’ external media arms. We find that exposure to a representative set of Chinese messages strengthens perceptions that the Chinese Communist Party delivers growth, stability, and competent leadership. It also moves the average respondent from slightly preferring the American model to slightly preferring the Chinese model. In head-to-head matchups, messages from the U.S. government are less persuasive. Our findings show how autocracies build global support by selling growth and competence, with important implications for democratic resilience.</details>  
+  <details><summary>Coverage</summary> 
+  <a href="https://www.economist.com/china/2023/02/16/chinese-propaganda-is-surprisingly-effective-abroad"><em>The Economist</em></a>
+  , 
+  <a href="https://bigdatachina.csis.org/chinese-state-media-abroad-more-effective-than-expected/">Center for Strategic and International Studies</a></details>  
+</td>
+<td markdown="span">Conditionally accepted, *American Journal of Political Science*</td>
+<td markdown="span">  </td>
+<td markdown="span"> Experiments; Political Economy; China; United States</td>
+</tr>
+
+<tr>
+<td>
 <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/521F1378ED4F8411B2A4AB0E8FA172A0/S1047198723000268a.pdf/dyadic-clustering-in-international-relations.pdf">Dyadic clustering in international relations</a>  (<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9I0LRQ">Replication data</a>) 
   <details><summary>Abstract</summary> Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research.</details>  
 </td>
@@ -126,31 +150,6 @@ My published research and current working papers are listed below. You can click
 <td markdown="span"> 2013 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy </td>
 </tr>
-
-<tr>
-<td>
-<a href="https://www.trevorincerti.com/files/capture_in_local_politics.pdf">Countering capture in local politics: Evidence from eight field experiments</a>  (<a href="https://github.com/tincerti/council_experiment">Replication data</a>, <a href="https://osf.io/78dcn">Pre-analysis plan</a>)
-  <details><summary>Abstract</summary> In the first field experiments to encourage participation in local civic bodies, I examine if outreach can reduce inequalities in who participates in city council meetings. Renter participation in local politics lags that of homeowners, who often participate to oppose housing growth. 19,951 renter households received randomly assigned emails encouraging them to comment at their city council meetings and support housing growth. Opening a message highlighting potential costs of abstention from local politics increased public comments by 1.4 percentage points versus placebo. These effects are substantively large: treatment-induced comments represented 8% of total comments and 46% of pro-housing comments across all targeted meetings. The results suggest that even low-cost outreach strategies can meaningfully increase participation in lesser-known settings like city councils and make these bodies more reflective of the general public. Further, increasing the perception that abstention is costly appears to be an effective motivator of collective action.</details>  
-</td>
-<td markdown="span">Conditionally accepted, *Journal of Politics*</td>
-<td markdown="span">  </td>
-<td markdown="span"> Experiments; Political Economy; United States</td>
-</tr>
-
-<tr>
-<td>
-<a href="https://osf.io/5cafd/">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>)
-  <details><summary>Abstract</summary> Many are skeptical of the appeal of authoritarian political systems. We argue that global audiences will embrace authoritarian models when they believe that autocracies can meet governance challenges better than democracies. We collect comprehensive data on the external messaging of the Chinese and American governments. We then conduct a randomized experiment in 19 countries across 6 continents exposing global citizens to real messages from the Chinese and American governments’ external media arms. We find that exposure to a representative set of Chinese messages strengthens perceptions that the Chinese Communist Party delivers growth, stability, and competent leadership. It also moves the average respondent from slightly preferring the American model to slightly preferring the Chinese model. In head-to-head matchups, messages from the U.S. government are less persuasive. Our findings show how autocracies build global support by selling growth and competence, with important implications for democratic resilience.</details>  
-  <details><summary>Coverage</summary> 
-  <a href="https://www.economist.com/china/2023/02/16/chinese-propaganda-is-surprisingly-effective-abroad"><em>The Economist</em></a>
-  , 
-  <a href="https://bigdatachina.csis.org/chinese-state-media-abroad-more-effective-than-expected/">Center for Strategic and International Studies</a></details>  
-</td>
-<td markdown="span">Conditionally accepted, *American Journal of Political Science*</td>
-<td markdown="span">  </td>
-<td markdown="span"> Experiments; Political Economy; China; United States</td>
-</tr>
-
 
 <tr>
 <td>
