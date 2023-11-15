@@ -12,6 +12,7 @@ excerpt: |
   <br>
   University of Amsterdam
   <br>
+  <br>
 permalink: /
 redirect_from: 
   - /about/
