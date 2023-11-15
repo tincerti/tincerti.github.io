@@ -6,6 +6,7 @@ header:
 search: true
 excerpt: |
   <br>
+  <br>
   Assistant Professor
   <br>
   Department of Political Science
