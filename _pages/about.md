@@ -1,7 +1,7 @@
 ---
 layout: splash
 header:
-  overlay_image: https://www.trevorincerti.com/images/amsterdam_kanazawa.jpg
+  overlay_image: https://www.trevorincerti.com/images/amsterdam_kanazawa.jpeg
   overlay_filter: 0.25
 search: true
 excerpt: |
@@ -12,6 +12,7 @@ excerpt: |
   Department of Political Science
   <br>
   University of Amsterdam
+  <br>
   <br>
   <br>
 permalink: /
