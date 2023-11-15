@@ -1,7 +1,7 @@
 ---
 layout: splash
 header:
-  overlay_image: https://www.trevorincerti.com/images/skyline_header_tokyo.jpg
+  overlay_image: https://www.trevorincerti.com/images/amsterdam_kanazawa.jpg
   overlay_filter: 0.25
 search: true
 excerpt: |
