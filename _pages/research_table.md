@@ -72,6 +72,8 @@ My published research and current working papers are listed below. You can click
   <a href="https://www.economist.com/china/2023/02/16/chinese-propaganda-is-surprisingly-effective-abroad"><em>The Economist</em></a>
   , 
   <a href="https://bigdatachina.csis.org/chinese-state-media-abroad-more-effective-than-expected/">Center for Strategic and International Studies</a></details>  
+  , 
+  <a href="https://www.groene.nl/artikel/de-zwitserse-alpen-lopen-tot-in-xinjiang">De Groene Amsterdammer</a></details>  
 </td>
 <td markdown="span">Conditionally accepted, *American Journal of Political Science*</td>
 <td markdown="span">  </td>
