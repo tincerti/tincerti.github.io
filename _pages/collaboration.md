@@ -24,7 +24,7 @@ I believe science is improved by collaboration with researchers with diverse bac
 | [Changwook Ju](https://politicalscience.yale.edu/people/changwook-ju) (Yale University)                  | [Ayumi Teraoka](http://www.ayumi-teraoka.com) (UT Austin)  |
 | [Rieko Kage](https://www.u-tokyo.ac.jp/focus/en/people/people003656.html) (University of Tokyo)   | [Charmaine N. Willis](https://cnwillis.com) (University at Albany) |
 | [Kristen Kao](https://kristenkao.com) (University of Gothenburg)                                       | [Yoojin Woo](https://hri.ad.hit-u.ac.jp/html/100001381_profile_en.html) (Hitotsubashi University) |
-| [Kenji Kushida](https://www.kenjikushida.org/) (Stanford University)                                  |  [Hikaru Yamagishi](https://hikaruyamagishi.com) (Stanford University) |
+| [Kenji Kushida](https://www.kenjikushida.org/) (Carnegie Endowment for International Peace)                                  |  [Hikaru Yamagishi](https://hikaruyamagishi.com) (Stanford University) |
 | [Phillip Lipscy](http://www.lipscy.org/) (University of Toronto)                        | [Jiahua Yue](https://yjh1222.github.io/) (Duke Kunshan University) |
 
 
