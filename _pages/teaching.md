@@ -9,7 +9,7 @@ author_profile: false
 
 I teach courses in quantitative research methods and statistical programming, as well as substantive areas of political economy and comparative politics. You can find some syllabi, student evaluations, and examples of lessons below:  
 
-**University of Amsterdam**
+**University of Amsterdam** (Instructor of Record)
 
 - [*Political Economy of East Asia*](https://coursecatalogue.uva.nl/xmlpages/page/2023-2024-en/search-course/course/111012) (MA seminar)
 
@@ -17,7 +17,7 @@ I teach courses in quantitative research methods and statistical programming, as
 
 - [*Democracy in the Digital Age*](https://coursecatalogue.uva.nl/xmlpages/page/2022-2023-en/search-course/course/103690) (BA seminar, BA lecture)
 
-**Yale University**
+**Yale University** (Teaching Assistance) 
 
 - [*Foundations of Statistical Inference*](http://www.trevorincerti.com/files/PL500-syllabus-2019.pdf) (TA for Professor [P.M. Aronow](https://pmaronow.github.io)):  
   <details>
