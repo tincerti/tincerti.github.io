@@ -195,8 +195,6 @@ Amakudata: A new dataset of revolving door hires
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan</td>
 </tr>
-</tbody>
-</table>
 
 <tr>
 <td>
@@ -206,6 +204,8 @@ Boosting civic participation: Experimental evidence from a mobile app recycling 
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Collective Action</td>
 </tr>
+</tbody>
+</table>
 
 
 <script>
