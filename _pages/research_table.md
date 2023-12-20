@@ -61,7 +61,7 @@ My published research and current working papers are listed below. You can click
 </td>
 <td markdown="span">Conditionally accepted, *Journal of Politics*</td>
 <td markdown="span">  </td>
-<td markdown="span"> Experiments; Political Economy; United States</td>
+<td markdown="span"> Experiments; Political Economy; Collective Action; United States</td>
 </tr>
 
 <tr>
@@ -197,6 +197,15 @@ Amakudata: A new dataset of revolving door hires
 </tr>
 </tbody>
 </table>
+
+<tr>
+<td>
+Boosting civic participation: Experimental evidence from a mobile app recycling program (contact for draft)
+</td>
+<td markdown="span">Working paper </td>
+<td markdown="span">  </td>
+<td markdown="span"> Political Economy; Collective Action</td>
+</tr>
 
 
 <script>
