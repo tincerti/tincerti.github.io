@@ -203,7 +203,7 @@ Boosting civic participation: Experimental evidence from a mobile app recycling 
 </td>
 <td markdown="span">Working paper </td>
 <td markdown="span">  </td>
-<td markdown="span"> Political Economy; Collective Action</td>
+<td markdown="span"> Experiments; Political Economy; Collective Action</td>
 </tr>
 </tbody>
 </table>
