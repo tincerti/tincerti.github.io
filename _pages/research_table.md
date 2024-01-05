@@ -66,7 +66,10 @@ My published research and current working papers are listed below. You can click
   , 
   <a href="https://www.ned.org/digital-directions-march-2-2023/">National Endowment for Democracy</a>
   , 
-  <a href="https://www.groene.nl/artikel/de-zwitserse-alpen-lopen-tot-in-xinjiang"><em>De Groene Amsterdammer</em></a></details>  
+  <a href="https://www.groene.nl/artikel/de-zwitserse-alpen-lopen-tot-in-xinjiang"><em>De Groene Amsterdammer</em></a>
+  ,
+  <a href="https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2023-12/state_media_and_china_model_12.15.23_1.pdf">Stanford Center on China's Economy and Institutions</a>
+  </details>  
 </td>
 <td markdown="span">Conditionally accepted, *American Journal of Political Science*</td>
 <td markdown="span">  </td>
