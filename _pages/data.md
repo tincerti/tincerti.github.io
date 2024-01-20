@@ -25,7 +25,7 @@ I am involved in multiple ongoing data collection processes related to Japanese 
   </ul>
   </details>
   
-- **jNPO**: A dataset of all subsidies and contracts from the Japanese government to nonprofit organizations (NPOs) from 2011 - 2021, including the agency or ministry which provided the subsidy or made the purchase, the NPO that received the subsidy or contract, and the value of the subsidy or contract.  
+- [**jNPO**](https://github.com/tincerti/jNPO): A dataset of all subsidies and contracts from the Japanese government to nonprofit organizations (NPOs) from 2011 - 2021, including the agency or ministry which provided the subsidy or made the purchase, the NPO that received the subsidy or contract, and the value of the subsidy or contract.  
 
 - **jProcurement** (with Hikaru Yamagishi): A dataset of all products procured from the private sector by the Japanese government from 2003 - 2018, including the agency or ministry which made the purchase, the company the product was purchased from, and the value of the contract.  
 
