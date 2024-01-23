@@ -23,16 +23,16 @@ redirect_from:
 
 Welcome! I am an Assistant Professor of Political Economy at the University of Amsterdam. 
 
-My main area of research is in comparative political economy, and broadly examines economic drivers of political behavior. This includes topics such as money in politics, business-government relations, corruption, interest group influence, and collective action. Much of my work focuses on East Asia, particularly Japan, and I am a current co-organizer of the [Asian Politics Online Seminar Series](https://aposs.cc). I also conduct research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research is published or forthcoming in the *American Political Science Review*, *British Journal of Political Science*, *Journal of Politics*, and *Political Analysis*, among other outlets. It has received coverage by media such as *The Economist*, *The New Yorker*, and *The Washington Post*.
+My main area of research is in comparative political economy, and broadly examines economic drivers of political behavior. This includes topics such as money in politics, business-government relations, corruption, interest group influence, and collective action. Much of my work focuses on East Asia, particularly Japan. I also conduct research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research is published or forthcoming in the *American Journal of Political Science*, *American Political Science Review*, *British Journal of Political Science*, *Journal of Politics*, and *Political Analysis*, among other outlets. It has received coverage by media such as *The Economist*, *The New Yorker*, and *The Washington Post*. 
 
-I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012), and was previously a Postdoctoral Fellow at the Weatherhead Center for International Affairs at Harvard University. Before graduate school, I worked as a Data Scientist at TrueCar and as an economic consultant at Compass Lexecon.
+I am also a Faculty Affiliate at the Georgetown University Edmund A. Walsh School of Foreign Service Asian Studies Program, and was previously a Postdoctoral Fellow at the Weatherhead Center for International Affairs at Harvard University. I received my Ph.D. from Yale University and B.A. from UC Berkeley. Before graduate school, I worked as a Data Scientist and in economic consulting. 
 
 
 {% comment %}
 
 
 
-
+I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012), and was previously a Postdoctoral Fellow at the Weatherhead Center for International Affairs at Harvard University. Before graduate school, I worked as a Data Scientist and in economic consulting. 
 
 
 I typically use field experiments or original data collection and observational econometrics in my research.
@@ -45,6 +45,8 @@ My research focuses on extraction of private gain from politics and public offic
 I typically use field experiments or original data collection and observational econometrics in my research. I have also conducted research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research has been published in the *American Political Science Review* and *British Journal of Political Science*, among other outlets. 
 
 I received my Ph.D. from Yale University (2022) and B.A. from UC Berkeley (2012), and previously worked as a Data Scientist at TrueCar, Inc. and as an economic consultant at Compass Lexecon.
+
+and I am a current co-organizer of the [Asian Politics Online Seminar Series](https://aposs.cc)
 
 
 {% endcomment %}
