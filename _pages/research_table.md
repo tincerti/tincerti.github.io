@@ -71,8 +71,8 @@ My published research and current working papers are listed below. You can click
   <a href="https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2023-12/state_media_and_china_model_12.15.23_1.pdf">Stanford Center on China's Economy and Institutions</a>
   </details>  
 </td>
-<td markdown="span">Conditionally accepted, *American Journal of Political Science*</td>
-<td markdown="span">  </td>
+<td markdown="span">*American Journal of Political Science*</td>
+<td markdown="span">Forthcoming</td>
 <td markdown="span"> Experiments; Political Economy; China; United States</td>
 </tr>
 
@@ -82,7 +82,7 @@ My published research and current working papers are listed below. You can click
   <details><summary>Abstract</summary> In the first field experiments to encourage participation in local civic bodies, I examine if outreach can reduce inequalities in who participates in city council meetings. Renter participation in local politics lags that of homeowners, who often participate to oppose housing growth. 19,951 renter households received randomly assigned emails encouraging them to comment at their city council meetings and support housing growth. Opening a message highlighting potential costs of abstention from local politics increased public comments by 1.4 percentage points versus placebo. These effects are substantively large: treatment-induced comments represented 8% of total comments and 46% of pro-housing comments across all targeted meetings. The results suggest that even low-cost outreach strategies can meaningfully increase participation in lesser-known settings like city councils and make these bodies more reflective of the general public. Further, increasing the perception that abstention is costly appears to be an effective motivator of collective action.</details>  
 </td>
 <td markdown="span">*Journal of Politics*</td>
-<td markdown="span"> Forthcoming </td>
+<td markdown="span">Forthcoming</td>
 <td markdown="span"> Experiments; Political Economy; Collective Action; United States</td>
 </tr>
 
