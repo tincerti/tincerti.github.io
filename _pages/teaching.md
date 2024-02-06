@@ -45,6 +45,7 @@ I teach courses in quantitative research methods and statistical programming, as
   <summary>Lessons</summary>
   <ul>
     <li><a href="https://www.trevorincerti.com/teaching/intro.html">Introduction to dplyr, potential outcomes, and random assignment</a>.</li>
+    <li><a href="https://www.trevorincerti.com/teaching/noncompliance.html">One-sided noncompliance</a>.</li>
     <li><a href="https://www.trevorincerti.com/teaching/meta-analysis.html">Research synthesis and meta-analysis</a>.</li>
   </ul>
   </details>
