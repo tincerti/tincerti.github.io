@@ -54,6 +54,15 @@ My published research and current working papers are listed below. You can click
 </thead>
 <tbody>
 
+<tr>
+<td>
+<a href="http://tincerti.github.io/files/regime_changes.pdf">Are regime changes always bad economics? Evidence from daily financial data</a> (<a href="https://github.com/dincerti/political-instability">Replication data</a>) 
+  <details><summary>Abstract</summary> Political instability is commonly thought to discourage investment and reduce economic growth. We challenge this consensus by showing that instability does not systematically depress investment. Using an event study approach, we examine daily returns of national financial indices in every country that experienced an irregular regime change subject to data availability. Returns following resignations are large and positive (+4%), while those following assassinations are negative and smaller in magnitude (-2%). The impact of coups tends to be negative (-2%), but we show that a pro-business coup results in large positive returns (+10%). We also find evidence that authoritarian or anti-business regime changes are more likely to lead to capital flight than democratic or pro-business changes. The immediate impact of political instability on investment is therefore dependent on the type of regime change and its expected impact on future growth.</details>  
+</td>
+<td markdown="span">*Business & Politics*</td>
+<td markdown="span"> Forthcoming</td>
+<td markdown="span"> Political Economy; Business & Politics</td>
+</tr>
 
 <tr>
 <td>
@@ -157,16 +166,6 @@ My published research and current working papers are listed below. You can click
 <td markdown="span">*Environmental Science & Technology*</td>
 <td markdown="span"> 2013 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy </td>
-</tr>
-
-<tr>
-<td>
-<a href="http://tincerti.github.io/files/regime_changes.pdf">Are regime changes always bad economics? Evidence from daily financial data</a> (<a href="https://github.com/dincerti/political-instability">Replication data</a>) 
-  <details><summary>Abstract</summary> Political instability is commonly thought to discourage investment and reduce economic growth. By contrast, we find that different types of “irregular” regime changes - coups, assassinations, or resignations - have disparate effects on stock returns. We examine daily returns of national stock indices in every country that experienced an irregular regime change subject to data availability. Using an event study approach, we show that abnormal returns following resignations are large and positive (4%), while those following assassinations are negative and smaller in magnitude (2%). The impact of coups tends to be negative (2%), but some events result in positive abnormal returns of 10% or more. Volatility increases during times of protest preceding resignations, but no clear directionality is present. We therefore find that the expected direction and magnitude of abnormal returns is dependent on the type of political event and its expected impact on economic policy.</details>  
-</td>
-<td markdown="span">R&R, *Business & Politics*</td>
-<td markdown="span">  </td>
-<td markdown="span"> Political Economy; Business & Politics</td>
 </tr>
 
 
