@@ -82,7 +82,7 @@ My published research and current working papers are listed below. You can click
 </td>
 <td markdown="span">*American Journal of Political Science*</td>
 <td markdown="span">Forthcoming</td>
-<td markdown="span"> Experiments; Political Economy; China; United States</td>
+<td markdown="span"> Experiments; Political Economy; Money in politics; China; United States</td>
 </tr>
 
 <tr>
