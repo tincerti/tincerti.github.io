@@ -57,7 +57,9 @@ I teach courses in quantitative research methods and statistical programming, as
   </details>
   
 
+**Other teaching**
 
+- [*Pre-registration for observational analyses*](http://www.trevorincerti.com/teaching/incerti_bitss.pdf) (Berkeley Initiative for Transparency in the Social Sciences)
 
 
 
