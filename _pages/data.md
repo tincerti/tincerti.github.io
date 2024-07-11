@@ -29,7 +29,7 @@ I am involved in multiple ongoing data collection processes related to Japanese 
 
 - **jProcurement** (with Hikaru Yamagishi): A dataset of all products procured from the private sector by the Japanese government from 2003 - 2018, including the agency or ministry which made the purchase, the company the product was purchased from, and the value of the contract.  
 
-
+{% comment %}
 ## Software 
 
 **read_dir**: R function that can be used to concatenate all data files with common columns from a directory into a single data set, and creates an optional column identifying the name of the file for each row. 
@@ -119,7 +119,7 @@ read_dir = function(path, extension, delim, filename, sheet = NULL, skip = 0,
 
 </details>
 
-
+{% endcomment %}
 
 
 
