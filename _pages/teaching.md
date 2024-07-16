@@ -11,7 +11,7 @@ I teach courses in quantitative research methods and statistical programming, as
 
 **University of Amsterdam** (Instructor of Record)
 
-- [*Political Economy of East Asia*](http://www.trevorincerti.com/files/political_economy_of_east_asia_syllabus.pdf) (MA seminar)
+- [*Political Economy of East Asia*](https://www.trevorincerti.com/teaching/political_economy_of_east_asia.html) (MA seminar)
 
 - *Introduction to Political Economy* (BA lecture)
 
