@@ -68,6 +68,8 @@ My published research and current working papers are listed below. You can click
   <a href="https://www.groene.nl/artikel/de-zwitserse-alpen-lopen-tot-in-xinjiang"><em>De Groene Amsterdammer</em></a>
   ,
   <a href="https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2023-12/state_media_and_china_model_12.15.23_1.pdf">Stanford Center on China's Economy and Institutions</a>
+  ,
+   <a href="https://thediplomat.com/2024/07/equipping-the-japan-us-alliance-to-handle-chinas-disinformation-operations/"><em>The Diplomat</em></a>
   </details>  
 </td>
 <td markdown="span">*American Journal of Political Science*</td>
