@@ -70,6 +70,8 @@ My published research and current working papers are listed below. You can click
   <a href="https://fsi9-prod.s3.us-west-1.amazonaws.com/s3fs-public/2023-12/state_media_and_china_model_12.15.23_1.pdf">Stanford Center on China's Economy and Institutions</a>
   ,
    <a href="https://thediplomat.com/2024/07/equipping-the-japan-us-alliance-to-handle-chinas-disinformation-operations/"><em>The Diplomat</em></a>
+     ,
+   <a href="https://fd.nl/samenleving/1526176/chinese-media-promoten-autocratie-succesvol"><em>Het Financieele Dagblad</em></a>
   </details>  
 </td>
 <td markdown="span">*American Journal of Political Science*</td>
