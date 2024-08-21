@@ -174,16 +174,6 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
- <a href="http://tincerti.github.io/files/who_benefits.pdf">Who benefits from the revolving door? Evidence from Japan</a>  
-  <details><summary>Abstract</summary> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections and to organizations beyond for-profit firms. Using new data recording the first post-bureaucracy position occupied by all former civil servants in Japan, I reveal a bifurcated job market in which the highest ranking civil servants from the most prestigious ministries retire into for-profit firms while others join non-profit and public organizations. I show that for-profit firms receive larger government loans and stock price boosts following bureaucratic hires, and that these effects are driven by hires from prestigious economic ministries. I also show that non-profits leverage their bureaucratic hires by receiving higher value contracts in periods when former officials are in director positions at the organization. While top civil servants are therefore of value to for-profit firms, others find post-bureaucracy employment in non-profits supported by government funding.</details>  
-</td>
-<td markdown="span">Working paper </td>
-<td markdown="span">  </td>
-<td markdown="span"> Political Economy; Business & Politics; Japan</td>
-</tr>
-
-<tr>
-<td>
 <a href="https://osf.io/preprints/socarxiv/gbfvj">Workers are willing to trade wages for better harassment reporting procedures</a>  
   <details><summary>Abstract</summary> Sexual harassment remains prevalent in the workplace. Yet despite abundant research on its prevalence, we know little about worker demand for systems to report and/or mitigate harassment. We present results from a conjoint experimental study of a large-scale sample of the Japanese public, in which we estimate how much salary and benefits workers are willing to trade for best-in-practice harassment protections. We find that women are 6 percentage points more likely to prefer firms with anonymous, third-party harassment reporting systems compared to other firms, and they also negatively value workplaces with no sexual harassment reporting mechanism equivalently to a workplace with a 20% lower wage.  Men also negatively value poor sexual harassment reporting mechanisms, but they are more willing to trade wages for better workplace bullying (``power harassment'') reporting systems. These findings suggest that workers are willing to pay for harassment reporting systems, and that companies may better attract talent by adopting these reporting schemes.</details>  
 </td>
@@ -194,10 +184,20 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
+ <a href="http://tincerti.github.io/files/who_benefits.pdf">Who benefits from the revolving door? Evidence from Japan</a>  
+  <details><summary>Abstract</summary> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections and to organizations beyond for-profit firms. Using new data recording the first post-bureaucracy position occupied by all former civil servants in Japan, I reveal a bifurcated job market in which the highest ranking civil servants from the most prestigious ministries retire into for-profit firms while others join non-profit and public organizations. I show that for-profit firms receive larger government loans and stock price boosts following bureaucratic hires, and that these effects are driven by hires from prestigious economic ministries. I also show that non-profits leverage their bureaucratic hires by receiving higher value contracts in periods when former officials are in director positions at the organization. While top civil servants are therefore of value to for-profit firms, others find post-bureaucracy employment in non-profits supported by government funding.</details>  
+</td>
+<td markdown="span">Working paper </td>
+<td markdown="span">  </td>
+<td markdown="span"> Political Economy; Business & Politics; Japan</td>
+</tr>
+
+<tr>
+<td>
 How Domestic Politics Shapes International Soft Power Promotion: Evidence From East Asia (contact for draft)
   <details><summary>Abstract</summary> In recent years, established democracies and ascendant autocracies have competed for the hearts and minds of citizens across the globe. In this article, we develop a novel theory of soft power effectiveness centered on the relations between soft power senders and receivers. We argue that when relations with soft power senders remain depoliticized in receivers’ domestic politics, soft power promotion fares well. When the relations are politicized, however, it risks backfiring. To test our theory, we conduct a multi-country experiment in East Asia that examines the effect of real-world Chinese and Japanese soft power promotion efforts. The experimental results lend credence to our theory. Where relations are depoliticized, soft power promotion efforts strengthen support for bilateral cooperation, and where relations are politicized, the same soft power treatments cause backlash. Our findings highlight that autocracies can effectively project soft power insofar as they retain good ties with their soft power recipients.</details>  
 </td>
-<td markdown="span">Working paper (*under review*) </td>
+<td markdown="span">Working paper </td>
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; China; Japan</td>
 </tr>
