@@ -194,22 +194,22 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
-How Domestic Politics Shapes International Soft Power Promotion: Evidence From East Asia (contact for draft)
-  <details><summary>Abstract</summary> In recent years, established democracies and ascendant autocracies have competed for the hearts and minds of citizens across the globe. In this article, we develop a novel theory of soft power effectiveness centered on the relations between soft power senders and receivers. We argue that when relations with soft power senders remain depoliticized in receivers’ domestic politics, soft power promotion fares well. When the relations are politicized, however, it risks backfiring. To test our theory, we conduct a multi-country experiment in East Asia that examines the effect of real-world Chinese and Japanese soft power promotion efforts. The experimental results lend credence to our theory. Where relations are depoliticized, soft power promotion efforts strengthen support for bilateral cooperation, and where relations are politicized, the same soft power treatments cause backlash. Our findings highlight that autocracies can effectively project soft power insofar as they retain good ties with their soft power recipients.</details>  
-</td>
-<td markdown="span">Working paper </td>
-<td markdown="span">  </td>
-<td markdown="span"> Political Economy; China; Japan</td>
-</tr>
-
-<tr>
-<td>
 Amakudata: A new dataset of revolving door hires (contact for draft)
   <details><summary>Abstract</summary> Political economists have long speculated about the effects of connections between bureaucracies and the private sector. However, data tracing flows of civil servants from the bureaucracy to the private sector remains rare. This article presents a new dataset, Amakudata, which contains individual-level data of all Japanese bureaucrats retiring into positions outside of the bureaucracy from 2009 to 2019.</details>  
 </td>
 <td markdown="span">Working paper </td>
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan</td>
+</tr>
+
+<tr>
+<td>
+How Domestic Politics Shapes International Soft Power Promotion: Evidence From East Asia (contact for draft)
+  <details><summary>Abstract</summary> In recent years, established democracies and ascendant autocracies have competed for the hearts and minds of citizens across the globe. In this article, we develop a novel theory of soft power effectiveness centered on the relations between soft power senders and receivers. We argue that when relations with soft power senders remain depoliticized in receivers’ domestic politics, soft power promotion fares well. When the relations are politicized, however, it risks backfiring. To test our theory, we conduct a multi-country experiment in East Asia that examines the effect of real-world Chinese and Japanese soft power promotion efforts. The experimental results lend credence to our theory. Where relations are depoliticized, soft power promotion efforts strengthen support for bilateral cooperation, and where relations are politicized, the same soft power treatments cause backlash. Our findings highlight that autocracies can effectively project soft power insofar as they retain good ties with their soft power recipients.</details>  
+</td>
+<td markdown="span">Working paper </td>
+<td markdown="span">  </td>
+<td markdown="span"> Political Economy; China; Japan</td>
 </tr>
 
 <tr>
