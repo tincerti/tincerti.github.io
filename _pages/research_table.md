@@ -56,7 +56,7 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
-<a href="http://tincerti.github.io/files/ajps_chinese_state_media.pdf">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>)
+<a href="https://incerti.github.io/files/ajps_chinese_state_media.pdf">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>)
   <details><summary>Abstract</summary> Many are skeptical of the appeal of authoritarian political systems. We argue that global audiences will embrace authoritarian models when they believe that autocracies can meet governance challenges better than democracies. We collect comprehensive data on the external messaging of the Chinese and American governments. We then conduct a randomized experiment in 19 countries across 6 continents exposing global citizens to real messages from the Chinese and American governments’ external media arms. We find that exposure to a representative set of Chinese messages strengthens perceptions that the Chinese Communist Party delivers growth, stability, and competent leadership. It also moves the average respondent from slightly preferring the American model to slightly preferring the Chinese model. In head-to-head matchups, messages from the U.S. government are less persuasive. Our findings show how autocracies build global support by selling growth and competence, with important implications for democratic resilience.</details>  
   <details><summary>Coverage</summary> 
   <a href="https://www.economist.com/china/2023/02/16/chinese-propaganda-is-surprisingly-effective-abroad"><em>The Economist</em></a>
@@ -151,7 +151,7 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
-<a href="http://tincerti.github.io/files/AS5804_01_Incerti_and_Lipscy.pdf">The politics of energy and climate change in Japan under Abe</a>  
+<a href="https://tincerti.github.io/files/AS5804_01_Incerti_and_Lipscy.pdf">The politics of energy and climate change in Japan under Abe</a>  
   <details><summary>Abstract</summary> Under what we call Abenergynomics, Japanese Prime Minister Abe Shinzo has used energy policy to support the growth objectives of Abenomics, even when the associated policies are publicly unpopular, opposed by utility companies, or harmful to the environment. We show how Abenergynomics has shaped Japanese policy on nuclear power, electricity deregulation, renewable energy, and climate change. </details>  
 </td>
 <td markdown="span">*Asian Survey*</td>
@@ -184,7 +184,7 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
- <a href="http://tincerti.github.io/files/who_benefits.pdf">Who benefits from the revolving door? Evidence from Japan</a>  
+ <a href="https://tincerti.github.io/files/who_benefits.pdf">Who benefits from the revolving door? Evidence from Japan</a>  
   <details><summary>Abstract</summary> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections and to organizations beyond for-profit firms. Using new data recording the first post-bureaucracy position occupied by all former civil servants in Japan, I reveal a bifurcated job market in which the highest ranking civil servants from the most prestigious ministries retire into for-profit firms while others join non-profit and public organizations. I show that for-profit firms receive larger government loans and stock price boosts following bureaucratic hires, and that these effects are driven by hires from prestigious economic ministries. I also show that non-profits leverage their bureaucratic hires by receiving higher value contracts in periods when former officials are in director positions at the organization. While top civil servants are therefore of value to for-profit firms, others find post-bureaucracy employment in non-profits supported by government funding.</details>  
 </td>
 <td markdown="span">Working paper </td>
