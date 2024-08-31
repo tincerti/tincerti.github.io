@@ -194,7 +194,7 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
-Amakudata: A new dataset of revolving door hires (contact for draft)
+ <a href="https://osf.io/preprints/osf/fqnkz">Amakudata: A new dataset of revolving door hires</a> 
   <details><summary>Abstract</summary> Political economists have long speculated about the effects of connections between bureaucracies and the private sector. However, data tracing flows of civil servants from the bureaucracy to the private sector remains rare. This article presents a new dataset, Amakudata, which contains individual-level data of all Japanese bureaucrats retiring into positions outside of the bureaucracy from 2009 to 2019.</details>  
 </td>
 <td markdown="span">Working paper </td>
