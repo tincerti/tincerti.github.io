@@ -13,9 +13,9 @@ I teach courses in quantitative research methods and statistical programming, as
 
 - [*Political Economy of East Asia*](https://www.trevorincerti.com/teaching/political_economy_of_east_asia.html) (MA seminar)
 
-- *Introduction to Political Economy* (BA lecture)
+- [*Introduction to Political Economy*](https://www.trevorincerti.com/teaching/political_economy.html) (BA lecture)
 
-- [*Democracy in the Digital Age*](https://coursecatalogue.uva.nl/xmlpages/page/2022-2023-en/search-course/course/103690) (BA seminar, BA lecture)
+- [*The Internet and Politics*](https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/116602) (BA lecture)
 
 **Yale University** (Teaching Assistant) 
 
