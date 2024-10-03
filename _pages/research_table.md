@@ -56,7 +56,7 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
-<a href="https://tincerti.github.io/files/ajps_chinese_state_media.pdf">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>)
+<a href="https://tincerti.github.io/files/ajps_chinese_state_media.pdf">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>, <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CQ4FZR">Replication data</a>)
   <details><summary>Abstract</summary> Many are skeptical of the appeal of authoritarian political systems. We argue that global audiences will embrace authoritarian models when they believe that autocracies can meet governance challenges better than democracies. We collect comprehensive data on the external messaging of the Chinese and American governments. We then conduct a randomized experiment in 19 countries across 6 continents exposing global citizens to real messages from the Chinese and American governments’ external media arms. We find that exposure to a representative set of Chinese messages strengthens perceptions that the Chinese Communist Party delivers growth, stability, and competent leadership. It also moves the average respondent from slightly preferring the American model to slightly preferring the Chinese model. In head-to-head matchups, messages from the U.S. government are less persuasive. Our findings show how autocracies build global support by selling growth and competence, with important implications for democratic resilience.</details>  
   <details><summary>Coverage</summary> 
   <a href="https://www.economist.com/china/2023/02/16/chinese-propaganda-is-surprisingly-effective-abroad"><em>The Economist</em></a>
@@ -91,22 +91,22 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
-<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A0A2593144914558E532377F33D05972/S1469356924000077a.pdf/are-regime-changes-always-bad-economics-evidence-from-daily-financial-data.pdf">Are regime changes always bad economics? Evidence from daily financial data</a> (<a href="https://github.com/dincerti/political-instability">Replication data</a>) 
-  <details><summary>Abstract</summary> Political instability is commonly thought to discourage investment and reduce economic growth. We challenge this consensus by showing that instability does not systematically depress investment. Using an event study approach, we examine daily returns of national financial indices in every country that experienced an irregular regime change subject to data availability. Returns following resignations are large and positive (+4%), while those following assassinations are negative and smaller in magnitude (-2%). The impact of coups tends to be negative (-2%), but we show that a pro-business coup results in large positive returns (+10%). We also find evidence that authoritarian or anti-business regime changes are more likely to lead to capital flight than democratic or pro-business changes. The immediate impact of political instability on investment is therefore dependent on the type of regime change and its expected impact on future growth.</details>  
-</td>
-<td markdown="span">*Business & Politics*</td>
-<td markdown="span"> 2024</td>
-<td markdown="span"> Political Economy; Business & Politics</td>
-</tr>
-
-<tr>
-<td>
 <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/521F1378ED4F8411B2A4AB0E8FA172A0/S1047198723000268a.pdf/dyadic-clustering-in-international-relations.pdf">Dyadic clustering in international relations</a>  (<a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/9I0LRQ">Replication data</a>) 
   <details><summary>Abstract</summary> Quantitative empirical inquiry in international relations often relies on dyadic data. Standard analytic techniques do not account for the fact that dyads are not generally independent of one another. That is, when dyads share a constituent member (e.g., a common country), they may be statistically dependent, or "clustered." Recent work has developed dyadic clustering robust standard errors (DCRSEs) that account for this dependence. Using these DCRSEs, we reanalyzed all empirical articles published in International Organization between January 2014 and January 2020 that feature dyadic data. We find that published standard errors for key explanatory variables are, on average, approximately half as large as DCRSEs, suggesting that dyadic clustering is leading researchers to severely underestimate uncertainty. However, most (67% of) statistically significant findings remain statistically significant when using DCRSEs. We conclude that accounting for dyadic clustering is both important and feasible, and offer software in R and Stata to facilitate use of DCRSEs in future research.</details>  
 </td>
 <td markdown="span">*Political Analysis*</td>
 <td markdown="span">2024</td>
 <td markdown="span">Research Methods</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A0A2593144914558E532377F33D05972/S1469356924000077a.pdf/are-regime-changes-always-bad-economics-evidence-from-daily-financial-data.pdf">Are regime changes always bad economics? Evidence from daily financial data</a> (<a href="https://github.com/dincerti/political-instability">Replication data</a>) 
+  <details><summary>Abstract</summary> Political instability is commonly thought to discourage investment and reduce economic growth. We challenge this consensus by showing that instability does not systematically depress investment. Using an event study approach, we examine daily returns of national financial indices in every country that experienced an irregular regime change subject to data availability. Returns following resignations are large and positive (+4%), while those following assassinations are negative and smaller in magnitude (-2%). The impact of coups tends to be negative (-2%), but we show that a pro-business coup results in large positive returns (+10%). We also find evidence that authoritarian or anti-business regime changes are more likely to lead to capital flight than democratic or pro-business changes. The immediate impact of political instability on investment is therefore dependent on the type of regime change and its expected impact on future growth.</details>  
+</td>
+<td markdown="span">*Business & Politics*</td>
+<td markdown="span"> 2024</td>
+<td markdown="span"> Political Economy; Business & Politics</td>
 </tr>
 
 <tr>
