@@ -187,7 +187,7 @@ My published research and current working papers are listed below. You can click
  <a href="https://tincerti.github.io/files/who_benefits.pdf">Who benefits from the revolving door? Evidence from Japan</a>  
   <details><summary>Abstract</summary> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections and to organizations beyond for-profit firms. Using new data recording the first post-bureaucracy position occupied by all former civil servants in Japan, I reveal a bifurcated job market in which the highest ranking civil servants from the most prestigious ministries retire into for-profit firms while others join non-profit and public organizations. I show that for-profit firms receive larger government loans and stock price boosts following bureaucratic hires, and that these effects are driven by hires from prestigious economic ministries. I also show that non-profits leverage their bureaucratic hires by receiving higher value contracts in periods when former officials are in director positions at the organization. While top civil servants are therefore of value to for-profit firms, others find post-bureaucracy employment in non-profits supported by government funding.</details>  
 </td>
-<td markdown="span">Working paper </td>
+<td markdown="span">Working paper (*under review*)</td>
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan</td>
 </tr>
@@ -197,7 +197,7 @@ My published research and current working papers are listed below. You can click
  <a href="https://tincerti.github.io/files/amakudata.pdf">Amakudata: A new dataset of revolving door hires</a> 
   <details><summary>Abstract</summary> Political economists have long speculated about the effects of connections between bureaucracies and the private sector. However, data tracing flows of civil servants from the bureaucracy to the private sector remains rare. This article presents a new dataset, Amakudata, which contains individual-level data of virtually all Japanese bureaucrats retiring into positions outside of the bureaucracy from 2009 to 2019. We first present how the dataset was created and validated. Next, we describe what the data reveals about the revolving door in Japan and beyond, and show that some sectors may be larger hirers of government personnel than previously thought. We conclude by discussing how the data can be used to investigate empirical and causal questions in diverse subjects such as corruption and regulatory capture; procurement, pork, and government waste; bureaucratic representation; and international trade and investment.</details>  
 </td>
-<td markdown="span">Working paper </td>
+<td markdown="span">Working paper (*under review*)</td>
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan</td>
 </tr>
