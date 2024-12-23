@@ -49,12 +49,6 @@ I teach courses in quantitative research methods and statistical programming, as
     <li><a href="https://www.trevorincerti.com/teaching/meta-analysis.html">Research synthesis and meta-analysis</a>.</li>
   </ul>
   </details>
-  <details>
-  <summary>Evaluations</summary>
-  <ul>
-    <li><a href="http://www.trevorincerti.com/files/evaluation_512.pdf">Student feedback</a>.</li>
-  </ul>
-  </details>
   
 
 **Other teaching**
