@@ -7,7 +7,7 @@ author_profile: false
 
 ## Teaching Experience
 
-I teach courses in quantitative research methods and statistical programming, as well as substantive areas of political economy and comparative politics. You can find some syllabi, student evaluations, and examples of lessons below:  
+I teach courses in political economy, comparative politics, quantitative research methods, and statistical programming. You can find course syllabi and select lessons below:  
 
 **University of Amsterdam** (Instructor of Record)
 
