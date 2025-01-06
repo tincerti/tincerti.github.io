@@ -21,7 +21,7 @@ I teach courses in political economy, comparative politics, quantitative researc
 
 - *Japanese Political Economy* (MA seminar)
 
-- *Japanese Politics and Policy* (BA seminar)
+- [*Japanese Politics and Policy*](https://www.trevorincerti.com/teaching/japanese_politics_syllabus.html) (BA seminar)
 
 **Yale University** (Teaching Assistant) 
 
