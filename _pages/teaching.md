@@ -19,7 +19,7 @@ I teach courses in political economy, comparative politics, quantitative researc
 
 **Georgetown University** (Instructor of Record)
 
-- *Japanese Political Economy* (MA seminar)
+- [*Japanese Political Economy*](https://www.trevorincerti.com/teaching/japanese_political_economy_syllabus.pdf) (MA seminar)
 
 - [*Japanese Politics and Policy*](https://www.trevorincerti.com/teaching/japanese_politics_syllabus.html) (BA seminar)
 
