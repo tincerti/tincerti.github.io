@@ -207,12 +207,10 @@ My published research and current working papers are listed below. You can click
 <a href = "https://static1.squarespace.com/static/59a360bacd0f681b1cb27caa/t/677878cca278b54e530f6162/1735948493634/Mousa_Kao_Incerti_Boosting_Civic_Behaviors_v2-8.pdf">Boosting civic participation: Experimental evidence from a mobile app recycling program</a>
 <details><summary>Abstract</summary> Decentralized governance models that encourage local governments, citizens, and civil society actors to co-produce public goods hold the potential to address pressing problems like the climate crisis. We evaluate a ‘sort at source’ program administered by a local government and social enterprise in Lebanon. The program educates citizens on how to correctly sort while monitoring their sorting quality. Two months post-intervention, the program increased sorting quality by 0.24 stars out of 5 on average, and by 2.4 stars for those who continued to opt in to the program. Treated households were three times as likely to enter a raffle for ‘green’ prizes, demonstrating impact on other environmentally-conscious behaviors. However, effects on sorting quality dwindle to zero after the program ceases at the one-year mark, and we find negative treatment effects on volunteering for other environmental initiatives. The results speak to the promise of co-production models that teach citizens how to civically engage while monitoring that engagement — but also to the importance of ongoing monitoring to unlock durable results and avoid civic fatigue.</details>  
 </td>
-<td markdown="span">Working paper </td>
+<td markdown="span">Working paper (*under review*)</td>
 <td markdown="span">  </td>
 <td markdown="span"> Experiments; Political Economy; Collective Action</td>
 </tr>
-</tbody>
-</table>
 
 <tr>
 <td>
@@ -223,6 +221,8 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; China; Japan</td>
 </tr>
+</tbody>
+</table>
 
 
 
