@@ -21,7 +21,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am an Assistant Professor of Political Economy at the University of Amsterdam. During Spring 2025, I am Visiting Assistant Professor in Modern and Contemporary Japanese Politics at the Georgetown University School of Foreign Service Asian Studies Program. 
+Welcome! I am an Assistant Professor of Political Economy at the University of Amsterdam. During Spring 2025, I am Visiting Assistant Professor in Modern and Contemporary Japanese Politics at Georgetown University. 
 
 My primary area of research is in comparative political economy, with a focus on the role of money in politics and business influence in politics. Additionally, I explore how economic stimuli shape political behavior and preferences. Much of my work focuses on East Asia, particularly Japan. I also conduct research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research is published in the *American Journal of Political Science*, *American Political Science Review*, *British Journal of Political Science*, *Journal of Politics*, and *Political Analysis*, among other outlets. It has received coverage by media such as *The Economist*, *The New Yorker*, and *The Washington Post*. 
 
