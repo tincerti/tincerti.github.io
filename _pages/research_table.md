@@ -103,6 +103,7 @@ My published research and current working papers are listed below. You can click
 <td>
 <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/A0A2593144914558E532377F33D05972/S1469356924000077a.pdf/are-regime-changes-always-bad-economics-evidence-from-daily-financial-data.pdf">Are regime changes always bad economics? Evidence from daily financial data</a> (<a href="https://github.com/dincerti/political-instability">Replication data</a>) 
   <details><summary>Abstract</summary> Political instability is commonly thought to discourage investment and reduce economic growth. We challenge this consensus by showing that instability does not systematically depress investment. Using an event study approach, we examine daily returns of national financial indices in every country that experienced an irregular regime change subject to data availability. Returns following resignations are large and positive (+4%), while those following assassinations are negative and smaller in magnitude (-2%). The impact of coups tends to be negative (-2%), but we show that a pro-business coup results in large positive returns (+10%). We also find evidence that authoritarian or anti-business regime changes are more likely to lead to capital flight than democratic or pro-business changes. The immediate impact of political instability on investment is therefore dependent on the type of regime change and its expected impact on future growth.</details>  
+    <details><summary>Awards</summary>Baron Award for best article published in *Business & Politics* in 2024.</details>  
 </td>
 <td markdown="span">*Business & Politics*</td>
 <td markdown="span"> 2024</td>
@@ -177,7 +178,7 @@ My published research and current working papers are listed below. You can click
  <a href="https://tincerti.github.io/files/who_benefits.pdf">Who benefits from the revolving door? Evidence from Japan</a>  
   <details><summary>Abstract</summary> A growing literature finds high returns to firms connected to legislative office. Less attention has been paid to benefits from bureaucratic connections and to organizations beyond for-profit firms. Using new data recording the first post-bureaucracy position occupied by all former civil servants in Japan, I reveal a bifurcated job market in which the highest ranking civil servants from the most prestigious ministries retire into for-profit firms while others join non-profit and public organizations. I show that for-profit firms receive larger government loans and stock price boosts following bureaucratic hires, and that these effects are driven by hires from prestigious economic ministries. I also show that non-profits leverage their bureaucratic hires by receiving higher value contracts in periods when former officials are in director positions at the organization. While top civil servants are therefore of value to for-profit firms, others find post-bureaucracy employment in non-profits supported by government funding.</details>  
 </td>
-<td markdown="span">R&R, *American Political Science Review*</td>
+<td markdown="span">Revise & Resubmit, *American Political Science Review*</td>
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan</td>
 </tr>
