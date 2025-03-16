@@ -7,21 +7,15 @@ author_profile: false
 
 ## Data
 
-I am involved in multiple ongoing data collection processes related to Japanese government expenditures and personnel movements. All data sets will be made publicly available upon completion and validation: 
+I am involved in multiple ongoing data collection processes related to (Japanese and European) government expenditures and personnel movements: 
 
-- **Amakudata** (with Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi): A dataset of all Japanese bureaucrats who have retired to positions in the private sector (i.e. revolving door or "amakudari" appointments) from 2009 - 2019. While the full dataset is forthcoming, an R Shiny dashboard---[*Amakudashboard*](https://trevorincerti.shinyapps.io/amakudashboard/)--- that allows users to explore the dataset is currently live.
+- [**Amakudata**](https://github.com/tincerti/amakudata) (with Sayumi Miyano, Diana Stanescu, and Hikaru Yamagishi): A dataset of all Japanese bureaucrats who have retired to positions in the private sector (i.e. revolving door or "amakudari" appointments) from 2009 - 2019. An R Shiny dashboard that allows users to explore the data and download filtered data for e.g., a specific year, ministry, agency, or firm is also available at [*Amakudashboard*](https://trevorincerti.shinyapps.io/amakudashboard/).
   <details>
   <summary>Data visualizations</summary>
   <ul>
     <li><a href="https://www.trevorincerti.com/files/ministry_publicinterest.html">Flows of bureaucrats from ministries to top public corporations</a>.</li>
     <li><a href="https://www.trevorincerti.com/files/ministry_private.html">Flows of bureaucrats from ministries to top private sector corporations</a>.</li>
     <li><a href="https://www.trevorincerti.com/files/ministry_industry.html">Flows of bureaucrats from ministries to publicly traded companies by industry</a>.</li>
-  </ul>
-  </details>
-  <details>
-  <summary>Data dictionary</summary>
-  <ul>
-    <li> Coming soon </li>
   </ul>
   </details>
   
