@@ -5,7 +5,7 @@ permalink: /contact/
 author_profile: true
 ---
 
-University of Amsterdam, Department of Political Science \\
+University of Amsterdam Department of Political Science \\
 Nieuwe Achtergracht 166, 1018 WV, Amsterdam \\
 The Netherlands 
 
