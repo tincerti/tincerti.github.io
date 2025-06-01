@@ -55,6 +55,9 @@ I believe science is improved by collaboration with researchers with diverse bac
     <iframe src="/files/coauthor_network.html" height="800px" width="100%" style="border:none;"></iframe>
 </div>
 
+### Invited presentations
+
+It has been a privilege to present my research at the institutions shown here. My sincere thanks to each for the generous invitations and warm hospitality.
 
 <div style="text-align:center">
     <iframe src="/files/talk_map.html" height="800px" width="100%" style="border:none;"></iframe>
