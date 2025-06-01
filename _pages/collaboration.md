@@ -55,6 +55,11 @@ I believe science is improved by collaboration with researchers with diverse bac
     <iframe src="/files/coauthor_network.html" height="800px" width="100%" style="border:none;"></iframe>
 </div>
 
+
+<div style="text-align:center">
+    <iframe src="/files/talk_map.html" height="800px" width="100%" style="border:none;"></iframe>
+</div>
+
 Thank you to Charles Crabtree for the inspiration for this page!
 
 
