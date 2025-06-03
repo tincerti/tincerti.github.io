@@ -17,7 +17,7 @@ My published research and current working papers are listed below. You can click
   border-collapse: collapse; /* Collapse borders */
   width: 100%; /* Full-width */
   border: 1px solid #ddd; /* Add a grey border */
-  font-size: 14px; /* Increase font-size */
+  font-size: 12px; /* Increase font-size */
 }
 
 #myTable th, #myTable td {
