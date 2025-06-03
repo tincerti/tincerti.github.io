@@ -40,10 +40,10 @@ My published research and current working papers are listed below. You can click
 <table id="myTable">
 <colgroup>
 <col width="45%" />
-<col width="15%" />
 <col width="20%" />
-<col width="5%" />
-<col width="15%" />
+<col width="20%" />
+<col width="4%" />
+<col width="11%" />
 </colgroup>
 <thead>
 <tr class="header">
