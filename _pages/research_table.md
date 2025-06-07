@@ -113,7 +113,7 @@ My published research and current working papers are listed below. You can click
     <details><summary>Awards</summary><a href="https://www.cambridge.org/core/blog/2025/03/12/are-regime-changes-always-bad-economics/">David P. Baron Award</a> for best article published in <em>Business & Politics</em> in 2024.</details>  
 </td>
 <td markdown="span">*Business & Politics*</td>
-<td>Devin Incerti</td>
+<td><a href="https://devinincerti.com">Devin Incerti</a></td>
 <td markdown="span"> 2024</td>
 <td markdown="span"> Political Economy; Business & Politics</td>
 </tr>
@@ -135,7 +135,7 @@ My published research and current working papers are listed below. You can click
   <details><summary>Abstract</summary> It is well known that regime types affect international conflicts. This article explores political parties as a mechanism through which they do so. Political parties operate in fundamentally different ways in democracies vs. non-democracies, which has consequences for foreign policy. Core supporters of a party in a democracy, if they are hawkish, may be more successful at demanding hawkish behavior from their party representatives than would be their counterparts in an autocracy. The study draws on evidence from paired experiments in democratic Japan and non-democratic China to show that supporters of the ruling party in Japan punish their leaders for discouraging nationalist protests, while ruling party insiders in China are less likely to do so. Under some circumstances, then, non-democratic regimes may be better able to rein in peace-threatening displays of nationalism.</details>  
 </td>
 <td markdown="span">*British Journal of Political Science*</td>
-<td>Daniel Mattingly, Frances Rosenbluth, Seiki Tanaka, Jiahua Yue</td>
+<td><a href="https://daniel-mattingly.com"> Daniel Mattingly</a>, <a href="https://politicalscience.yale.edu/people/frances-mccall-rosenbluth">Frances Rosenbluth</a>, <a href="https://www.seikitanaka.com"> Seiki Tanaka</a>, <a href="https://yjh1222.github.io">Jiahua Yue</a></td>
 <td markdown="span">2021</td>
 <td markdown="span">Experiments; China; Japan</td>
 </tr>
