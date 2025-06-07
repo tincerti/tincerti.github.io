@@ -160,7 +160,7 @@ My published research and current working papers are listed below. You can click
   <details><summary>Abstract</summary> Japanese energy policy has attracted renewed attention since the 2011 Fukushima nuclear disaster. However, Japan’s energy challenges are nothing new; as a country poor in natural resources, it has long struggled to meet its energy needs. This chapter provides an overview of Japanese energy politics, focusing on three broad topics: Japan’s modernization and energy security challenges, the politics of the utilities sector and nuclear energy, and the politics of energy conservation and climate change. In addition, the chapter discusses factors specific to Japan, such as state-business relations in the utilities sector and institutional changes since the 1990s. Japan offers both compelling puzzles—several transformative shifts in energy conservation policy, limited emphasis on renewables despite persistent energy security concerns, and reinvigoration of nuclear energy despite the Fukushima disaster—as well as important empirical opportunities for theory testing. The chapter concludes by calling for additional research that integrates insights from Japan into broader theoretical and cross-national scholarship, examines Japanese energy policy within an international context, and uses rigorous causal identification strategies to evaluate Japanese energy policy. Finally, it identifies the politics of decarbonization in Japan as a critical area for future research.</details>  
 </td>
 <td markdown="span">*Oxford Handbook of Energy Politics*</td>
-<td>Phillip Lipscy</td>
+<td><a href="https://www.lipscy.org">Phillip Lipscy</a></td>
 <td markdown="span"> 2020 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy</td>
 </tr>
@@ -171,7 +171,7 @@ My published research and current working papers are listed below. You can click
   <details><summary>Abstract</summary> Under what we call Abenergynomics, Japanese Prime Minister Abe Shinzo has used energy policy to support the growth objectives of Abenomics, even when the associated policies are publicly unpopular, opposed by utility companies, or harmful to the environment. We show how Abenergynomics has shaped Japanese policy on nuclear power, electricity deregulation, renewable energy, and climate change. </details>  
 </td>
 <td markdown="span">*Asian Survey*</td>
-<td>Phillip Lipscy</td>
+<td><a href="https://www.lipscy.org">Phillip Lipscy</a></td>
 <td markdown="span"> 2018 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy </td>
 </tr>
@@ -185,7 +185,7 @@ My published research and current working papers are listed below. You can click
   </details> 
 </td>
 <td markdown="span">*Environmental Science & Technology*</td>
-<td>Phillip Lipscy and Kenji Kushida</td>
+<td><a href="https://www.lipscy.org">Phillip Lipscy</a>, <a href="https://www.kenjikushida.org">Kenji Kushida</a></td>
 <td markdown="span"> 2013 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy </td>
 </tr>
