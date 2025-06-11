@@ -203,17 +203,6 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
-<a href="https://osf.io/preprints/socarxiv/gbfvj">Workers are willing to trade wages for better harassment reporting procedures</a>  
-  <details><summary>Abstract</summary> Sexual harassment remains prevalent in the workplace. Yet despite abundant research on its prevalence, we know little about worker demand for systems to report and/or mitigate harassment. We present results from a conjoint experimental study of a large-scale sample of the Japanese public, in which we estimate how much salary and benefits workers are willing to trade for best-in-practice harassment protections. We find that women are 6 percentage points more likely to prefer firms with anonymous, third-party harassment reporting systems compared to other firms, and they also negatively value workplaces with no sexual harassment reporting mechanism equivalently to a workplace with a 20% lower wage.  Men also negatively value poor sexual harassment reporting mechanisms, but they are more willing to trade wages for better workplace bullying (``power harassment'') reporting systems. These findings suggest that workers are willing to pay for harassment reporting systems, and that companies may better attract talent by adopting these reporting schemes.</details>  
-</td>
-<td markdown="span">Working paper (*under review*) </td>
-<td> <a href="https://charlescrabtree.org">Charles Crabtree</a>, <a href="https://www.u-tokyo.ac.jp/focus/en/people/people003656.html">Rieko Kage</a>, <a href="https://politicalscience.yale.edu/people/frances-mccall-rosenbluth">Frances Rosenbluth</a>, <a href="https://www.seikitanaka.com"> Seiki Tanaka</a>, <a href="https://hikaruyamagishi.com"> Hikaru Yamagishi</a></td>
-<td markdown="span">  </td>
-<td markdown="span"> Business & Politics; Japan</td>
-</tr>
-
-<tr>
-<td>
  <a href="https://tincerti.github.io/files/amakudata.pdf">Amakudata: A new dataset of revolving door hires</a> 
   <details><summary>Abstract</summary> Political economists have long speculated about the effects of connections between bureaucracies and the private sector. However, data tracing flows of civil servants from the bureaucracy to the private sector remains rare. This article presents a new dataset, Amakudata, which contains individual-level data of virtually all Japanese bureaucrats retiring into positions outside of the bureaucracy from 2009 to 2019. We first present how the dataset was created and validated. Next, we describe what the data reveals about the revolving door in Japan and beyond, and show that some sectors may be larger hirers of government personnel than previously thought. We conclude by discussing how the data can be used to investigate empirical and causal questions in diverse subjects such as corruption and regulatory capture; procurement, pork, and government waste; bureaucratic representation; and international trade and investment.</details>  
 </td>
@@ -232,6 +221,17 @@ My published research and current working papers are listed below. You can click
 <td> <a href="https://www.salmamousa.com">Salma Mousa</a>, <a href="https://kristenkao.com">Kristen Kao</a> </td>
 <td markdown="span">  </td>
 <td markdown="span"> Experiments; Political Economy; Collective Action</td>
+</tr>
+
+<tr>
+<td>
+<a href="https://osf.io/preprints/socarxiv/gbfvj">Workers are willing to trade wages for better harassment reporting procedures</a>  
+  <details><summary>Abstract</summary> Sexual harassment remains prevalent in the workplace. Yet despite abundant research on its prevalence, we know little about worker demand for systems to report and/or mitigate harassment. We present results from a conjoint experimental study of a large-scale sample of the Japanese public, in which we estimate how much salary and benefits workers are willing to trade for best-in-practice harassment protections. We find that women are 6 percentage points more likely to prefer firms with anonymous, third-party harassment reporting systems compared to other firms, and they also negatively value workplaces with no sexual harassment reporting mechanism equivalently to a workplace with a 20% lower wage.  Men also negatively value poor sexual harassment reporting mechanisms, but they are more willing to trade wages for better workplace bullying (``power harassment'') reporting systems. These findings suggest that workers are willing to pay for harassment reporting systems, and that companies may better attract talent by adopting these reporting schemes.</details>  
+</td>
+<td markdown="span">Working paper </td>
+<td> <a href="https://charlescrabtree.org">Charles Crabtree</a>, <a href="https://www.u-tokyo.ac.jp/focus/en/people/people003656.html">Rieko Kage</a>, <a href="https://politicalscience.yale.edu/people/frances-mccall-rosenbluth">Frances Rosenbluth</a>, <a href="https://www.seikitanaka.com"> Seiki Tanaka</a>, <a href="https://hikaruyamagishi.com"> Hikaru Yamagishi</a></td>
+<td markdown="span">  </td>
+<td markdown="span"> Business & Politics; Japan</td>
 </tr>
 
 <tr>
