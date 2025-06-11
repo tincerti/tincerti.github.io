@@ -207,7 +207,7 @@ My published research and current working papers are listed below. You can click
   <details><summary>Abstract</summary> Sexual harassment remains prevalent in the workplace. Yet despite abundant research on its prevalence, we know little about worker demand for systems to report and/or mitigate harassment. We present results from a conjoint experimental study of a large-scale sample of the Japanese public, in which we estimate how much salary and benefits workers are willing to trade for best-in-practice harassment protections. We find that women are 6 percentage points more likely to prefer firms with anonymous, third-party harassment reporting systems compared to other firms, and they also negatively value workplaces with no sexual harassment reporting mechanism equivalently to a workplace with a 20% lower wage.  Men also negatively value poor sexual harassment reporting mechanisms, but they are more willing to trade wages for better workplace bullying (``power harassment'') reporting systems. These findings suggest that workers are willing to pay for harassment reporting systems, and that companies may better attract talent by adopting these reporting schemes.</details>  
 </td>
 <td markdown="span">Working paper (*under review*) </td>
-<td> Charles Crabtree, Rieko Kage, Frances Rosenbluth, Seiki Tanaka, Hikaru Yamagishi </td>
+<td> a href="https://charlescrabtree.org">Charles Crabtree</a>, <a href="https://www.u-tokyo.ac.jp/focus/en/people/people003656.html">Rieko Kage</a>, <a href="https://politicalscience.yale.edu/people/frances-mccall-rosenbluth">Frances Rosenbluth</a>, <a href="https://www.seikitanaka.com"> Seiki Tanaka</a>, <a href="https://hikaruyamagishi.com"> Hikaru Yamagishi</a></td>
 <td markdown="span">  </td>
 <td markdown="span"> Business & Politics; Japan</td>
 </tr>
@@ -218,7 +218,7 @@ My published research and current working papers are listed below. You can click
   <details><summary>Abstract</summary> Political economists have long speculated about the effects of connections between bureaucracies and the private sector. However, data tracing flows of civil servants from the bureaucracy to the private sector remains rare. This article presents a new dataset, Amakudata, which contains individual-level data of virtually all Japanese bureaucrats retiring into positions outside of the bureaucracy from 2009 to 2019. We first present how the dataset was created and validated. Next, we describe what the data reveals about the revolving door in Japan and beyond, and show that some sectors may be larger hirers of government personnel than previously thought. We conclude by discussing how the data can be used to investigate empirical and causal questions in diverse subjects such as corruption and regulatory capture; procurement, pork, and government waste; bureaucratic representation; and international trade and investment.</details>  
 </td>
 <td markdown="span">Working paper (*under review*)</td>
-<td> Sayumi Miyano, Diana Stanescu, Hikaru Yamagishi </td>
+<td> <a href="https://smiyano.com">Sayumi Miyano</a>, <a href="https://dmstanescu.net">Diana Stanescu</a> , <a href="https://hikaruyamagishi.com">Hikaru Yamagishi</a> </td>
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan</td>
 </tr>
@@ -229,7 +229,7 @@ My published research and current working papers are listed below. You can click
 <details><summary>Abstract</summary> Decentralized governance models that encourage local governments, citizens, and civil society actors to co-produce public goods hold the potential to address pressing problems like the climate crisis. We evaluate a ‘sort at source’ program administered by a local government and social enterprise in Lebanon. The program educates citizens on how to correctly sort while monitoring their sorting quality. Two months post-intervention, the program increased sorting quality by 0.24 stars out of 5 on average, and by 2.4 stars for those who continued to opt in to the program. Treated households were three times as likely to enter a raffle for ‘green’ prizes, demonstrating impact on other environmentally-conscious behaviors. However, effects on sorting quality dwindle to zero after the program ceases at the one-year mark, and we find negative treatment effects on volunteering for other environmental initiatives. The results speak to the promise of co-production models that teach citizens how to civically engage while monitoring that engagement — but also to the importance of ongoing monitoring to unlock durable results and avoid civic fatigue.</details>  
 </td>
 <td markdown="span">Working paper (*under review*)</td>
-<td> Salma Mousa, Kristen Kao </td>
+<td> <a href="https://www.salmamousa.com">Salma Mousa</a>, <a href="https://kristenkao.com">Kristen Kao</a> </td>
 <td markdown="span">  </td>
 <td markdown="span"> Experiments; Political Economy; Collective Action</td>
 </tr>
@@ -240,13 +240,12 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
   <details><summary>Abstract</summary> In recent years, established democracies and ascendant autocracies have competed for the hearts and minds of citizens across the globe. In this article, we develop a novel theory of soft power effectiveness centered on the relations between soft power senders and receivers. We argue that when relations with soft power senders remain depoliticized in receivers’ domestic politics, soft power promotion fares well. When the relations are politicized, however, it risks backfiring. To test our theory, we conduct a multi-country experiment in East Asia that examines the effect of real-world Chinese and Japanese soft power promotion efforts. The experimental results lend credence to our theory. Where relations are depoliticized, soft power promotion efforts strengthen support for bilateral cooperation, and where relations are politicized, the same soft power treatments cause backlash. Our findings highlight that autocracies can effectively project soft power insofar as they retain good ties with their soft power recipients.</details>  
 </td>
 <td markdown="span">Working paper </td>
-<td> Changwook Ju, Daniel Mattingly, Colin Moreshead, Seiki Tanaka, Hikaru Yamagishi </td>
+<td> <a href="https://www.changwookju.com"> Changwook Ju</a>, <a href="https://daniel-mattingly.com"> Daniel Mattingly</a>, <a href="https://www.colinmoreshead.com"> Colin Moreshead</a>, <a href="https://www.seikitanaka.com"> Seiki Tanaka</a>, <a href="https://hikaruyamagishi.com"> Hikaru Yamagishi</a> </td>
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; China; Japan</td>
 </tr>
 </tbody>
 </table>
-
 
 
 <script>
