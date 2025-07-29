@@ -80,7 +80,7 @@ My published research and current working papers are listed below. You can click
 </td>
 <td markdown="span">*American Journal of Political Science*</td>
 <td> <a href="https://daniel-mattingly.com"> Daniel Mattingly</a>, <a href="https://www.changwookju.com"> Changwook Ju</a>, <a href="https://www.colinmoreshead.com"> Colin Moreshead</a>, <a href="https://www.seikitanaka.com"> Seiki Tanaka</a>, <a href="https://hikaruyamagishi.com"> Hikaru Yamagishi</a></td>
-<td markdown="span">2024</td>
+<td markdown="span">2025</td>
 <td markdown="span"> Experiments; Political Economy; Money in politics; China; United States</td>
 </tr>
 
