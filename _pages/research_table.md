@@ -58,6 +58,17 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
+ <a href="https://tincerti.github.io/files/who_benefits.pdf">How firms, bureaucrats, and ministries benefit from the revolving door: Evidence from Japan</a>  
+  <details><summary>Abstract</summary> A growing literature finds high returns to firms with legislative connections. Less attention has been paid to returns from bureaucratic connections and to organizations beyond for-profit firms. Using data recording the first post-bureaucracy position occupied by all former civil servants in Japan, I reveal a bifurcated job market for former bureaucrats. High-ranking officials from elite economic ministries are more likely to join for-profit firms, where they generate returns such as increased government loans and positive stock market reactions. Lower-ranking officials are more likely to join nonprofits linked to government ministries, which receive higher-value contracts when former bureaucrats are in leadership roles. These patterns suggest that while firms wish to hire bureaucrats who can deliver tangible benefits, ministries also shape revolving door pathways by directing benefits to ensure long-term career value for civil servants. These findings reframe revolving door dynamics as the result of both firm-driven demand and bureaucratic incentives.</details>  
+</td>
+<td markdown="span">Conditionally accepted, *American Political Science Review*</td>
+<td> </td>
+<td markdown="span">  </td>
+<td markdown="span"> Political Economy; Business & Politics; Japan</td>
+</tr>
+
+<tr>
+<td>
 <a href="https://tincerti.github.io/files/ajps_chinese_state_media.pdf">Chinese State Media Persuades a Global Audience That the "China Model" is Superior: Evidence From A 19-Country Experiment</a>  (<a href="https://osf.io/nhf75">Pre-analysis plan</a>, <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/CQ4FZR">Replication data</a>)
   <details><summary>Abstract</summary> Many are skeptical of the appeal of authoritarian political systems. We argue that global audiences will embrace authoritarian models when they believe that autocracies can meet governance challenges better than democracies. We collect comprehensive data on the external messaging of the Chinese and American governments. We then conduct a randomized experiment in 19 countries across 6 continents exposing global citizens to real messages from the Chinese and American governments’ external media arms. We find that exposure to a representative set of Chinese messages strengthens perceptions that the Chinese Communist Party delivers growth, stability, and competent leadership. It also moves the average respondent from slightly preferring the American model to slightly preferring the Chinese model. In head-to-head matchups, messages from the U.S. government are less persuasive. Our findings show how autocracies build global support by selling growth and competence, with important implications for democratic resilience.</details>  
   <details><summary>Coverage</summary> 
@@ -188,17 +199,6 @@ My published research and current working papers are listed below. You can click
 <td><a href="https://www.lipscy.org">Phillip Lipscy</a>, <a href="https://www.kenjikushida.org">Kenji Kushida</a></td>
 <td markdown="span"> 2013 </td>
 <td markdown="span"> Political Economy; Business & Politics; Japan; Energy </td>
-</tr>
-
-<tr>
-<td>
- <a href="https://tincerti.github.io/files/who_benefits.pdf">How firms, bureaucrats, and ministries benefit from the revolving door: Evidence from Japan</a>  
-  <details><summary>Abstract</summary> A growing literature finds high returns to firms with legislative connections. Less attention has been paid to returns from bureaucratic connections and to organizations beyond for-profit firms. Using data recording the first post-bureaucracy position occupied by all former civil servants in Japan, I reveal a bifurcated job market for former bureaucrats. High-ranking officials from elite economic ministries are more likely to join for-profit firms, where they generate returns such as increased government loans and positive stock market reactions. Lower-ranking officials are more likely to join nonprofits linked to government ministries, which receive higher-value contracts when former bureaucrats are in leadership roles. These patterns suggest that while firms wish to hire bureaucrats who can deliver tangible benefits, ministries also shape revolving door pathways by directing benefits to ensure long-term career value for civil servants. These findings reframe revolving door dynamics as the result of both firm-driven demand and bureaucratic incentives.</details>  
-</td>
-<td markdown="span">Revise & resubmit, *American Political Science Review*</td>
-<td> </td>
-<td markdown="span">  </td>
-<td markdown="span"> Political Economy; Business & Politics; Japan</td>
 </tr>
 
 <tr>
