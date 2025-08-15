@@ -244,12 +244,10 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 <td markdown="span">  </td>
 <td markdown="span"> Political Economy; China; Japan</td>
 </tr>
-</tbody>
-</table>
 
 <tr>
 <td>
-Foreign influencer operations: How TikTok shapes American perceptions of China (<a href="foreign_influencers_pap_8.2025.pdf">Pre-analysis plan</a>)
+Foreign influencer operations: How TikTok shapes American perceptions of China (<a href="https://www.trevorincerti.com/files/foreign_influencers_pap_8.2025.pdf">Pre-analysis plan</a>)
 </td>
 <td markdown="span">Working paper </td>
 <td> <a href="https://jonathan-elkobi.github.io/homepage/"> Jonathan Elkobi</a>, <a href="https://daniel-mattingly.com"> Daniel Mattingly</a> </td>
