@@ -236,6 +236,17 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
+Foreign influencer operations: How TikTok shapes American perceptions of China (<a href="https://www.trevorincerti.com/files/foreign_influencers_pap_8.2025.pdf">Pre-analysis plan</a>)
+  <details><summary>Abstract</summary>Authoritarian regimes regularly disseminate messaging designed to strengthen support for nondemocratic political systems. Increasingly, pro-state narratives are disseminated by social media influencers rather than traditional media. To gain understanding of the extent of this phenomenon and the persuasive capabilities of these "foreign influencers," we collect comprehensive data on pro-China influencers on TikTok. We show that pro-China influencers have more engagement than state media and estimate that many influencers generate large personal financial returns. We then create a realistic, fully functional version of the TikTok app and conduct a randomized experiment in which over 8500 Americans view a random sample of actual TikTok content over 150,000 times. We show that pro-China foreign influencers are strikingly effective at increasing favorability toward China, while traditional state media causes backlash. The findings highlight the importance of influencers in shaping global public opinion.</details>  
+</td>
+<td markdown="span">Working paper </td>
+<td> <a href="https://jonathan-elkobi.github.io/homepage/"> Jonathan Elkobi</a>, <a href="https://daniel-mattingly.com"> Daniel Mattingly</a> </td>
+<td markdown="span">  </td>
+<td markdown="span"> Experiments; Political Economy; Money in politics; China; United States </td>
+</tr>
+
+<tr>
+<td>
 How Domestic Politics Shapes International Soft Power Promotion: Evidence From East Asia (contact for draft)
   <details><summary>Abstract</summary> In recent years, established democracies and ascendant autocracies have competed for the hearts and minds of citizens across the globe. In this article, we develop a novel theory of soft power effectiveness centered on the relations between soft power senders and receivers. We argue that when relations with soft power senders remain depoliticized in receivers’ domestic politics, soft power promotion fares well. When the relations are politicized, however, it risks backfiring. To test our theory, we conduct a multi-country experiment in East Asia that examines the effect of real-world Chinese and Japanese soft power promotion efforts. The experimental results lend credence to our theory. Where relations are depoliticized, soft power promotion efforts strengthen support for bilateral cooperation, and where relations are politicized, the same soft power treatments cause backlash. Our findings highlight that autocracies can effectively project soft power insofar as they retain good ties with their soft power recipients.</details>  
 </td>
@@ -245,15 +256,6 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 <td markdown="span"> Political Economy; China; Japan</td>
 </tr>
 
-<tr>
-<td>
-Foreign influencer operations: How TikTok shapes American perceptions of China (<a href="https://www.trevorincerti.com/files/foreign_influencers_pap_8.2025.pdf">Pre-analysis plan</a>)
-</td>
-<td markdown="span">Working paper </td>
-<td> <a href="https://jonathan-elkobi.github.io/homepage/"> Jonathan Elkobi</a>, <a href="https://daniel-mattingly.com"> Daniel Mattingly</a> </td>
-<td markdown="span">  </td>
-<td markdown="span"> Experiments; Political Economy; Money in politics; China; United States </td>
-</tr>
 </tbody>
 </table>
 
