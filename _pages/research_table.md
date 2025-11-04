@@ -259,12 +259,27 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 </tbody>
 </table>
 
-<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css" />
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<link rel="stylesheet" href="https://cdn.datatables.net/1.13.6/css/jquery.dataTables.min.css">
+<script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
 <script src="https://cdn.datatables.net/1.13.6/js/jquery.dataTables.min.js"></script>
 
+<style>
+.dataTables_wrapper {
+  margin-top: 1em;
+  font-size: 0.9em;
+}
+.dataTables_filter {
+  float: right !important;
+  text-align: right !important;
+}
+.dataTables_length, .dataTables_info, .dataTables_paginate {
+  font-size: 0.9em;
+}
+</style>
+
+{% raw %}
 <script>
-document.addEventListener("DOMContentLoaded", function() {
+$(document).ready(function() {
   $('#myTable').DataTable({
     "pageLength": 25,
     "order": [[3, "desc"]],
@@ -274,6 +289,7 @@ document.addEventListener("DOMContentLoaded", function() {
   });
 });
 </script>
+{% endraw %}
       
 <br>
 
