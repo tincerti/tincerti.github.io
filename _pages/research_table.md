@@ -286,17 +286,21 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 {% raw %}
 <script>
 document.addEventListener("DOMContentLoaded", function () {
-  if (window.jQuery && $.fn.DataTable) {
-    console.log("✅ DataTables initialized on Markdown page!");
-    $("#myTable").DataTable({
-      pageLength: 25,
-      order: [[3, "desc"]],
-      columnDefs: [{ orderable: false, targets: [0, 2, 4] }],
-    });
+  // Dynamically load DataTables only after jQuery is ready
+  if (window.jQuery) {
+    var script = document.createElement("script");
+    script.src = "https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js";
+    script.onload = function () {
+      console.log("✅ DataTables script loaded dynamically");
+      $("#myTable").DataTable({
+        pageLength: 25,
+        order: [[3, "desc"]],
+        columnDefs: [{ orderable: false, targets: [0, 2, 4] }],
+      });
+    };
+    document.head.appendChild(script);
   } else {
-    console.error("❌ DataTables not found!");
-    console.log("jQuery loaded?", !!window.jQuery);
-    console.log("DataTable plugin?", !!$.fn.DataTable);
+    console.error("❌ jQuery not found at load time!");
   }
 });
 </script>
