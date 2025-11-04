@@ -36,6 +36,7 @@ My published research and current working papers are listed below. You can click
 }
 </style>
 
+{::nomarkdown}
 <table id="myTable">
 <colgroup>
 <col width="45%" />
@@ -257,6 +258,7 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 
 </tbody>
 </table>
+{:/nomarkdown}
 
 <!-- ✅ DataTables setup -->
 <link
