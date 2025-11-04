@@ -259,55 +259,7 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 </tbody>
 </table>
 
-<!-- Load DataTables styles -->
-<link
-  rel="stylesheet"
-  href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css"
-/>
-
-<!-- Load jQuery first -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-
-<!-- Then load DataTables  -->
-<script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
-
-<!-- Optional styling fixes -->
-<style>
-.dataTables_wrapper {
-  margin-top: 1em;
-  font-size: 0.9em;
-}
-.dataTables_filter {
-  float: right !important;
-  text-align: right !important;
-}
-.dataTables_length,
-.dataTables_info,
-.dataTables_paginate {
-  font-size: 0.9em;
-}
-</style>
-
-<!-- Initialize table (wrapped in raw to protect $() from Jekyll) -->
-{% raw %}
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  if (window.jQuery && $.fn.DataTable) {
-    console.log("✅ jQuery and DataTables loaded!");
-    $("#myTable").DataTable({
-      pageLength: 25,
-      order: [[3, "desc"]],
-      columnDefs: [{ orderable: false, targets: [0, 2, 4] }],
-    });
-  } else {
-    console.error("❌ DataTables not found!");
-    console.log("jQuery loaded?", !!window.jQuery);
-    console.log("DataTable plugin?", !!$.fn.DataTable);
-  }
-});
-</script>
-{% endraw %}
-
+{% include datatables.html %}
       
 <br>
 
