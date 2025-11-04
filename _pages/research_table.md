@@ -36,7 +36,6 @@ My published research and current working papers are listed below. You can click
 }
 </style>
 
-{::nomarkdown}
 <table id="myTable">
 <colgroup>
 <col width="45%" />
@@ -258,54 +257,6 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 
 </tbody>
 </table>
-{:/nomarkdown}
-
-<!-- ✅ DataTables setup -->
-<link
-  rel="stylesheet"
-  href="https://cdn.datatables.net/1.13.8/css/jquery.dataTables.min.css"
-/>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
-<script src="https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js"></script>
-
-<style>
-.dataTables_wrapper {
-  margin-top: 1em;
-  font-size: 0.9em;
-}
-.dataTables_filter {
-  float: right !important;
-  text-align: right !important;
-}
-.dataTables_length,
-.dataTables_info,
-.dataTables_paginate {
-  font-size: 0.9em;
-}
-</style>
-
-<script>
-document.addEventListener("DOMContentLoaded", function () {
-  if (window.jQuery) {
-    // Load DataTables dynamically
-    var dtScript = document.createElement("script");
-    dtScript.src = "https://cdn.datatables.net/1.13.8/js/jquery.dataTables.min.js";
-    dtScript.onload = function () {
-      console.log("✅ DataTables loaded dynamically");
-      // Initialize the table
-      $("#myTable").DataTable({
-        pageLength: 25,
-        order: [[3, "desc"]],
-        columnDefs: [{ orderable: false, targets: [0, 2, 4] }]
-      });
-    };
-    document.head.appendChild(dtScript);
-  } else {
-    console.error("❌ jQuery not loaded!");
-  }
-});
-</script>
-
       
 <br>
 
