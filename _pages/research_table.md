@@ -57,7 +57,7 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
- <a href="https://arxiv.org/pdf/2509.22173">How firms, bureaucrats, and ministries benefit from the revolving door: Evidence from Japan</a>  
+ <a href="https://www.cambridge.org/core/services/aop-cambridge-core/content/view/422AAFA06AA7E957413C594518449DC7/S0003055425101263a.pdf/how-firms-bureaucrats-and-ministries-benefit-from-the-revolving-door-evidence-from-japan.pdf">How firms, bureaucrats, and ministries benefit from the revolving door: Evidence from Japan</a>  
   <details><summary>Abstract</summary> A growing literature finds high returns to firms with legislative connections. Less attention has been paid to returns from bureaucratic connections and to organizations beyond for-profit firms. Using data recording the first post-bureaucracy position occupied by all former civil servants in Japan, I reveal a bifurcated job market for former bureaucrats. High-ranking officials from elite economic ministries are more likely to join for-profit firms, where they generate returns such as increased government loans and positive stock market reactions. Lower-ranking officials are more likely to join nonprofits linked to government ministries, which receive higher-value contracts when former bureaucrats are in leadership roles. These patterns suggest that while firms wish to hire bureaucrats who can deliver tangible benefits, ministries also shape revolving door pathways by directing benefits to ensure long-term career value for civil servants. These findings reframe revolving door dynamics as the result of both firm-driven demand and bureaucratic incentives.</details>  
 </td>
 <td markdown="span">*American Political Science Review*</td>
