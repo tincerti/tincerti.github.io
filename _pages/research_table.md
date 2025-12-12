@@ -227,6 +227,18 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
+<a href = "https://tincerti.github.io/files/foreign_influencers.pdf">Foreign influencer operations: How TikTok shapes American perceptions of China</a>
+ (<a href="https://www.trevorincerti.com/files/foreign_influencers_pap_8.2025.pdf">Pre-analysis plan</a>)
+  <details><summary>Abstract</summary>Authoritarian regimes regularly disseminate messaging designed to strengthen support for nondemocratic political systems. Increasingly, pro-state narratives are disseminated by social media influencers rather than traditional media. To gain understanding of the extent of this phenomenon and the persuasive capabilities of these "foreign influencers," we collect comprehensive data on pro-China influencers on TikTok. We show that pro-China influencers have more engagement than state media and estimate that many influencers generate large personal financial returns. We then create a realistic, fully functional version of the TikTok app and conduct a randomized experiment in which over 8500 Americans view a random sample of actual TikTok content over 150,000 times. We show that pro-China foreign influencers are strikingly effective at increasing favorability toward China, while traditional state media causes backlash. The findings highlight the importance of influencers in shaping global public opinion.</details>  
+</td>
+<td markdown="span">Working paper </td>
+<td> <a href="https://jonathan-elkobi.github.io/homepage/"> Jonathan Elkobi</a>, <a href="https://daniel-mattingly.com"> Daniel Mattingly</a> </td>
+<td markdown="span">  </td>
+<td markdown="span"> Experiments; Political Economy; Money in politics; China; United States </td>
+</tr>
+
+<tr>
+<td>
 <a href="https://osf.io/preprints/socarxiv/gbfvj">Workers are willing to trade wages for better harassment reporting procedures</a>  
   <details><summary>Abstract</summary> Sexual harassment remains prevalent in the workplace. Yet despite abundant research on its prevalence, we know little about worker demand for systems to report and/or mitigate harassment. We present results from a conjoint experimental study of a large-scale sample of the Japanese public, in which we estimate how much salary and benefits workers are willing to trade for best-in-practice harassment protections. We find that women are 6 percentage points more likely to prefer firms with anonymous, third-party harassment reporting systems compared to other firms, and they also negatively value workplaces with no sexual harassment reporting mechanism equivalently to a workplace with a 20% lower wage.  Men also negatively value poor sexual harassment reporting mechanisms, but they are more willing to trade wages for better workplace bullying (``power harassment'') reporting systems. These findings suggest that workers are willing to pay for harassment reporting systems, and that companies may better attract talent by adopting these reporting schemes.</details>  
 </td>
@@ -234,17 +246,6 @@ My published research and current working papers are listed below. You can click
 <td> <a href="https://charlescrabtree.org">Charles Crabtree</a>, <a href="https://www.u-tokyo.ac.jp/focus/en/people/people003656.html">Rieko Kage</a>, <a href="https://politicalscience.yale.edu/people/frances-mccall-rosenbluth">Frances Rosenbluth</a>, <a href="https://www.seikitanaka.com"> Seiki Tanaka</a>, <a href="https://hikaruyamagishi.com"> Hikaru Yamagishi</a></td>
 <td markdown="span">  </td>
 <td markdown="span"> Business & Politics; Japan</td>
-</tr>
-
-<tr>
-<td>
-Foreign influencer operations: How TikTok shapes American perceptions of China (<a href="https://www.trevorincerti.com/files/foreign_influencers_pap_8.2025.pdf">Pre-analysis plan</a>)
-  <details><summary>Abstract</summary>Authoritarian regimes regularly disseminate messaging designed to strengthen support for nondemocratic political systems. Increasingly, pro-state narratives are disseminated by social media influencers rather than traditional media. To gain understanding of the extent of this phenomenon and the persuasive capabilities of these "foreign influencers," we collect comprehensive data on pro-China influencers on TikTok. We show that pro-China influencers have more engagement than state media and estimate that many influencers generate large personal financial returns. We then create a realistic, fully functional version of the TikTok app and conduct a randomized experiment in which over 8500 Americans view a random sample of actual TikTok content over 150,000 times. We show that pro-China foreign influencers are strikingly effective at increasing favorability toward China, while traditional state media causes backlash. The findings highlight the importance of influencers in shaping global public opinion.</details>  
-</td>
-<td markdown="span">Working paper </td>
-<td> <a href="https://jonathan-elkobi.github.io/homepage/"> Jonathan Elkobi</a>, <a href="https://daniel-mattingly.com"> Daniel Mattingly</a> </td>
-<td markdown="span">  </td>
-<td markdown="span"> Experiments; Political Economy; Money in politics; China; United States </td>
 </tr>
 
 <tr>
