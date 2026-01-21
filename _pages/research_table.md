@@ -227,6 +227,17 @@ My published research and current working papers are listed below. You can click
 
 <tr>
 <td>
+<a href = "https://oxfordtax.web.ox.ac.uk/sitefiles/wp26-01-raphaelle-soffe.pdf">Corporate responses to the threat of public shaming: Evidence from the European Union</a>
+<details><summary>Abstract</summary> Offshore wealth is estimated to equal 10% of global GDP. To reclaim these funds for domestic taxation, policymakers have adopted tax transparency reforms to pressure corporations engaged in tax avoidance. We analyze the impact of the EU’s Directive on Public Country-by-Country Reporting, which mandates that large multinational corporations disclose corporate tax payment data starting in 2026. Employing difference in differences designs, we find evidence that reputation-sensitive (ie., higher media scrutiny, ESG scores) firms headquartered in the EU are increasing their effective tax rates in anticipation of the public reveal of their data. In contrast, we find that corporations exempt from the Directive, specifically banks, are decreasing their tax rates by more than 8 percentage points. We observe weaker effects for consumer-facing banks, suggesting that banks continue to hedge against the risk of public shaming. Collectively, our results imply that tax transparency initiatives can have both intended and unintended consequences.</details>  
+</td>
+<td markdown="span">*Oxford Said Business School Center for Business Taxation Working Paper 2026-01*.</td>
+<td> <a href="https://politicalscience.yale.edu/people/raphaelle-soffe">Raphaëlle Soffe</a> </td>
+<td markdown="span">  </td>
+<td markdown="span"> Political Economy; Business & Politics</td>
+</tr>
+
+<tr>
+<td>
 <a href = "https://arxiv.org/pdf/2601.14118">Foreign influencer operations: How TikTok shapes American perceptions of China</a>
  (<a href="https://www.trevorincerti.com/files/foreign_influencers_pap_8.2025.pdf">Pre-analysis plan</a>)
   <details><summary>Abstract</summary>How do authoritarian regimes strengthen global support for nondemocratic political systems? Roughly half of the users of the social media platform TikTok report getting news from social media influencers. Against this backdrop, authoritarian regimes have increasingly outsourced content creation to these influencers. To gain understanding of the extent of this phenomenon and the persuasive capabilities of these influencers, we collect comprehensive data on pro-China influencers on TikTok. We show that pro-China influencers have more engagement than state media. We then create a realistic clone of the TikTok app, and conduct a randomized experiment in which over 8,500 Americans are recruited to use this app and view a random sample of actual TikTok content. We show that pro-China foreign influencers are strikingly effective at increasing favorability toward China, while traditional Chinese state media causes backlash. The findings highlight the importance of influencers in shaping global public opinion.</details>  
