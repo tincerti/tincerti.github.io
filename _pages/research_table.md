@@ -270,6 +270,16 @@ How Domestic Politics Shapes International Soft Power Promotion: Evidence From E
 <td markdown="span"> Political Economy; China; Japan</td>
 </tr>
 
+<tr>
+<td>
+Is online microtargeting increasing financial support for extreme candidates?  (<a href="https://www.trevorincerti.com/files/pap_microtargeting_2condition.pdf">Pre-analysis plan</a>)
+</td>
+<td markdown="span">Working paper </td>
+<td>  <a href="https://www.uva.nl/en/profile/d/o/t.dobber/t.dobber.html"> Tom Dobber</a> </td>
+<td markdown="span">  </td>
+<td markdown="span"> Political Economy; Money in politics; United States</td>
+</tr>
+
 </tbody>
 </table>
       
