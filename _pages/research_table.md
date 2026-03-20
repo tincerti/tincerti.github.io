@@ -242,7 +242,7 @@ My published research and current working papers are listed below. You can click
  (<a href="https://www.trevorincerti.com/files/foreign_influencers_pap_8.2025.pdf">Pre-analysis plan</a>)
   <details><summary>Abstract</summary>How do authoritarian regimes strengthen global support for nondemocratic political systems? Roughly half of the users of the social media platform TikTok report getting news from social media influencers. Against this backdrop, authoritarian regimes have increasingly outsourced content creation to these influencers. To gain understanding of the extent of this phenomenon and the persuasive capabilities of these influencers, we collect comprehensive data on pro-China influencers on TikTok. We show that pro-China influencers have more engagement than state media. We then create a realistic clone of the TikTok app, and conduct a randomized experiment in which over 8,500 Americans are recruited to use this app and view a random sample of actual TikTok content. We show that pro-China foreign influencers are strikingly effective at increasing favorability toward China, while traditional Chinese state media causes backlash. The findings highlight the importance of influencers in shaping global public opinion.</details>  
 </td>
-<td markdown="span">Working paper </td>
+<td markdown="span">Working paper (*under review*)</td>
 <td> <a href="https://jonathan-elkobi.github.io/homepage/"> Jonathan Elkobi</a>, <a href="https://daniel-mattingly.com"> Daniel Mattingly</a> </td>
 <td markdown="span">  </td>
 <td markdown="span"> Experiments; Political Economy; Money in politics; China; United States </td>
