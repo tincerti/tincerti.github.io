@@ -23,12 +23,14 @@ redirect_from:
 
 Welcome! I am an Assistant Professor of Political Economy at the University of Amsterdam. 
 
-My primary area of research is in comparative political economy, with a focus on the role of money in politics and business influence in politics. Additionally, I explore how economic stimuli shape political behavior and preferences. Much of my work focuses on East Asia, particularly Japan. I also conduct research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research is published in the *American Journal of Political Science*, *American Political Science Review*, *British Journal of Political Science*, *Journal of Politics*, and *Political Analysis*, among other outlets. It has received coverage by media such as *The Economist*, *Het Financieele Dagblad*, *The New Yorker*, and *The Washington Post*. 
+I study money in politics. My research examines how business interests and economic incentives shape political behavior, policy choices, and public economic outcomes. Much of my work focuses on East Asia, particularly Japan. My research is published in the *American Journal of Political Science*, *American Political Science Review*, *British Journal of Political Science*, *Journal of Politics*, and *Political Analysis*, among other outlets. It has received coverage by media such as *The Economist*, *Het Financieele Dagblad*, *The New Yorker*, and *The Washington Post*. 
 
 I am also an Expert at the Leiden Asia Centre, and previously held positions as Visiting Assistant Professor of Japanese Politics at Georgetown University, and as a Postdoctoral Fellow at the Harvard University Weatherhead Center for International Affairs Program on U.S.-Japan Relations. I received my Ph.D. from Yale University and B.A. from UC Berkeley. Before graduate school, I worked as a Data Scientist and in economic consulting. 
 
 
 {% comment %}
+
+My primary area of research is in comparative political economy, with a focus on the role of money in politics and business influence in politics. Additionally, I explore how economic stimuli shape political behavior and preferences. Much of my work focuses on East Asia, particularly Japan. I also conduct research in quantitative methods, where I am particularly interested in the reliability and validity of measurement strategies. My research is published in the *American Journal of Political Science*, *American Political Science Review*, *British Journal of Political Science*, *Journal of Politics*, and *Political Analysis*, among other outlets. It has received coverage by media such as *The Economist*, *Het Financieele Dagblad*, *The New Yorker*, and *The Washington Post*. 
   
  Welcome to my website! I am a Postdoctoral Fellow at the Harvard University Weatherhead Center for International Affairs, where I am an affiliate of the [Program on U.S.-Japan Relations](https://programs.wcfia.harvard.edu/us-japan) and the [Research Cluster on Business & Government](https://projects.iq.harvard.edu/wrc22-business-and-government).
 
