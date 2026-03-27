@@ -2,7 +2,7 @@
 layout: splash
 header:
   overlay_image: https://www.trevorincerti.com/images/amsterdam_kanazawa.jpeg
-  overlay_filter: 0.25
+  overlay_filter: 0.3
 search: true
 excerpt: |
   <br>
