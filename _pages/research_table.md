@@ -62,7 +62,7 @@ My published research and current working papers are listed below. You can click
 </td>
 <td markdown="span">*American Political Science Review*</td>
 <td> </td>
-<td markdown="span"> Forthcoming</td>
+<td markdown="span"> 2026</td>
 <td markdown="span"> Political Economy; Business & Politics; Japan</td>
 </tr>
 
