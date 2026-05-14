@@ -8,7 +8,7 @@ html { scroll-behavior: smooth; }
 
 body {
   font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
-  font-size: 15.5px;
+  font-size: 14px;
   line-height: 1.7;
   color: #1c1c1e;
   background: #ffffff;
@@ -83,7 +83,7 @@ nav a.active {
 /* ── Hero ─────────────────────────────────────────────────────── */
 .hero {
   position: relative;
-  height: 210px;
+  height: 340px;
   overflow: hidden;
 }
 
@@ -259,7 +259,7 @@ nav a.active {
   line-height: 1.7;
 }
 
-.about-intro p { font-size: 15.5px; }
+.about-intro p { font-size: 14px; }
 
 /* ── Table search bar ─────────────────────────────────────────── */
 .table-search {
