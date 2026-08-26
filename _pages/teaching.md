@@ -11,9 +11,9 @@ I teach courses in political economy, comparative politics, quantitative researc
 
 **University of Amsterdam** (Instructor of Record)
 
-- [*Political Economy of East Asia*](https://www.trevorincerti.com/teaching/political_economy_of_east_asia.html) (MA seminar)
-
 - [*Introduction to Political Economy*](https://www.trevorincerti.com/teaching/political_economy.html) (BA lecture)
+
+- [*Political Economy of East Asia*](https://www.trevorincerti.com/teaching/political_economy_of_east_asia.html) (MA seminar)
 
 - [*The Internet and Politics*](https://coursecatalogue.uva.nl/xmlpages/page/2024-2025-en/search-course/course/116602) (BA lecture)
 
