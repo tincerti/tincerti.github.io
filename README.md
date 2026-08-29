@@ -1,4 +1,4 @@
-# Trevor Incerti – Personal Website
+# Personal Website
 
 Source code for my personal academic website: https://www.trevorincerti.com.
 
