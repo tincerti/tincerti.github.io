@@ -58,7 +58,7 @@ const locations = [
   { name: "University of Tokyo",                               lat: 35.711326,  lng: 139.761965 },
   { name: "Yale University",                                   lat: 41.316494,  lng: -72.922021 },
   { name: "Harvard University",                                lat: 42.375804,  lng: -71.112731 },
-  { name: "Harvard Kennedy School",                            lat: 42.371422,  lng: -71.121409 },
+  { name: "Harvard Kennedy School",                            lat: 42.330000,  lng: -71.165000 },
   { name: "Ghent University",                                  lat: 51.046813,  lng: 3.727652 },
   { name: "University of Toronto",                             lat: 43.662113,  lng: -79.392097 },
   { name: "UC Berkeley",                                       lat: 37.871570,  lng: -122.254497 },
@@ -74,7 +74,8 @@ const locations = [
   { name: "Oxford University",                                 lat: 51.763555,  lng: -1.261799 },
   { name: "New York University",                               lat: 40.729323,  lng: -73.994833 },
   { name: "London School of Economics and Political Science",  lat: 51.515364,  lng: -0.117989 },
-  { name: "University of California, Santa Barbara",           lat: 34.414149,  lng: -119.848561 }
+  { name: "University of California, Santa Barbara",           lat: 34.414149,  lng: -119.848561 },
+  { name: "King's College London",                             lat: 51.475000,  lng: -0.060000 }
 ];
 
 // Generate a plain-colour ocean texture via canvas
@@ -97,22 +98,22 @@ const globe = Globe({ animateIn: true })(container)
   .atmosphereAltitude(0.12)
   .globeImageUrl(makeOceanTexture('#c8dff2'))
   .showGraticules(true)
-  // Dots
-  .pointsData(locations)
-  .pointLat('lat')
-  .pointLng('lng')
-  .pointAltitude(0.02)
-  .pointRadius(0.25)
-  .pointColor(() => '#2563eb')
-  .pointResolution(16)
-  .pointLabel(() => '')
-  .onPointHover(point => {
-    if (point) {
-      tooltip.textContent = point.name;
+  // Rings
+  .htmlElementsData(locations)
+  .htmlLat('lat')
+  .htmlLng('lng')
+  .htmlAltitude(0.02)
+  .htmlElement(d => {
+    const el = document.createElement('div');
+    el.style.cssText = 'width:8px;height:8px;border-radius:50%;border:1.5px solid rgba(37,99,235,0.85);background:transparent;cursor:pointer;box-sizing:border-box;pointer-events:auto;';
+    el.addEventListener('mouseover', () => {
+      tooltip.textContent = d.name;
       tooltip.classList.add('visible');
-    } else {
+    });
+    el.addEventListener('mouseout', () => {
       tooltip.classList.remove('visible');
-    }
+    });
+    return el;
   });
 
 // Land data inlined — no fetch needed (works with file:// too)
@@ -127,13 +128,18 @@ globe
 globe.controls().autoRotate      = true;
 globe.controls().autoRotateSpeed = 0.08;
 globe.controls().enableDamping   = true;
+
+globe.controls().addEventListener('change', () => {
+  const alt = globe.pointOfView().altitude;
+  globe.controls().autoRotateSpeed = 0.08 * (alt / 2.2);
+});
 globe.pointOfView({ lat: 30, lng: -15, altitude: 2.2 }, 0);
 
 window.addEventListener('resize', () => {
   globe.width(container.clientWidth).height(container.clientHeight);
 });
 
-container.addEventListener('mousemove', e => {
+document.addEventListener('mousemove', e => {
   tooltip.style.left = (e.clientX + 14) + 'px';
   tooltip.style.top  = (e.clientY - 10) + 'px';
 });
