@@ -309,6 +309,11 @@ nav a.active {
 .paper-table col.col-authors { width: 23%; }
 .paper-table col.col-year    { width: 6%; }
 
+/* Publications: wider journal column, narrower coauthors */
+#pub-table col.col-title   { width: 49%; }
+#pub-table col.col-journal { width: 26%; }
+#pub-table col.col-authors { width: 19%; }
+
 .paper-table thead th {
   text-align: left;
   padding: 9px 12px;
