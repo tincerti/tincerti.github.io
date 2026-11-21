@@ -304,11 +304,10 @@ nav a.active {
   margin-top: 4px;
 }
 
-.paper-table col.col-title   { width: 46%; }
+.paper-table col.col-title   { width: 50%; }
 .paper-table col.col-journal { width: 21%; }
-.paper-table col.col-authors { width: 20%; }
-.paper-table col.col-year    { width: 5%; }
-.paper-table col.col-topics  { width: 8%; }
+.paper-table col.col-authors { width: 23%; }
+.paper-table col.col-year    { width: 6%; }
 
 .paper-table thead th {
   text-align: left;
@@ -450,36 +449,7 @@ nav a.active {
 
 .journal-name { font-style: italic; color: #3a3a3c; font-size: 12.5px; }
 .year-cell    { white-space: nowrap; color: #6e6e73; font-size: 12.5px; font-weight: 500; }
-.topics-cell  { font-size: 11.5px; color: #8e8e93; line-height: 1.55; }
 .status-cell  { font-style: italic; color: #6e6e73; font-size: 12.5px; }
-
-/* ── Topic pills (in table cells) ────────────────────────────── */
-.topic-tag {
-  display: inline-block;
-  padding: 1px 7px;
-  margin: 2px 2px 2px 0;
-  font-size: 11px;
-  color: #6e6e73;
-  background: #f0f0f5;
-  border: 1px solid #e0e0e8;
-  border-radius: 20px;
-  cursor: pointer;
-  user-select: none;
-  transition: background 0.12s, color 0.12s, border-color 0.12s;
-  white-space: nowrap;
-}
-
-.topic-tag:hover {
-  background: #e5e5ea;
-  color: #1c1c1e;
-  border-color: #b0b0b8;
-}
-
-.topic-tag.active {
-  background: #e8eeff;
-  border-color: #93a8f4;
-  color: #2563eb;
-}
 
 /* ── Topic filter bar ─────────────────────────────────────────── */
 .topic-filter-bar {
@@ -487,7 +457,7 @@ nav a.active {
   flex-wrap: wrap;
   align-items: center;
   gap: 6px;
-  margin-bottom: 14px;
+  margin-bottom: 8px;
 }
 
 .topic-filter-label {
@@ -665,9 +635,7 @@ footer {
 
   .main-content h1 { font-size: 19px; }
 
-  .paper-table col.col-topics,
   .paper-table col.col-year { width: 0; }
-  .topics-cell, .year-cell,
-  .paper-table thead th:nth-child(4),
-  .paper-table thead th:nth-child(5) { display: none; }
+  .year-cell,
+  .paper-table thead th:nth-child(4) { display: none; }
 }

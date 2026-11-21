@@ -8,7 +8,6 @@ function initResearchTable(tableId, searchId) {
 
   let sortCol = -1;
   let sortDir = 1;
-  let activeTopic = null;
 
   // ── Sort ────────────────────────────────────────────────────────
   headers.forEach((th, i) => {
@@ -26,65 +25,58 @@ function initResearchTable(tableId, searchId) {
     });
   });
 
-  // ── Parse topics cells into clickable pill spans ─────────────────
-  const topicSet = new Set();
+  // ── Filter bars (topic + region), read from <tr data-*> ──────────
+  const rows = Array.from(tbody.rows);
+  const parse = (row, key) =>
+    (row.dataset[key] || '').split('|').map(t => t.trim()).filter(Boolean);
 
-  Array.from(tbody.rows).forEach(row => {
-    const cell = row.querySelector('.topics-cell');
-    if (!cell) return;
-    const topics = cell.textContent.split(';').map(t => t.trim()).filter(Boolean);
-    topics.forEach(t => topicSet.add(t));
-    cell.innerHTML = topics.map(t =>
-      `<span class="topic-tag" data-topic="${t}">${t}</span>`
-    ).join('');
-  });
+  const active = { topics: null, regions: null };
 
-  // ── Topic filter bar ─────────────────────────────────────────────
-  const filterBar = document.createElement('div');
-  filterBar.className = 'topic-filter-bar';
-  filterBar.innerHTML =
-    '<span class="topic-filter-label">Filter by topic:</span>' +
-    Array.from(topicSet).sort().map(t =>
-      `<button class="topic-filter-btn" data-topic="${t}">${t}</button>`
-    ).join('');
-  searchInput.insertAdjacentElement('afterend', filterBar);
-
-  // ── Topic click handlers ─────────────────────────────────────────
-  filterBar.addEventListener('click', e => {
-    const btn = e.target.closest('.topic-filter-btn');
-    if (btn) toggleTopic(btn.dataset.topic);
-  });
-
-  tbody.addEventListener('click', e => {
-    const tag = e.target.closest('.topic-tag');
-    if (tag) toggleTopic(tag.dataset.topic);
-  });
-
-  function toggleTopic(topic) {
-    activeTopic = activeTopic === topic ? null : topic;
-    filterBar.querySelectorAll('.topic-filter-btn').forEach(btn =>
-      btn.classList.toggle('active', btn.dataset.topic === activeTopic)
-    );
-    tbody.querySelectorAll('.topic-tag').forEach(tag =>
-      tag.classList.toggle('active', tag.dataset.topic === activeTopic)
-    );
-    filterRows();
+  function buildBar(key, label) {
+    const values = new Set();
+    rows.forEach(r => parse(r, key).forEach(v => values.add(v)));
+    if (!values.size) return null;
+    const bar = document.createElement('div');
+    bar.className = 'topic-filter-bar';
+    bar.innerHTML =
+      `<span class="topic-filter-label">${label}</span>` +
+      Array.from(values).sort().map(v =>
+        `<button class="topic-filter-btn" data-value="${v}">${v}</button>`
+      ).join('');
+    bar.addEventListener('click', e => {
+      const btn = e.target.closest('.topic-filter-btn');
+      if (!btn) return;
+      active[key] = active[key] === btn.dataset.value ? null : btn.dataset.value;
+      bar.querySelectorAll('.topic-filter-btn').forEach(b =>
+        b.classList.toggle('active', b.dataset.value === active[key])
+      );
+      filterRows();
+    });
+    return bar;
   }
 
-  // ── Search ───────────────────────────────────────────────────────
+  const topicBar = buildBar('topics', 'Filter by topic:');
+  const regionBar = buildBar('regions', 'Filter by region:');
+  let anchor = searchInput;
+  [topicBar, regionBar].forEach(bar => {
+    if (!bar) return;
+    anchor.insertAdjacentElement('afterend', bar);
+    anchor = bar;
+  });
+
+  // ── Search + filter ──────────────────────────────────────────────
   searchInput.addEventListener('input', filterRows);
 
-  function rowMatchesTopic(row) {
-    if (!activeTopic) return true;
-    return Array.from(row.querySelectorAll('.topic-tag'))
-      .some(tag => tag.dataset.topic === activeTopic);
+  function rowMatches(row, key) {
+    return !active[key] || parse(row, key).includes(active[key]);
   }
 
   function filterRows() {
     const q = searchInput.value.toLowerCase();
     Array.from(tbody.rows).forEach(row => {
       const matchesSearch = !q || row.textContent.toLowerCase().includes(q);
-      row.style.display = matchesSearch && rowMatchesTopic(row) ? '' : 'none';
+      row.style.display =
+        matchesSearch && rowMatches(row, 'topics') && rowMatches(row, 'regions') ? '' : 'none';
     });
   }
 
